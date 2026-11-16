@@ -64,7 +64,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/tourbillon_device.png"
+      "image": "materials/tourbillon_device.png",
+      "nameFr": "« Appareil Tourbillon »",
+      "familyFr": "« Appareil Tourbillon »",
+      "sourceNameFr": "« Appareil Tourbillon »"
     },
     {
       "id": "artificed_spare_clockwork_component_coppelia",
@@ -78,7 +81,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/artificed_spare_clockwork_component_coppelia.png"
+      "image": "materials/artificed_spare_clockwork_component_coppelia.png",
+      "nameFr": "Engrenage artificié de rechange : Coppelia",
+      "familyFr": "Engrenage artificié de rechange : Coppelia",
+      "sourceNameFr": "Engrenage artificié de rechange : Coppelia"
     },
     {
       "id": "artificed_spare_clockwork_component_coppelius",
@@ -92,7 +98,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/artificed_spare_clockwork_component_coppelius.png"
+      "image": "materials/artificed_spare_clockwork_component_coppelius.png",
+      "nameFr": "Engrenage artificié de rechange : Coppelius",
+      "familyFr": "Engrenage artificié de rechange : Coppelius",
+      "sourceNameFr": "Engrenage artificié de rechange : Coppelius"
     },
     {
       "id": "basalt_pillar",
@@ -106,7 +115,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/basalt_pillar.png"
+      "image": "materials/basalt_pillar.png",
+      "nameFr": "Pilier de basalte",
+      "familyFr": "Pilier de basalte",
+      "sourceNameFr": "Pilier de basalte"
     },
     {
       "id": "cleansing_heart",
@@ -120,7 +132,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/cleansing_heart.png"
+      "image": "materials/cleansing_heart.png",
+      "nameFr": "Cœur d'eau pure",
+      "familyFr": "Cœur d'eau pure",
+      "sourceNameFr": "Cœur d'eau pure"
     },
     {
       "id": "cloudseam_scale",
@@ -134,7 +149,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/cloudseam_scale.png"
+      "image": "materials/cloudseam_scale.png",
+      "nameFr": "Écaille nuageuse",
+      "familyFr": "Écaille nuageuse",
+      "sourceNameFr": "Écaille nuageuse"
     },
     {
       "id": "crystalline_bloom",
@@ -148,7 +166,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/crystalline_bloom.png"
+      "image": "materials/crystalline_bloom.png",
+      "nameFr": "Fleur cristalline",
+      "familyFr": "Fleur cristalline",
+      "sourceNameFr": "Fleur cristalline"
     },
     {
       "id": "cyclic_military_kuuvahki_core",
@@ -162,7 +183,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/cyclic_military_kuuvahki_core.png"
+      "image": "materials/cyclic_military_kuuvahki_core.png",
+      "nameFr": "Noyau kuuvahkique militaire de type cyclique",
+      "familyFr": "Noyau kuuvahkique militaire de type cyclique",
+      "sourceNameFr": "Noyau kuuvahkique militaire de type cyclique"
     },
     {
       "id": "dew_of_repudiation",
@@ -176,7 +200,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/dew_of_repudiation.png"
+      "image": "materials/dew_of_repudiation.png",
+      "nameFr": "Rosée du rejet",
+      "familyFr": "Rosée du rejet",
+      "sourceNameFr": "Rosée du rejet"
     },
     {
       "id": "dragonheirs_false_fin",
@@ -190,7 +217,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/dragonheirs_false_fin.png"
+      "image": "materials/dragonheirs_false_fin.png",
+      "nameFr": "Fausse nageoire de l'héritier du dragon",
+      "familyFr": "Fausse nageoire de l'héritier du dragon",
+      "sourceNameFr": "Fausse nageoire de l'héritier du dragon"
     },
     {
       "id": "emperors_resolution",
@@ -204,7 +234,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/emperors_resolution.png"
+      "image": "materials/emperors_resolution.png",
+      "nameFr": "Résolution de l'empereur",
+      "familyFr": "Résolution de l'empereur",
+      "sourceNameFr": "Résolution de l'empereur"
     },
     {
       "id": "ensnaring_gaze",
@@ -218,7 +251,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/ensnaring_gaze.png"
+      "image": "materials/ensnaring_gaze.png",
+      "nameFr": "Regard enchevêtrant",
+      "familyFr": "Regard enchevêtrant",
+      "sourceNameFr": "Regard enchevêtrant"
     },
     {
       "id": "everflame_seed",
@@ -232,7 +268,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/everflame_seed.png"
+      "image": "materials/everflame_seed.png",
+      "nameFr": "Graine de feu",
+      "familyFr": "Graine de feu",
+      "sourceNameFr": "Graine de feu"
     },
     {
       "id": "evergloom_ring",
@@ -246,7 +285,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/evergloom_ring.png"
+      "image": "materials/evergloom_ring.png",
+      "nameFr": "Anneau de sombreur éternelle",
+      "familyFr": "Anneau de sombreur éternelle",
+      "sourceNameFr": "Anneau de sombreur éternelle"
     },
     {
       "id": "fontemer_unihorn",
@@ -260,7 +302,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/fontemer_unihorn.png"
+      "image": "materials/fontemer_unihorn.png",
+      "nameFr": "Corne fontemarine",
+      "familyFr": "Corne fontemarine",
+      "sourceNameFr": "Corne fontemarine"
     },
     {
       "id": "fragment_of_a_golden_melody",
@@ -274,7 +319,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/fragment_of_a_golden_melody.png"
+      "image": "materials/fragment_of_a_golden_melody.png",
+      "nameFr": "Fragment d'une mélodie dorée",
+      "familyFr": "Fragment d'une mélodie dorée",
+      "sourceNameFr": "Fragment d'une mélodie dorée"
     },
     {
       "id": "gold_inscribed_secret_source_core",
@@ -288,7 +336,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/gold_inscribed_secret_source_core.png"
+      "image": "materials/gold_inscribed_secret_source_core.png",
+      "nameFr": "Noyau source aux motifs dorés secrets",
+      "familyFr": "Noyau source aux motifs dorés secrets",
+      "sourceNameFr": "Noyau source aux motifs dorés secrets"
     },
     {
       "id": "hoarfrost_core",
@@ -302,7 +353,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/hoarfrost_core.png"
+      "image": "materials/hoarfrost_core.png",
+      "nameFr": "Duramen de glace",
+      "familyFr": "Duramen de glace",
+      "sourceNameFr": "Duramen de glace"
     },
     {
       "id": "hurricane_seed",
@@ -316,7 +370,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/hurricane_seed.png"
+      "image": "materials/hurricane_seed.png",
+      "nameFr": "Graine d'ouragan",
+      "familyFr": "Graine d'ouragan",
+      "sourceNameFr": "Graine d'ouragan"
     },
     {
       "id": "juvenile_jade",
@@ -330,7 +387,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/juvenile_jade.png"
+      "image": "materials/juvenile_jade.png",
+      "nameFr": "Jade juvénile",
+      "familyFr": "Jade juvénile",
+      "sourceNameFr": "Jade juvénile"
     },
     {
       "id": "light_guiding_tetrahedron",
@@ -344,7 +404,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/light_guiding_tetrahedron.png"
+      "image": "materials/light_guiding_tetrahedron.png",
+      "nameFr": "Tétraèdre de lumière",
+      "familyFr": "Tétraèdre de lumière",
+      "sourceNameFr": "Tétraèdre de lumière"
     },
     {
       "id": "lightbearing_scale_feather",
@@ -358,7 +421,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/lightbearing_scale_feather.png"
+      "image": "materials/lightbearing_scale_feather.png",
+      "nameFr": "Plume-écaille luminifère",
+      "familyFr": "Plume-écaille luminifère",
+      "sourceNameFr": "Plume-écaille luminifère"
     },
     {
       "id": "lightning_prism",
@@ -372,7 +438,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/lightning_prism.png"
+      "image": "materials/lightning_prism.png",
+      "nameFr": "Prisme d'éclair",
+      "familyFr": "Prisme d'éclair",
+      "sourceNameFr": "Prisme d'éclair"
     },
     {
       "id": "majestic_hooked_beak",
@@ -386,7 +455,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/majestic_hooked_beak.png"
+      "image": "materials/majestic_hooked_beak.png",
+      "nameFr": "Bec crochu majestueux",
+      "familyFr": "Bec crochu majestueux",
+      "sourceNameFr": "Bec crochu majestueux"
     },
     {
       "id": "marionette_core",
@@ -400,7 +472,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/marionette_core.png"
+      "image": "materials/marionette_core.png",
+      "nameFr": "Mécanisme oni",
+      "familyFr": "Mécanisme oni",
+      "sourceNameFr": "Mécanisme oni"
     },
     {
       "id": "mark_of_the_binding_blessing",
@@ -414,7 +489,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/mark_of_the_binding_blessing.png"
+      "image": "materials/mark_of_the_binding_blessing.png",
+      "nameFr": "Marque de bénédiction liante",
+      "familyFr": "Marque de bénédiction liante",
+      "sourceNameFr": "Marque de bénédiction liante"
     },
     {
       "id": "overripe_flamegranate",
@@ -428,7 +506,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/overripe_flamegranate.png"
+      "image": "materials/overripe_flamegranate.png",
+      "nameFr": "Flamboigrenade surmûre",
+      "familyFr": "Flamboigrenade surmûre",
+      "sourceNameFr": "Flamboigrenade surmûre"
     },
     {
       "id": "perpetual_caliber",
@@ -442,7 +523,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/perpetual_caliber.png"
+      "image": "materials/perpetual_caliber.png",
+      "nameFr": "Calibre perpétuel",
+      "familyFr": "Calibre perpétuel",
+      "sourceNameFr": "Calibre perpétuel"
     },
     {
       "id": "perpetual_heart",
@@ -456,7 +540,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/perpetual_heart.png"
+      "image": "materials/perpetual_heart.png",
+      "nameFr": "Cœur perpétuel",
+      "familyFr": "Cœur perpétuel",
+      "sourceNameFr": "Cœur perpétuel"
     },
     {
       "id": "precision_kuuvahki_stamping_die",
@@ -470,7 +557,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/precision_kuuvahki_stamping_die.png"
+      "image": "materials/precision_kuuvahki_stamping_die.png",
+      "nameFr": "Moule d'estampage kuuvahkique de précision",
+      "familyFr": "Moule d'estampage kuuvahkique de précision",
+      "sourceNameFr": "Moule d'estampage kuuvahkique de précision"
     },
     {
       "id": "pseudo_stamens",
@@ -484,7 +574,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/pseudo_stamens.png"
+      "image": "materials/pseudo_stamens.png",
+      "nameFr": "Pseudo-étamines",
+      "familyFr": "Pseudo-étamines",
+      "sourceNameFr": "Pseudo-étamines"
     },
     {
       "id": "quelled_creeper",
@@ -498,7 +591,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/quelled_creeper.png"
+      "image": "materials/quelled_creeper.png",
+      "nameFr": "Liane d'oblitération",
+      "familyFr": "Liane d'oblitération",
+      "sourceNameFr": "Liane d'oblitération"
     },
     {
       "id": "radiant_antler",
@@ -512,7 +608,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/radiant_antler.png"
+      "image": "materials/radiant_antler.png",
+      "nameFr": "Corne radieuse",
+      "familyFr": "Corne radieuse",
+      "sourceNameFr": "Corne radieuse"
     },
     {
       "id": "riftborn_regalia",
@@ -526,7 +625,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/riftborn_regalia.png"
+      "image": "materials/riftborn_regalia.png",
+      "nameFr": "Régalia de faille",
+      "familyFr": "Régalia de faille",
+      "sourceNameFr": "Régalia de faille"
     },
     {
       "id": "runic_fang",
@@ -540,7 +642,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/runic_fang.png"
+      "image": "materials/runic_fang.png",
+      "nameFr": "Croc runique",
+      "familyFr": "Croc runique",
+      "sourceNameFr": "Croc runique"
     },
     {
       "id": "secret_source_airflow_accumulator",
@@ -554,7 +659,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/secret_source_airflow_accumulator.png"
+      "image": "materials/secret_source_airflow_accumulator.png",
+      "nameFr": "Accumulateur d'air de source secrète",
+      "familyFr": "Accumulateur d'air de source secrète",
+      "sourceNameFr": "Accumulateur d'air de source secrète"
     },
     {
       "id": "smoldering_pearl",
@@ -568,7 +676,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/smoldering_pearl.png"
+      "image": "materials/smoldering_pearl.png",
+      "nameFr": "Perle brûlante",
+      "familyFr": "Perle brûlante",
+      "sourceNameFr": "Perle brûlante"
     },
     {
       "id": "sparkless_statue_core",
@@ -582,7 +693,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/sparkless_statue_core.png"
+      "image": "materials/sparkless_statue_core.png",
+      "nameFr": "Noyau inerte de statue",
+      "familyFr": "Noyau inerte de statue",
+      "sourceNameFr": "Noyau inerte de statue"
     },
     {
       "id": "storm_beads",
@@ -596,7 +710,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/storm_beads.png"
+      "image": "materials/storm_beads.png",
+      "nameFr": "Perles tempestives",
+      "familyFr": "Perles tempestives",
+      "sourceNameFr": "Perles tempestives"
     },
     {
       "id": "talisman_of_the_enigmatic_land",
@@ -610,7 +727,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/talisman_of_the_enigmatic_land.png"
+      "image": "materials/talisman_of_the_enigmatic_land.png",
+      "nameFr": "Talisman d'une terre mystérieuse",
+      "familyFr": "Talisman d'une terre mystérieuse",
+      "sourceNameFr": "Talisman d'une terre mystérieuse"
     },
     {
       "id": "thunderclap_fruitcore",
@@ -624,7 +744,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/thunderclap_fruitcore.png"
+      "image": "materials/thunderclap_fruitcore.png",
+      "nameFr": "Fruit du tonnerre",
+      "familyFr": "Fruit du tonnerre",
+      "sourceNameFr": "Fruit du tonnerre"
     },
     {
       "id": "water_that_failed_to_transcend",
@@ -638,7 +761,10 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/water_that_failed_to_transcend.png"
+      "image": "materials/water_that_failed_to_transcend.png",
+      "nameFr": "Eau n'ayant pas transcendé",
+      "familyFr": "Eau n'ayant pas transcendé",
+      "sourceNameFr": "Eau n'ayant pas transcendé"
     },
     {
       "id": "meshing_gear",
@@ -652,7 +778,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/meshing_gear.png"
+      "image": "materials/meshing_gear.png",
+      "nameFr": "Engrenage de maillage",
+      "familyFr": "Méka horlogoïde"
     },
     {
       "id": "mechanical_spur_gear",
@@ -666,7 +794,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mechanical_spur_gear.png"
+      "image": "materials/mechanical_spur_gear.png",
+      "nameFr": "Engrenage à coupe droite",
+      "familyFr": "Méka horlogoïde"
     },
     {
       "id": "artificed_dynamic_gear",
@@ -680,7 +810,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/artificed_dynamic_gear.png"
+      "image": "materials/artificed_dynamic_gear.png",
+      "nameFr": "Engrenage dynamique artificié",
+      "familyFr": "Méka horlogoïde"
     },
     {
       "id": "tattered_warrant",
@@ -694,7 +826,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/tattered_warrant.png"
+      "image": "materials/tattered_warrant.png",
+      "nameFr": "Mandat en lambeaux",
+      "familyFr": "Opritchniki Fatui"
     },
     {
       "id": "immaculate_warrant",
@@ -708,7 +842,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/immaculate_warrant.png"
+      "image": "materials/immaculate_warrant.png",
+      "nameFr": "Mandat immaculé",
+      "familyFr": "Opritchniki Fatui"
     },
     {
       "id": "frost_etched_warrant",
@@ -722,7 +858,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/frost_etched_warrant.png"
+      "image": "materials/frost_etched_warrant.png",
+      "nameFr": "Mandat gelé",
+      "familyFr": "Opritchniki Fatui"
     },
     {
       "id": "recruits_insignia",
@@ -736,7 +874,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/recruits_insignia.png"
+      "image": "materials/recruits_insignia.png",
+      "nameFr": "Insigne de nouvelle recrue",
+      "familyFr": "Tirailleur Fatui"
     },
     {
       "id": "sergeants_insignia",
@@ -750,7 +890,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sergeants_insignia.png"
+      "image": "materials/sergeants_insignia.png",
+      "nameFr": "Insigne de sergent",
+      "familyFr": "Tirailleur Fatui"
     },
     {
       "id": "lieutenants_insignia",
@@ -764,7 +906,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/lieutenants_insignia.png"
+      "image": "materials/lieutenants_insignia.png",
+      "nameFr": "Insigne d'officier",
+      "familyFr": "Tirailleur Fatui"
     },
     {
       "id": "transoceanic_pearl",
@@ -778,7 +922,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/transoceanic_pearl.png"
+      "image": "materials/transoceanic_pearl.png",
+      "nameFr": "Perle transocéanique",
+      "familyFr": "Aberration fontemarine"
     },
     {
       "id": "transoceanic_chunk",
@@ -792,7 +938,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/transoceanic_chunk.png"
+      "image": "materials/transoceanic_chunk.png",
+      "nameFr": "Morceau transocéanique",
+      "familyFr": "Aberration fontemarine"
     },
     {
       "id": "xenochromatic_crystal",
@@ -806,7 +954,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/xenochromatic_crystal.png"
+      "image": "materials/xenochromatic_crystal.png",
+      "nameFr": "Cristal xénochromatique",
+      "familyFr": "Aberration fontemarine"
     },
     {
       "id": "fungal_spores",
@@ -820,7 +970,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/fungal_spores.png"
+      "image": "materials/fungal_spores.png",
+      "nameFr": "Spores de Fongus",
+      "familyFr": "Fongus"
     },
     {
       "id": "luminescent_pollen",
@@ -834,7 +986,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/luminescent_pollen.png"
+      "image": "materials/luminescent_pollen.png",
+      "nameFr": "Pollen fluorescent",
+      "familyFr": "Fongus"
     },
     {
       "id": "crystalline_cyst_dust",
@@ -848,7 +1002,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/crystalline_cyst_dust.png"
+      "image": "materials/crystalline_cyst_dust.png",
+      "nameFr": "Poussière cristalline de sporange",
+      "familyFr": "Fongus"
     },
     {
       "id": "damaged_mask",
@@ -862,7 +1018,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/damaged_mask.png"
+      "image": "materials/damaged_mask.png",
+      "nameFr": "Masque endommagé",
+      "familyFr": "Brutocollinus"
     },
     {
       "id": "stained_mask",
@@ -876,7 +1034,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/stained_mask.png"
+      "image": "materials/stained_mask.png",
+      "nameFr": "Masque sale",
+      "familyFr": "Brutocollinus"
     },
     {
       "id": "ominous_mask",
@@ -890,7 +1050,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/ominous_mask.png"
+      "image": "materials/ominous_mask.png",
+      "nameFr": "Masque sinistre",
+      "familyFr": "Brutocollinus"
     },
     {
       "id": "firm_arrowhead",
@@ -904,7 +1066,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/firm_arrowhead.png"
+      "image": "materials/firm_arrowhead.png",
+      "nameFr": "Pointe de flèche robuste",
+      "familyFr": "Arbalétrier Brutocollinus"
     },
     {
       "id": "sharp_arrowhead",
@@ -918,7 +1082,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sharp_arrowhead.png"
+      "image": "materials/sharp_arrowhead.png",
+      "nameFr": "Pointe de flèche aiguisée",
+      "familyFr": "Arbalétrier Brutocollinus"
     },
     {
       "id": "weathered_arrowhead",
@@ -932,7 +1098,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/weathered_arrowhead.png"
+      "image": "materials/weathered_arrowhead.png",
+      "nameFr": "Pointe de flèche usée",
+      "familyFr": "Arbalétrier Brutocollinus"
     },
     {
       "id": "broken_drive_shaft",
@@ -946,7 +1114,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/broken_drive_shaft.png"
+      "image": "materials/broken_drive_shaft.png",
+      "nameFr": "Arbre de transmission cassé",
+      "familyFr": "Patrouilleur terrestre"
     },
     {
       "id": "reinforced_drive_shaft",
@@ -960,7 +1130,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/reinforced_drive_shaft.png"
+      "image": "materials/reinforced_drive_shaft.png",
+      "nameFr": "Arbre de transmission renforcé",
+      "familyFr": "Patrouilleur terrestre"
     },
     {
       "id": "precision_drive_shaft",
@@ -974,7 +1146,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/precision_drive_shaft.png"
+      "image": "materials/precision_drive_shaft.png",
+      "nameFr": "Arbre de transmission raffiné",
+      "familyFr": "Patrouilleur terrestre"
     },
     {
       "id": "juvenile_fang",
@@ -988,7 +1162,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/juvenile_fang.png"
+      "image": "materials/juvenile_fang.png",
+      "nameFr": "Croc juvénile",
+      "familyFr": "Saurien de Natlan"
     },
     {
       "id": "seasoned_fang",
@@ -1002,7 +1178,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/seasoned_fang.png"
+      "image": "materials/seasoned_fang.png",
+      "nameFr": "Croc mature",
+      "familyFr": "Saurien de Natlan"
     },
     {
       "id": "tyrants_fang",
@@ -1016,7 +1194,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/tyrants_fang.png"
+      "image": "materials/tyrants_fang.png",
+      "nameFr": "Croc de tyran",
+      "familyFr": "Saurien de Natlan"
     },
     {
       "id": "old_handguard",
@@ -1030,7 +1210,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/old_handguard.png"
+      "image": "materials/old_handguard.png",
+      "nameFr": "Garde-main ancien",
+      "familyFr": "Nobushi"
     },
     {
       "id": "kageuchi_handguard",
@@ -1044,7 +1226,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/kageuchi_handguard.png"
+      "image": "materials/kageuchi_handguard.png",
+      "nameFr": "Garde-main kageuchi",
+      "familyFr": "Nobushi"
     },
     {
       "id": "famed_handguard",
@@ -1058,7 +1242,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/famed_handguard.png"
+      "image": "materials/famed_handguard.png",
+      "nameFr": "Garde-main célèbre",
+      "familyFr": "Nobushi"
     },
     {
       "id": "divining_scroll",
@@ -1072,7 +1258,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/divining_scroll.png"
+      "image": "materials/divining_scroll.png",
+      "nameFr": "Parchemin divinatoire",
+      "familyFr": "Brutoshaman"
     },
     {
       "id": "sealed_scroll",
@@ -1086,7 +1274,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sealed_scroll.png"
+      "image": "materials/sealed_scroll.png",
+      "nameFr": "Parchemin sigillé",
+      "familyFr": "Brutoshaman"
     },
     {
       "id": "forbidden_curse_scroll",
@@ -1100,7 +1290,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/forbidden_curse_scroll.png"
+      "image": "materials/forbidden_curse_scroll.png",
+      "nameFr": "Parchemin maudit",
+      "familyFr": "Brutoshaman"
     },
     {
       "id": "sentrys_wooden_whistle",
@@ -1114,7 +1306,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sentrys_wooden_whistle.png"
+      "image": "materials/sentrys_wooden_whistle.png",
+      "nameFr": "Sifflet en bois de sentinelle"
     },
     {
       "id": "warriors_metal_whistle",
@@ -1128,7 +1321,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/warriors_metal_whistle.png"
+      "image": "materials/warriors_metal_whistle.png",
+      "nameFr": "Sifflet en métal de guerrier"
     },
     {
       "id": "saurian_crowned_warriors_golden_whistle",
@@ -1142,7 +1336,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/saurian_crowned_warriors_golden_whistle.png"
+      "image": "materials/saurian_crowned_warriors_golden_whistle.png",
+      "nameFr": "Sifflet en or de guerrier couronné par les sauriens"
     },
     {
       "id": "slime_condensate",
@@ -1156,7 +1351,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/slime_condensate.png"
+      "image": "materials/slime_condensate.png",
+      "nameFr": "Bave de Blob",
+      "familyFr": "Blob"
     },
     {
       "id": "slime_secretions",
@@ -1170,7 +1367,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/slime_secretions.png"
+      "image": "materials/slime_secretions.png",
+      "nameFr": "Mucus de Blob",
+      "familyFr": "Blob"
     },
     {
       "id": "slime_concentrate",
@@ -1184,7 +1383,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/slime_concentrate.png"
+      "image": "materials/slime_concentrate.png",
+      "nameFr": "Essence de Blob",
+      "familyFr": "Blob"
     },
     {
       "id": "spectral_husk",
@@ -1198,7 +1399,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/spectral_husk.png"
+      "image": "materials/spectral_husk.png",
+      "nameFr": "Coquille spectrale",
+      "familyFr": "Spectre"
     },
     {
       "id": "spectral_heart",
@@ -1212,7 +1415,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/spectral_heart.png"
+      "image": "materials/spectral_heart.png",
+      "nameFr": "Cœur spectral",
+      "familyFr": "Spectre"
     },
     {
       "id": "spectral_nucleus",
@@ -1226,7 +1431,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/spectral_nucleus.png"
+      "image": "materials/spectral_nucleus.png",
+      "nameFr": "Noyau spectral",
+      "familyFr": "Spectre"
     },
     {
       "id": "faded_red_satin",
@@ -1240,7 +1447,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/faded_red_satin.png"
+      "image": "materials/faded_red_satin.png",
+      "nameFr": "Satin rouge délavé",
+      "familyFr": "Érémites"
     },
     {
       "id": "trimmed_red_silk",
@@ -1254,7 +1463,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/trimmed_red_silk.png"
+      "image": "materials/trimmed_red_silk.png",
+      "nameFr": "Soie rouge brodée",
+      "familyFr": "Érémites"
     },
     {
       "id": "rich_red_brocade",
@@ -1268,7 +1479,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/rich_red_brocade.png"
+      "image": "materials/rich_red_brocade.png",
+      "nameFr": "Brocart rouge luxueux",
+      "familyFr": "Érémites"
     },
     {
       "id": "treasure_hoarder_insignia",
@@ -1282,7 +1495,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/treasure_hoarder_insignia.png"
+      "image": "materials/treasure_hoarder_insignia.png",
+      "nameFr": "Insigne des Pilleurs",
+      "familyFr": "Pilleurs de trésors"
     },
     {
       "id": "silver_raven_insignia",
@@ -1296,7 +1511,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/silver_raven_insignia.png"
+      "image": "materials/silver_raven_insignia.png",
+      "nameFr": "Insigne de corbeau en argent",
+      "familyFr": "Pilleurs de trésors"
     },
     {
       "id": "golden_raven_insignia",
@@ -1310,7 +1527,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/golden_raven_insignia.png"
+      "image": "materials/golden_raven_insignia.png",
+      "nameFr": "Insigne de corbeau en or",
+      "familyFr": "Pilleurs de trésors"
     },
     {
       "id": "whopperflower_nectar",
@@ -1324,7 +1543,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/whopperflower_nectar.png"
+      "image": "materials/whopperflower_nectar.png",
+      "nameFr": "Nectar de Fleur mensongère",
+      "familyFr": "Fleur mensongère"
     },
     {
       "id": "shimmering_nectar",
@@ -1338,7 +1559,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/shimmering_nectar.png"
+      "image": "materials/shimmering_nectar.png",
+      "nameFr": "Nectar miroitant",
+      "familyFr": "Fleur mensongère"
     },
     {
       "id": "energy_nectar",
@@ -1352,7 +1575,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/energy_nectar.png"
+      "image": "materials/energy_nectar.png",
+      "nameFr": "Nectar élémentaire",
+      "familyFr": "Fleur mensongère"
     },
     {
       "id": "dead_ley_line_branch",
@@ -1366,7 +1591,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dead_ley_line_branch.png"
+      "image": "materials/dead_ley_line_branch.png",
+      "nameFr": "Branche morte des lignes énergétiques",
+      "familyFr": "Mage de l'Abîme"
     },
     {
       "id": "dead_ley_line_leaves",
@@ -1380,7 +1607,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dead_ley_line_leaves.png"
+      "image": "materials/dead_ley_line_leaves.png",
+      "nameFr": "Feuilles mortes des lignes énergétiques",
+      "familyFr": "Mage de l'Abîme"
     },
     {
       "id": "ley_line_sprout",
@@ -1394,7 +1623,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/ley_line_sprout.png"
+      "image": "materials/ley_line_sprout.png",
+      "nameFr": "Pousse des lignes énergétiques",
+      "familyFr": "Mage de l'Abîme"
     },
     {
       "id": "ignited_stone",
@@ -1408,7 +1639,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/ignited_stone.png"
+      "image": "materials/ignited_stone.png",
+      "nameFr": "Pierre enflammée",
+      "familyFr": "Avatar de lave"
     },
     {
       "id": "ignited_seed_of_life",
@@ -1422,7 +1655,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/ignited_seed_of_life.png"
+      "image": "materials/ignited_seed_of_life.png",
+      "nameFr": "Graine enflammée",
+      "familyFr": "Avatar de lave"
     },
     {
       "id": "ignited_seeing_eye",
@@ -1436,7 +1671,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/ignited_seeing_eye.png"
+      "image": "materials/ignited_seeing_eye.png",
+      "nameFr": "Œil lucide enflammé",
+      "familyFr": "Avatar de lave"
     },
     {
       "id": "rift_core",
@@ -1450,7 +1687,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/rift_core.png"
+      "image": "materials/rift_core.png",
+      "nameFr": "Noyau de faille",
+      "familyFr": "Primus briseur luxuriant"
     },
     {
       "id": "foreign_synapse",
@@ -1464,7 +1703,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/foreign_synapse.png"
+      "image": "materials/foreign_synapse.png",
+      "nameFr": "Synapse étrangère",
+      "familyFr": "Primus briseur luxuriant"
     },
     {
       "id": "alien_life_core",
@@ -1478,7 +1719,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/alien_life_core.png"
+      "image": "materials/alien_life_core.png",
+      "nameFr": "Noyau d'organisme d'extramonde",
+      "familyFr": "Primus briseur luxuriant"
     },
     {
       "id": "desiccated_shell",
@@ -1492,7 +1735,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/desiccated_shell.png"
+      "image": "materials/desiccated_shell.png",
+      "nameFr": "Coque desséchée",
+      "familyFr": "Bête sacralisée"
     },
     {
       "id": "sturdy_shell",
@@ -1506,7 +1751,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sturdy_shell.png"
+      "image": "materials/sturdy_shell.png",
+      "nameFr": "Coque robuste",
+      "familyFr": "Bête sacralisée"
     },
     {
       "id": "marked_shell",
@@ -1520,7 +1767,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/marked_shell.png"
+      "image": "materials/marked_shell.png",
+      "nameFr": "Coque marquée",
+      "familyFr": "Bête sacralisée"
     },
     {
       "id": "mist_grass_pollen",
@@ -1534,7 +1783,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mist_grass_pollen.png"
+      "image": "materials/mist_grass_pollen.png",
+      "nameFr": "Pollen d'herbe brumeuse",
+      "familyFr": "Mage luciole des Fatui"
     },
     {
       "id": "mist_grass",
@@ -1548,7 +1799,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mist_grass.png"
+      "image": "materials/mist_grass.png",
+      "nameFr": "Herbe brumeuse",
+      "familyFr": "Mage luciole des Fatui"
     },
     {
       "id": "mist_grass_wick",
@@ -1562,7 +1815,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mist_grass_wick.png"
+      "image": "materials/mist_grass_wick.png",
+      "nameFr": "Mèches d'herbe brumeuse",
+      "familyFr": "Mage luciole des Fatui"
     },
     {
       "id": "old_operatives_pocket_watch",
@@ -1576,7 +1831,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/old_operatives_pocket_watch.png"
+      "image": "materials/old_operatives_pocket_watch.png",
+      "nameFr": "Vieille montre à gousset d'opérateur",
+      "familyFr": "Opérateur des Fatui"
     },
     {
       "id": "operatives_standard_pocket_watch",
@@ -1590,7 +1847,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/operatives_standard_pocket_watch.png"
+      "image": "materials/operatives_standard_pocket_watch.png",
+      "nameFr": "Montre à gousset d'opérateur",
+      "familyFr": "Opérateur des Fatui"
     },
     {
       "id": "operatives_constancy",
@@ -1604,7 +1863,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/operatives_constancy.png"
+      "image": "materials/operatives_constancy.png",
+      "nameFr": "Constance d'opérateur",
+      "familyFr": "Opérateur des Fatui"
     },
     {
       "id": "hunters_sacrificial_knife",
@@ -1618,7 +1879,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/hunters_sacrificial_knife.png"
+      "image": "materials/hunters_sacrificial_knife.png",
+      "nameFr": "Dague de chasse rituelle",
+      "familyFr": "Usurier Pyro des Fatui"
     },
     {
       "id": "agents_sacrificial_knife",
@@ -1632,7 +1895,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/agents_sacrificial_knife.png"
+      "image": "materials/agents_sacrificial_knife.png",
+      "nameFr": "Dague rituelle de l'Usurier",
+      "familyFr": "Usurier Pyro des Fatui"
     },
     {
       "id": "inspectors_sacrificial_knife",
@@ -1646,7 +1911,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/inspectors_sacrificial_knife.png"
+      "image": "materials/inspectors_sacrificial_knife.png",
+      "nameFr": "Grande dague de l'Inspecteur",
+      "familyFr": "Usurier Pyro des Fatui"
     },
     {
       "id": "fractured_eye_of_the_deep_shadow",
@@ -1660,7 +1927,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/fractured_eye_of_the_deep_shadow.png"
+      "image": "materials/fractured_eye_of_the_deep_shadow.png",
+      "nameFr": "Œil fracturé des fonds",
+      "familyFr": "Pêcheur des fonds cachés"
     },
     {
       "id": "aberrant_core_of_the_deep_shadow",
@@ -1674,7 +1943,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/aberrant_core_of_the_deep_shadow.png"
+      "image": "materials/aberrant_core_of_the_deep_shadow.png",
+      "nameFr": "Noyau aberrant des fonds",
+      "familyFr": "Pêcheur des fonds cachés"
     },
     {
       "id": "hooked_beak_of_the_deep_shadow",
@@ -1688,7 +1959,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/hooked_beak_of_the_deep_shadow.png"
+      "image": "materials/hooked_beak_of_the_deep_shadow.png",
+      "nameFr": "Bec crochu des fonds",
+      "familyFr": "Pêcheur des fonds cachés"
     },
     {
       "id": "frostnights_glimmer",
@@ -1702,7 +1975,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/frostnights_glimmer.png"
+      "image": "materials/frostnights_glimmer.png",
+      "nameFr": "Lueur de givrenuit",
+      "familyFr": "Héritier de givrenuit"
     },
     {
       "id": "frostnights_glow",
@@ -1716,7 +1991,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/frostnights_glow.png"
+      "image": "materials/frostnights_glow.png",
+      "nameFr": "Brillance de givrenuit",
+      "familyFr": "Héritier de givrenuit"
     },
     {
       "id": "frostnights_glory",
@@ -1730,7 +2007,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/frostnights_glory.png"
+      "image": "materials/frostnights_glory.png",
+      "nameFr": "Gloire de givrenuit",
+      "familyFr": "Héritier de givrenuit"
     },
     {
       "id": "cold_cracked_shellshard",
@@ -1744,7 +2023,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/cold_cracked_shellshard.png"
+      "image": "materials/cold_cracked_shellshard.png",
+      "nameFr": "Coquille brisée froide",
+      "familyFr": "Belette des montagnes à coquille fournaise"
     },
     {
       "id": "warm_back_shell",
@@ -1758,7 +2039,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/warm_back_shell.png"
+      "image": "materials/warm_back_shell.png",
+      "nameFr": "Coquille brisée chaude",
+      "familyFr": "Belette des montagnes à coquille fournaise"
     },
     {
       "id": "blazing_prismshell",
@@ -1772,7 +2055,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/blazing_prismshell.png"
+      "image": "materials/blazing_prismshell.png",
+      "nameFr": "Caraprisme enflammé",
+      "familyFr": "Belette des montagnes à coquille fournaise"
     },
     {
       "id": "a_flower_yet_to_bloom",
@@ -1786,7 +2071,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/a_flower_yet_to_bloom.png"
+      "image": "materials/a_flower_yet_to_bloom.png",
+      "nameFr": "Fleur non épanouie d'origine inconnue",
+      "familyFr": "Brutovéreux"
     },
     {
       "id": "treasured_flower",
@@ -1800,7 +2087,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/treasured_flower.png"
+      "image": "materials/treasured_flower.png",
+      "nameFr": "Fleur précieuse",
+      "familyFr": "Brutovéreux"
     },
     {
       "id": "wanderers_blooming_flower",
@@ -1814,7 +2103,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/wanderers_blooming_flower.png"
+      "image": "materials/wanderers_blooming_flower.png",
+      "nameFr": "Fleur épanouie d'un nomade",
+      "familyFr": "Brutovéreux"
     },
     {
       "id": "chaos_device",
@@ -1828,7 +2119,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_device.png"
+      "image": "materials/chaos_device.png",
+      "nameFr": "Dispositif du chaos",
+      "familyFr": "Gardien des ruines"
     },
     {
       "id": "chaos_circuit",
@@ -1842,7 +2135,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_circuit.png"
+      "image": "materials/chaos_circuit.png",
+      "nameFr": "Circuit du chaos",
+      "familyFr": "Gardien des ruines"
     },
     {
       "id": "chaos_core",
@@ -1856,7 +2151,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_core.png"
+      "image": "materials/chaos_core.png",
+      "nameFr": "Noyau du chaos",
+      "familyFr": "Gardien des ruines"
     },
     {
       "id": "dismal_prism",
@@ -1870,7 +2167,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dismal_prism.png"
+      "image": "materials/dismal_prism.png",
+      "nameFr": "Prisme sombre",
+      "familyFr": "Suivante miroir des Fatui"
     },
     {
       "id": "crystal_prism",
@@ -1884,7 +2183,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/crystal_prism.png"
+      "image": "materials/crystal_prism.png",
+      "nameFr": "Prisme de cristal",
+      "familyFr": "Suivante miroir des Fatui"
     },
     {
       "id": "polarizing_prism",
@@ -1898,7 +2199,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/polarizing_prism.png"
+      "image": "materials/polarizing_prism.png",
+      "nameFr": "Prisme polarisant",
+      "familyFr": "Suivante miroir des Fatui"
     },
     {
       "id": "heavy_horn",
@@ -1912,7 +2215,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/heavy_horn.png"
+      "image": "materials/heavy_horn.png",
+      "nameFr": "Corne lourde",
+      "familyFr": "Brutoviandu"
     },
     {
       "id": "black_bronze_horn",
@@ -1926,7 +2231,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/black_bronze_horn.png"
+      "image": "materials/black_bronze_horn.png",
+      "nameFr": "Corne en bronze noir",
+      "familyFr": "Brutoviandu"
     },
     {
       "id": "black_crystal_horn",
@@ -1940,7 +2247,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/black_crystal_horn.png"
+      "image": "materials/black_crystal_horn.png",
+      "nameFr": "Corne à cristal noir",
+      "familyFr": "Brutoviandu"
     },
     {
       "id": "ruined_hilt",
@@ -1954,7 +2263,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/ruined_hilt.png"
+      "image": "materials/ruined_hilt.png",
+      "nameFr": "Pommeau abîmé",
+      "familyFr": "Prétorien golem"
     },
     {
       "id": "splintered_hilt",
@@ -1968,7 +2279,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/splintered_hilt.png"
+      "image": "materials/splintered_hilt.png",
+      "nameFr": "Pommeau rayé",
+      "familyFr": "Prétorien golem"
     },
     {
       "id": "still_smoldering_hilt",
@@ -1982,7 +2295,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/still_smoldering_hilt.png"
+      "image": "materials/still_smoldering_hilt.png",
+      "nameFr": "Pommeau incandescent",
+      "familyFr": "Prétorien golem"
     },
     {
       "id": "damaged_prism",
@@ -1996,7 +2311,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/damaged_prism.png"
+      "image": "materials/damaged_prism.png",
+      "nameFr": "Prisme endommagé",
+      "familyFr": "Structure primale"
     },
     {
       "id": "turbid_prism",
@@ -2010,7 +2327,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/turbid_prism.png"
+      "image": "materials/turbid_prism.png",
+      "nameFr": "Prisme trouble",
+      "familyFr": "Structure primale"
     },
     {
       "id": "radiant_prism",
@@ -2024,7 +2343,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/radiant_prism.png"
+      "image": "materials/radiant_prism.png",
+      "nameFr": "Prisme radieux",
+      "familyFr": "Structure primale"
     },
     {
       "id": "lightless_bone",
@@ -2038,7 +2359,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/lightless_bone.png"
+      "image": "materials/lightless_bone.png",
+      "nameFr": "Os nélucide"
     },
     {
       "id": "glowing_remains",
@@ -2052,7 +2374,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/glowing_remains.png"
+      "image": "materials/glowing_remains.png",
+      "nameFr": "Restes lumineux"
     },
     {
       "id": "radiant_exoskeleton",
@@ -2066,7 +2389,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/radiant_exoskeleton.png"
+      "image": "materials/radiant_exoskeleton.png",
+      "nameFr": "Exosquelette radieux"
     },
     {
       "id": "concealed_claw",
@@ -2080,7 +2404,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/concealed_claw.png"
+      "image": "materials/concealed_claw.png",
+      "nameFr": "Griffe dissimulée",
+      "familyFr": "Loup de faille"
     },
     {
       "id": "concealed_unguis",
@@ -2094,7 +2420,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/concealed_unguis.png"
+      "image": "materials/concealed_unguis.png",
+      "nameFr": "Ongle dissimulé",
+      "familyFr": "Loup de faille"
     },
     {
       "id": "concealed_talon",
@@ -2108,7 +2436,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/concealed_talon.png"
+      "image": "materials/concealed_talon.png",
+      "nameFr": "Serre dissimulée",
+      "familyFr": "Loup de faille"
     },
     {
       "id": "chaos_storage",
@@ -2122,7 +2452,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_storage.png"
+      "image": "materials/chaos_storage.png",
+      "nameFr": "Conteneur du chaos",
+      "familyFr": "Dragon des ruines"
     },
     {
       "id": "chaos_module",
@@ -2136,7 +2468,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_module.png"
+      "image": "materials/chaos_module.png",
+      "nameFr": "Module du chaos",
+      "familyFr": "Dragon des ruines"
     },
     {
       "id": "chaos_bolt",
@@ -2150,7 +2484,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_bolt.png"
+      "image": "materials/chaos_bolt.png",
+      "nameFr": "Vis du chaos",
+      "familyFr": "Dragon des ruines"
     },
     {
       "id": "chaos_gear",
@@ -2164,7 +2500,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_gear.png"
+      "image": "materials/chaos_gear.png",
+      "nameFr": "Engrenage du chaos",
+      "familyFr": "Sentinelle des ruines"
     },
     {
       "id": "chaos_axis",
@@ -2178,7 +2516,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_axis.png"
+      "image": "materials/chaos_axis.png",
+      "nameFr": "Axe du chaos",
+      "familyFr": "Sentinelle des ruines"
     },
     {
       "id": "chaos_oculus",
@@ -2192,7 +2532,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chaos_oculus.png"
+      "image": "materials/chaos_oculus.png",
+      "nameFr": "Œil du chaos",
+      "familyFr": "Sentinelle des ruines"
     },
     {
       "id": "axis_of_the_secret_source",
@@ -2206,7 +2548,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/axis_of_the_secret_source.png"
+      "image": "materials/axis_of_the_secret_source.png",
+      "nameFr": "Axe de la source secrète",
+      "familyFr": "Automate de source secrète : Chasseur-chercheur"
     },
     {
       "id": "sheath_of_the_secret_source",
@@ -2220,7 +2564,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sheath_of_the_secret_source.png"
+      "image": "materials/sheath_of_the_secret_source.png",
+      "nameFr": "Gaine de la source secrète",
+      "familyFr": "Automate de source secrète : Chasseur-chercheur"
     },
     {
       "id": "heart_of_the_secret_source",
@@ -2234,7 +2580,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/heart_of_the_secret_source.png"
+      "image": "materials/heart_of_the_secret_source.png",
+      "nameFr": "Noyau de la source secrète",
+      "familyFr": "Automate de source secrète : Chasseur-chercheur"
     },
     {
       "id": "inactivated_fungal_nucleus",
@@ -2248,7 +2596,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/inactivated_fungal_nucleus.png"
+      "image": "materials/inactivated_fungal_nucleus.png",
+      "nameFr": "Noyau fongique inactivé"
     },
     {
       "id": "dormant_fungal_nucleus",
@@ -2262,7 +2611,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dormant_fungal_nucleus.png"
+      "image": "materials/dormant_fungal_nucleus.png",
+      "nameFr": "Noyau fongique dormant"
     },
     {
       "id": "robust_fungal_nucleus",
@@ -2276,7 +2626,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/robust_fungal_nucleus.png"
+      "image": "materials/robust_fungal_nucleus.png",
+      "nameFr": "Noyau fongique robuste"
     },
     {
       "id": "drop_of_tainted_water",
@@ -2290,7 +2641,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/drop_of_tainted_water.png"
+      "image": "materials/drop_of_tainted_water.png",
+      "nameFr": "Goutte d'eau croupie",
+      "familyFr": "Fantasme Hydro croupi"
     },
     {
       "id": "scoop_of_tainted_water",
@@ -2304,7 +2657,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/scoop_of_tainted_water.png"
+      "image": "materials/scoop_of_tainted_water.png",
+      "nameFr": "Cuillère d'eau croupie",
+      "familyFr": "Fantasme Hydro croupi"
     },
     {
       "id": "newborn_tainted_hydro_phantasm",
@@ -2318,7 +2673,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/newborn_tainted_hydro_phantasm.png"
+      "image": "materials/newborn_tainted_hydro_phantasm.png",
+      "nameFr": "Jeune Fantasme Hydro croupi",
+      "familyFr": "Fantasme Hydro croupi"
     },
     {
       "id": "refractive_bud",
@@ -2332,7 +2689,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/refractive_bud.png"
+      "image": "materials/refractive_bud.png",
+      "nameFr": "Bourgeon réfractif"
     },
     {
       "id": "bewildering_broadleaf",
@@ -2346,7 +2704,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/bewildering_broadleaf.png"
+      "image": "materials/bewildering_broadleaf.png",
+      "nameFr": "Feuillage déroutant"
     },
     {
       "id": "illusory_leafcoil",
@@ -2360,7 +2719,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/illusory_leafcoil.png"
+      "image": "materials/illusory_leafcoil.png",
+      "nameFr": "Cœur illusoire de feuille"
     },
     {
       "id": "gloomy_statuette",
@@ -2374,7 +2734,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/gloomy_statuette.png"
+      "image": "materials/gloomy_statuette.png",
+      "nameFr": "Statuette sinistre",
+      "familyFr": "Serpent noir"
     },
     {
       "id": "dark_statuette",
@@ -2388,7 +2750,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dark_statuette.png"
+      "image": "materials/dark_statuette.png",
+      "nameFr": "Statuette maudite",
+      "familyFr": "Serpent noir"
     },
     {
       "id": "deathly_statuette",
@@ -2402,7 +2766,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/deathly_statuette.png"
+      "image": "materials/deathly_statuette.png",
+      "nameFr": "Statuette maléfique",
+      "familyFr": "Serpent noir"
     },
     {
       "id": "fragile_bone_shard",
@@ -2416,7 +2782,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/fragile_bone_shard.png"
+      "image": "materials/fragile_bone_shard.png",
+      "nameFr": "Fragment d'os fragile",
+      "familyFr": "Élémentosaure"
     },
     {
       "id": "sturdy_bone_shard",
@@ -2430,7 +2798,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sturdy_bone_shard.png"
+      "image": "materials/sturdy_bone_shard.png",
+      "nameFr": "Fragment d'os solide",
+      "familyFr": "Élémentosaure"
     },
     {
       "id": "fossilized_bone_shard",
@@ -2444,7 +2814,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/fossilized_bone_shard.png"
+      "image": "materials/fossilized_bone_shard.png",
+      "nameFr": "Fragment d'os fossilisé",
+      "familyFr": "Élémentosaure"
     },
     {
       "id": "mistshroud_manifestation",
@@ -2458,7 +2830,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mistshroud_manifestation.png"
+      "image": "materials/mistshroud_manifestation.png",
+      "nameFr": "Incarnation de brumevoile"
     },
     {
       "id": "mistshroud_plate",
@@ -2472,7 +2845,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mistshroud_plate.png"
+      "image": "materials/mistshroud_plate.png",
+      "nameFr": "Plaque de brumevoile"
     },
     {
       "id": "mistshroud_helmet",
@@ -2486,7 +2860,8 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mistshroud_helmet.png"
+      "image": "materials/mistshroud_helmet.png",
+      "nameFr": "Casque de brumevoile"
     },
     {
       "id": "shard_of_a_shattered_will",
@@ -2500,7 +2875,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/shard_of_a_shattered_will.png"
+      "image": "materials/shard_of_a_shattered_will.png",
+      "nameFr": "Fragment de volonté brisée",
+      "familyFr": "Manifestation de Wayob"
     },
     {
       "id": "locus_of_a_clear_will",
@@ -2514,7 +2891,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/locus_of_a_clear_will.png"
+      "image": "materials/locus_of_a_clear_will.png",
+      "nameFr": "Image de volonté claire",
+      "familyFr": "Manifestation de Wayob"
     },
     {
       "id": "sigil_of_a_striding_will",
@@ -2528,7 +2907,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sigil_of_a_striding_will.png"
+      "image": "materials/sigil_of_a_striding_will.png",
+      "nameFr": "Sceau de volonté errante",
+      "familyFr": "Manifestation de Wayob"
     },
     {
       "id": "feathery_fin",
@@ -2542,7 +2923,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/feathery_fin.png"
+      "image": "materials/feathery_fin.png",
+      "nameFr": "Aileron plumeux",
+      "familyFr": "Bête de Xuanwen"
     },
     {
       "id": "lunar_fin",
@@ -2556,7 +2939,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/lunar_fin.png"
+      "image": "materials/lunar_fin.png",
+      "nameFr": "Aileron lunaire",
+      "familyFr": "Bête de Xuanwen"
     },
     {
       "id": "chasmlight_fin",
@@ -2570,7 +2955,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/chasmlight_fin.png"
+      "image": "materials/chasmlight_fin.png",
+      "nameFr": "Aileron ténébreux",
+      "familyFr": "Bête de Xuanwen"
     },
     {
       "id": "amakumo_fruit",
@@ -2584,7 +2971,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/amakumo_fruit.png"
+      "image": "materials/amakumo_fruit.png",
+      "nameFr": "Fruit d'Amakumo",
+      "familyFr": "Fruit d'Amakumo"
     },
     {
       "id": "beryl_conch",
@@ -2598,7 +2987,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/beryl_conch.png"
+      "image": "materials/beryl_conch.png",
+      "nameFr": "Conque de béryl",
+      "familyFr": "Conque de béryl"
     },
     {
       "id": "brilliant_chrysanthemum",
@@ -2612,7 +3003,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/brilliant_chrysanthemum.png"
+      "image": "materials/brilliant_chrysanthemum.png",
+      "nameFr": "Chrysanthème brillant",
+      "familyFr": "Chrysanthème brillant"
     },
     {
       "id": "calla_lily",
@@ -2626,7 +3019,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/calla_lily.png"
+      "image": "materials/calla_lily.png",
+      "nameFr": "Lys calla",
+      "familyFr": "Lys calla"
     },
     {
       "id": "cecilia",
@@ -2640,7 +3035,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/cecilia.png"
+      "image": "materials/cecilia.png",
+      "nameFr": "Cécilia",
+      "familyFr": "Cécilia"
     },
     {
       "id": "clearwater_jade",
@@ -2654,7 +3051,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/clearwater_jade.png"
+      "image": "materials/clearwater_jade.png",
+      "nameFr": "Jade cristallin",
+      "familyFr": "Jade cristallin"
     },
     {
       "id": "cor_lapis",
@@ -2668,7 +3067,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/cor_lapis.png"
+      "image": "materials/cor_lapis.png",
+      "nameFr": "Cœur de lapis",
+      "familyFr": "Cœur de lapis"
     },
     {
       "id": "crystal_marrow",
@@ -2682,7 +3083,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/crystal_marrow.png"
+      "image": "materials/crystal_marrow.png",
+      "nameFr": "Moelle cristalline",
+      "familyFr": "Moelle cristalline"
     },
     {
       "id": "dandelion_seed",
@@ -2696,7 +3099,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dandelion_seed.png"
+      "image": "materials/dandelion_seed.png",
+      "nameFr": "Graines de pissenlit",
+      "familyFr": "Graines de pissenlit"
     },
     {
       "id": "dendrobium",
@@ -2710,7 +3115,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dendrobium.png"
+      "image": "materials/dendrobium.png",
+      "nameFr": "Dendrobium sanglant",
+      "familyFr": "Dendrobium sanglant"
     },
     {
       "id": "dracolite",
@@ -2724,7 +3131,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/dracolite.png"
+      "image": "materials/dracolite.png",
+      "nameFr": "Dracolite",
+      "familyFr": "Dracolite"
     },
     {
       "id": "fluorescent_fungus",
@@ -2738,7 +3147,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/fluorescent_fungus.png"
+      "image": "materials/fluorescent_fungus.png",
+      "nameFr": "Champignon fluorescent",
+      "familyFr": "Champignon fluorescent"
     },
     {
       "id": "frostlamp_flower",
@@ -2752,7 +3163,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/frostlamp_flower.png"
+      "image": "materials/frostlamp_flower.png",
+      "nameFr": "Fleur lampe-de-givre",
+      "familyFr": "Fleur lampe-de-givre"
     },
     {
       "id": "glaze_lily",
@@ -2766,7 +3179,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/glaze_lily.png"
+      "image": "materials/glaze_lily.png",
+      "nameFr": "Lys verni",
+      "familyFr": "Lys verni"
     },
     {
       "id": "glowing_hornshroom",
@@ -2780,7 +3195,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/glowing_hornshroom.png"
+      "image": "materials/glowing_hornshroom.png",
+      "nameFr": "Champicorne brillant",
+      "familyFr": "Champicorne brillant"
     },
     {
       "id": "henna_berry",
@@ -2794,7 +3211,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/henna_berry.png"
+      "image": "materials/henna_berry.png",
+      "nameFr": "Quandong",
+      "familyFr": "Quandong"
     },
     {
       "id": "jueyun_chili",
@@ -2808,7 +3227,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/jueyun_chili.png"
+      "image": "materials/jueyun_chili.png",
+      "nameFr": "Piment de Jueyun",
+      "familyFr": "Piment de Jueyun"
     },
     {
       "id": "kalpalata_lotus",
@@ -2822,7 +3243,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/kalpalata_lotus.png"
+      "image": "materials/kalpalata_lotus.png",
+      "nameFr": "Kalpalotus",
+      "familyFr": "Kalpalotus"
     },
     {
       "id": "lakelight_lily",
@@ -2836,7 +3259,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/lakelight_lily.png"
+      "image": "materials/lakelight_lily.png",
+      "nameFr": "Lys lacmineux",
+      "familyFr": "Lys lacmineux"
     },
     {
       "id": "lumidouce_bell",
@@ -2850,7 +3275,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/lumidouce_bell.png"
+      "image": "materials/lumidouce_bell.png",
+      "nameFr": "Clochette de Lumidouce",
+      "familyFr": "Clochette de Lumidouce"
     },
     {
       "id": "lumitoile",
@@ -2864,7 +3291,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/lumitoile.png"
+      "image": "materials/lumitoile.png",
+      "nameFr": "Sombrétoile",
+      "familyFr": "Sombrétoile"
     },
     {
       "id": "moonfall_silver",
@@ -2878,7 +3307,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/moonfall_silver.png"
+      "image": "materials/moonfall_silver.png",
+      "nameFr": "Argent de lune déchue",
+      "familyFr": "Argent de lune déchue"
     },
     {
       "id": "mourning_flower",
@@ -2892,7 +3323,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/mourning_flower.png"
+      "image": "materials/mourning_flower.png",
+      "nameFr": "Fleur funéraire",
+      "familyFr": "Fleur funéraire"
     },
     {
       "id": "naku_weed",
@@ -2906,7 +3339,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/naku_weed.png"
+      "image": "materials/naku_weed.png",
+      "nameFr": "Herbe à sanglots",
+      "familyFr": "Herbe à sanglots"
     },
     {
       "id": "nilotpala_lotus",
@@ -2920,7 +3355,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/nilotpala_lotus.png"
+      "image": "materials/nilotpala_lotus.png",
+      "nameFr": "Nilotpalotus",
+      "familyFr": "Nilotpalotus"
     },
     {
       "id": "noctilucous_jade",
@@ -2934,7 +3371,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/noctilucous_jade.png"
+      "image": "materials/noctilucous_jade.png",
+      "nameFr": "Jade noctiluque",
+      "familyFr": "Jade noctiluque"
     },
     {
       "id": "onikabuto",
@@ -2948,7 +3387,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/onikabuto.png"
+      "image": "materials/onikabuto.png",
+      "nameFr": "Scarabuto",
+      "familyFr": "Scarabuto"
     },
     {
       "id": "padisarah",
@@ -2962,7 +3403,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/padisarah.png"
+      "image": "materials/padisarah.png",
+      "nameFr": "Padisachidée",
+      "familyFr": "Padisachidée"
     },
     {
       "id": "philanemo_mushroom",
@@ -2976,7 +3419,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/philanemo_mushroom.png"
+      "image": "materials/philanemo_mushroom.png",
+      "nameFr": "Champignon anémophile",
+      "familyFr": "Champignon anémophile"
     },
     {
       "id": "portable_bearing",
@@ -2990,7 +3435,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/portable_bearing.png"
+      "image": "materials/portable_bearing.png",
+      "nameFr": "Roulement portable",
+      "familyFr": "Roulement portable"
     },
     {
       "id": "qingxin",
@@ -3004,7 +3451,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/qingxin.png"
+      "image": "materials/qingxin.png",
+      "nameFr": "Fleur de Qingxin",
+      "familyFr": "Fleur de Qingxin"
     },
     {
       "id": "quenepa_berry",
@@ -3018,7 +3467,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/quenepa_berry.png"
+      "image": "materials/quenepa_berry.png",
+      "nameFr": "Baie de quenettier",
+      "familyFr": "Baie de quenettier"
     },
     {
       "id": "rainbow_rose",
@@ -3032,7 +3483,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/rainbow_rose.png"
+      "image": "materials/rainbow_rose.png",
+      "nameFr": "Rose arc-en-ciel",
+      "familyFr": "Rose arc-en-ciel"
     },
     {
       "id": "romaritime_flower",
@@ -3046,7 +3499,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/romaritime_flower.png"
+      "image": "materials/romaritime_flower.png",
+      "nameFr": "Fleur romaritime",
+      "familyFr": "Fleur romaritime"
     },
     {
       "id": "rukkhashava_mushrooms",
@@ -3060,7 +3515,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/rukkhashava_mushrooms.png"
+      "image": "materials/rukkhashava_mushrooms.png",
+      "nameFr": "Champignon sacramental",
+      "familyFr": "Champignon sacramental"
     },
     {
       "id": "sakura_bloom",
@@ -3074,7 +3531,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sakura_bloom.png"
+      "image": "materials/sakura_bloom.png",
+      "nameFr": "Fleur de cerisier",
+      "familyFr": "Fleur de cerisier"
     },
     {
       "id": "sand_grease_pupa",
@@ -3088,7 +3547,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sand_grease_pupa.png"
+      "image": "materials/sand_grease_pupa.png",
+      "nameFr": "Pupe graisseuse des sables",
+      "familyFr": "Pupe graisseuse des sables"
     },
     {
       "id": "sango_pearl",
@@ -3102,7 +3563,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sango_pearl.png"
+      "image": "materials/sango_pearl.png",
+      "nameFr": "Perle de corail",
+      "familyFr": "Perle de corail"
     },
     {
       "id": "saurian_claw_succulent",
@@ -3116,7 +3579,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/saurian_claw_succulent.png"
+      "image": "materials/saurian_claw_succulent.png",
+      "nameFr": "Patte saurienne",
+      "familyFr": "Patte saurienne"
     },
     {
       "id": "scarab",
@@ -3130,7 +3595,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/scarab.png"
+      "image": "materials/scarab.png",
+      "nameFr": "Scarabée",
+      "familyFr": "Scarabée"
     },
     {
       "id": "sea_ganoderma",
@@ -3144,7 +3611,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sea_ganoderma.png"
+      "image": "materials/sea_ganoderma.png",
+      "nameFr": "Ganoderma marin",
+      "familyFr": "Ganoderma marin"
     },
     {
       "id": "silk_flower",
@@ -3158,7 +3627,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/silk_flower.png"
+      "image": "materials/silk_flower.png",
+      "nameFr": "Fleur de soie",
+      "familyFr": "Fleur de soie"
     },
     {
       "id": "skysplit_gembloom",
@@ -3172,7 +3643,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/skysplit_gembloom.png"
+      "image": "materials/skysplit_gembloom.png",
+      "nameFr": "Floraigemme brise-ciel",
+      "familyFr": "Floraigemme brise-ciel"
     },
     {
       "id": "small_lamp_grass",
@@ -3186,7 +3659,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/small_lamp_grass.png"
+      "image": "materials/small_lamp_grass.png",
+      "nameFr": "Herbe à lampe",
+      "familyFr": "Herbe à lampe"
     },
     {
       "id": "sprayfeather_gill",
@@ -3200,7 +3675,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/sprayfeather_gill.png"
+      "image": "materials/sprayfeather_gill.png",
+      "nameFr": "Branchie mousseplume",
+      "familyFr": "Branchie mousseplume"
     },
     {
       "id": "spring_of_the_first_dewdrop",
@@ -3214,7 +3691,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/spring_of_the_first_dewdrop.png"
+      "image": "materials/spring_of_the_first_dewdrop.png",
+      "nameFr": "Source des premières rosées",
+      "familyFr": "Source des premières rosées"
     },
     {
       "id": "starconch",
@@ -3228,7 +3707,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/starconch.png"
+      "image": "materials/starconch.png",
+      "nameFr": "Conque d'étoile",
+      "familyFr": "Conque d'étoile"
     },
     {
       "id": "subdetection_unit",
@@ -3242,7 +3723,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/subdetection_unit.png"
+      "image": "materials/subdetection_unit.png",
+      "nameFr": "Unité de sous-détection",
+      "familyFr": "Unité de sous-détection"
     },
     {
       "id": "trishiraite",
@@ -3256,7 +3739,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/trishiraite.png"
+      "image": "materials/trishiraite.png",
+      "nameFr": "Trishiraite",
+      "familyFr": "Trishiraite"
     },
     {
       "id": "valberry",
@@ -3270,7 +3755,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/valberry.png"
+      "image": "materials/valberry.png",
+      "nameFr": "Tombaie",
+      "familyFr": "Tombaie"
     },
     {
       "id": "violetgrass",
@@ -3284,7 +3771,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/violetgrass.png"
+      "image": "materials/violetgrass.png",
+      "nameFr": "Muguet bleu",
+      "familyFr": "Muguet bleu"
     },
     {
       "id": "windwheel_aster",
@@ -3298,7 +3787,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/windwheel_aster.png"
+      "image": "materials/windwheel_aster.png",
+      "nameFr": "Chrysanthème à aubes",
+      "familyFr": "Chrysanthème à aubes"
     },
     {
       "id": "winter_icelea",
@@ -3312,7 +3803,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/winter_icelea.png"
+      "image": "materials/winter_icelea.png",
+      "nameFr": "Glacelée d'hiver",
+      "familyFr": "Glacelée d'hiver"
     },
     {
       "id": "withering_purpurbloom",
@@ -3326,7 +3819,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/withering_purpurbloom.png"
+      "image": "materials/withering_purpurbloom.png",
+      "nameFr": "Pourprinfleur fanée",
+      "familyFr": "Pourprinfleur fanée"
     },
     {
       "id": "wolfhook",
@@ -3340,7 +3835,9 @@
       "days": [],
       "resin": 0,
       "dropMax": 0,
-      "image": "materials/wolfhook.png"
+      "image": "materials/wolfhook.png",
+      "nameFr": "Baie à crochet",
+      "familyFr": "Baie à crochet"
     },
     {
       "id": "mora",
@@ -3354,7 +3851,10 @@
       "days": [],
       "resin": 20,
       "dropMax": 60000,
-      "image": "materials/mora.png"
+      "image": "materials/mora.png",
+      "nameFr": "Mora",
+      "familyFr": "Mora",
+      "sourceNameFr": "Fleur de la fortune"
     },
     {
       "id": "vayuda_turquoise_sliver",
@@ -3368,7 +3868,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/vayuda_turquoise_sliver.png"
+      "image": "materials/vayuda_turquoise_sliver.png",
+      "nameFr": "Éclat de turquoise vayuda",
+      "familyFr": "Turquoise vayuda"
     },
     {
       "id": "vayuda_turquoise_fragment",
@@ -3382,7 +3884,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/vayuda_turquoise_fragment.png"
+      "image": "materials/vayuda_turquoise_fragment.png",
+      "nameFr": "Fragment de turquoise vayuda",
+      "familyFr": "Turquoise vayuda"
     },
     {
       "id": "vayuda_turquoise_chunk",
@@ -3396,7 +3900,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/vayuda_turquoise_chunk.png"
+      "image": "materials/vayuda_turquoise_chunk.png",
+      "nameFr": "Morceau de turquoise vayuda",
+      "familyFr": "Turquoise vayuda"
     },
     {
       "id": "vayuda_turquoise_gemstone",
@@ -3410,7 +3916,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/vayuda_turquoise_gemstone.png"
+      "image": "materials/vayuda_turquoise_gemstone.png",
+      "nameFr": "Pierre de turquoise vayuda",
+      "familyFr": "Turquoise vayuda"
     },
     {
       "id": "shivada_jade_sliver",
@@ -3424,7 +3932,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/shivada_jade_sliver.png"
+      "image": "materials/shivada_jade_sliver.png",
+      "nameFr": "Éclat de jade shivada",
+      "familyFr": "Jade shivada"
     },
     {
       "id": "shivada_jade_fragment",
@@ -3438,7 +3948,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/shivada_jade_fragment.png"
+      "image": "materials/shivada_jade_fragment.png",
+      "nameFr": "Fragment de jade shivada",
+      "familyFr": "Jade shivada"
     },
     {
       "id": "shivada_jade_chunk",
@@ -3452,7 +3964,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/shivada_jade_chunk.png"
+      "image": "materials/shivada_jade_chunk.png",
+      "nameFr": "Morceau de jade shivada",
+      "familyFr": "Jade shivada"
     },
     {
       "id": "shivada_jade_gemstone",
@@ -3466,7 +3980,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/shivada_jade_gemstone.png"
+      "image": "materials/shivada_jade_gemstone.png",
+      "nameFr": "Pierre de jade shivada",
+      "familyFr": "Jade shivada"
     },
     {
       "id": "nagadus_emerald_sliver",
@@ -3480,7 +3996,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/nagadus_emerald_sliver.png"
+      "image": "materials/nagadus_emerald_sliver.png",
+      "nameFr": "Éclat d'émeraude nagadus",
+      "familyFr": "Émeraude nagadus"
     },
     {
       "id": "nagadus_emerald_fragment",
@@ -3494,7 +4012,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/nagadus_emerald_fragment.png"
+      "image": "materials/nagadus_emerald_fragment.png",
+      "nameFr": "Fragment d'émeraude nagadus",
+      "familyFr": "Émeraude nagadus"
     },
     {
       "id": "nagadus_emerald_chunk",
@@ -3508,7 +4028,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/nagadus_emerald_chunk.png"
+      "image": "materials/nagadus_emerald_chunk.png",
+      "nameFr": "Morceau d'émeraude nagadus",
+      "familyFr": "Émeraude nagadus"
     },
     {
       "id": "nagadus_emerald_gemstone",
@@ -3522,7 +4044,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/nagadus_emerald_gemstone.png"
+      "image": "materials/nagadus_emerald_gemstone.png",
+      "nameFr": "Pierre d'émeraude nagadus",
+      "familyFr": "Émeraude nagadus"
     },
     {
       "id": "vajrada_amethyst_sliver",
@@ -3536,7 +4060,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/vajrada_amethyst_sliver.png"
+      "image": "materials/vajrada_amethyst_sliver.png",
+      "nameFr": "Éclat d'améthyste vajrada",
+      "familyFr": "Améthyste vajrada"
     },
     {
       "id": "vajrada_amethyst_fragment",
@@ -3550,7 +4076,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/vajrada_amethyst_fragment.png"
+      "image": "materials/vajrada_amethyst_fragment.png",
+      "nameFr": "Fragment d'améthyste vajrada",
+      "familyFr": "Améthyste vajrada"
     },
     {
       "id": "vajrada_amethyst_chunk",
@@ -3564,7 +4092,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/vajrada_amethyst_chunk.png"
+      "image": "materials/vajrada_amethyst_chunk.png",
+      "nameFr": "Morceau d'améthyste vajrada",
+      "familyFr": "Améthyste vajrada"
     },
     {
       "id": "vajrada_amethyst_gemstone",
@@ -3578,7 +4108,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/vajrada_amethyst_gemstone.png"
+      "image": "materials/vajrada_amethyst_gemstone.png",
+      "nameFr": "Pierre d'améthyste vajrada",
+      "familyFr": "Améthyste vajrada"
     },
     {
       "id": "prithiva_topaz_sliver",
@@ -3592,7 +4124,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/prithiva_topaz_sliver.png"
+      "image": "materials/prithiva_topaz_sliver.png",
+      "nameFr": "Éclat de topaze prithiva",
+      "familyFr": "Topaze prithiva"
     },
     {
       "id": "prithiva_topaz_fragment",
@@ -3606,7 +4140,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/prithiva_topaz_fragment.png"
+      "image": "materials/prithiva_topaz_fragment.png",
+      "nameFr": "Fragment de topaze prithiva",
+      "familyFr": "Topaze prithiva"
     },
     {
       "id": "prithiva_topaz_chunk",
@@ -3620,7 +4156,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/prithiva_topaz_chunk.png"
+      "image": "materials/prithiva_topaz_chunk.png",
+      "nameFr": "Morceau de topaze prithiva",
+      "familyFr": "Topaze prithiva"
     },
     {
       "id": "prithiva_topaz_gemstone",
@@ -3634,7 +4172,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/prithiva_topaz_gemstone.png"
+      "image": "materials/prithiva_topaz_gemstone.png",
+      "nameFr": "Pierre de topaze prithiva",
+      "familyFr": "Topaze prithiva"
     },
     {
       "id": "varunada_lazurite_sliver",
@@ -3648,7 +4188,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/varunada_lazurite_sliver.png"
+      "image": "materials/varunada_lazurite_sliver.png",
+      "nameFr": "Éclat de lazurite varunada",
+      "familyFr": "Lazurite varunada"
     },
     {
       "id": "varunada_lazurite_fragment",
@@ -3662,7 +4204,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/varunada_lazurite_fragment.png"
+      "image": "materials/varunada_lazurite_fragment.png",
+      "nameFr": "Fragment de lazurite varunada",
+      "familyFr": "Lazurite varunada"
     },
     {
       "id": "varunada_lazurite_chunk",
@@ -3676,7 +4220,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/varunada_lazurite_chunk.png"
+      "image": "materials/varunada_lazurite_chunk.png",
+      "nameFr": "Morceau de lazurite varunada",
+      "familyFr": "Lazurite varunada"
     },
     {
       "id": "varunada_lazurite_gemstone",
@@ -3690,7 +4236,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/varunada_lazurite_gemstone.png"
+      "image": "materials/varunada_lazurite_gemstone.png",
+      "nameFr": "Pierre de lazurite varunada",
+      "familyFr": "Lazurite varunada"
     },
     {
       "id": "agnidus_agate_sliver",
@@ -3704,7 +4252,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/agnidus_agate_sliver.png"
+      "image": "materials/agnidus_agate_sliver.png",
+      "nameFr": "Éclat d'agate agnidus",
+      "familyFr": "Agate agnidus"
     },
     {
       "id": "agnidus_agate_fragment",
@@ -3718,7 +4268,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 3,
-      "image": "materials/agnidus_agate_fragment.png"
+      "image": "materials/agnidus_agate_fragment.png",
+      "nameFr": "Fragment d'agate agnidus",
+      "familyFr": "Agate agnidus"
     },
     {
       "id": "agnidus_agate_chunk",
@@ -3732,7 +4284,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 2,
-      "image": "materials/agnidus_agate_chunk.png"
+      "image": "materials/agnidus_agate_chunk.png",
+      "nameFr": "Morceau d'agate agnidus",
+      "familyFr": "Agate agnidus"
     },
     {
       "id": "agnidus_agate_gemstone",
@@ -3746,7 +4300,9 @@
       "days": [],
       "resin": 40,
       "dropMax": 1,
-      "image": "materials/agnidus_agate_gemstone.png"
+      "image": "materials/agnidus_agate_gemstone.png",
+      "nameFr": "Pierre d'agate agnidus",
+      "familyFr": "Agate agnidus"
     },
     {
       "id": "teachings_of_admonition",
@@ -3764,7 +4320,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_admonition.png"
+      "image": "materials/teachings_of_admonition.png",
+      "nameFr": "Enseignement de l'Admonestation",
+      "sourceNameFr": "Donjon de la maîtrise : Pleine lune",
+      "familyFr": "Admonestation"
     },
     {
       "id": "guide_to_admonition",
@@ -3782,7 +4341,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_admonition.png"
+      "image": "materials/guide_to_admonition.png",
+      "nameFr": "Guide de l'Admonestation",
+      "sourceNameFr": "Donjon de la maîtrise : Pleine lune",
+      "familyFr": "Admonestation"
     },
     {
       "id": "philosophies_of_admonition",
@@ -3800,7 +4362,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_admonition.png"
+      "image": "materials/philosophies_of_admonition.png",
+      "nameFr": "Philosophie de l'Admonestation",
+      "sourceNameFr": "Donjon de la maîtrise : Pleine lune",
+      "familyFr": "Admonestation"
     },
     {
       "id": "teachings_of_ballad",
@@ -3818,7 +4383,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_ballad.png"
+      "image": "materials/teachings_of_ballad.png",
+      "nameFr": "Enseignement de la Poésie",
+      "sourceNameFr": "Donjon de la maîtrise : Royaume endormi",
+      "familyFr": "Poésie"
     },
     {
       "id": "guide_to_ballad",
@@ -3836,7 +4404,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_ballad.png"
+      "image": "materials/guide_to_ballad.png",
+      "nameFr": "Guide de la Poésie",
+      "sourceNameFr": "Donjon de la maîtrise : Royaume endormi",
+      "familyFr": "Poésie"
     },
     {
       "id": "philosophies_of_ballad",
@@ -3854,7 +4425,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_ballad.png"
+      "image": "materials/philosophies_of_ballad.png",
+      "nameFr": "Philosophie de la Poésie",
+      "sourceNameFr": "Donjon de la maîtrise : Royaume endormi",
+      "familyFr": "Poésie"
     },
     {
       "id": "teachings_of_conflict",
@@ -3872,7 +4446,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_conflict.png"
+      "image": "materials/teachings_of_conflict.png",
+      "nameFr": "Enseignement du Conflit",
+      "sourceNameFr": "Donjon d'entraînement : Retournement",
+      "familyFr": "Conflit"
     },
     {
       "id": "guide_to_conflict",
@@ -3890,7 +4467,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_conflict.png"
+      "image": "materials/guide_to_conflict.png",
+      "nameFr": "Guide du Conflit",
+      "sourceNameFr": "Donjon d'entraînement : Retournement",
+      "familyFr": "Conflit"
     },
     {
       "id": "philosophies_of_conflict",
@@ -3908,7 +4488,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_conflict.png"
+      "image": "materials/philosophies_of_conflict.png",
+      "nameFr": "Philosophie du Conflit",
+      "sourceNameFr": "Donjon d'entraînement : Retournement",
+      "familyFr": "Conflit"
     },
     {
       "id": "teachings_of_contention",
@@ -3926,7 +4509,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_contention.png"
+      "image": "materials/teachings_of_contention.png",
+      "nameFr": "Enseignement de la Compétition",
+      "sourceNameFr": "Donjon d'entraînement : Reconversion",
+      "familyFr": "Compétition"
     },
     {
       "id": "guide_to_contention",
@@ -3944,7 +4530,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_contention.png"
+      "image": "materials/guide_to_contention.png",
+      "nameFr": "Guide de la Compétition",
+      "sourceNameFr": "Donjon d'entraînement : Reconversion",
+      "familyFr": "Compétition"
     },
     {
       "id": "philosophies_of_contention",
@@ -3962,7 +4551,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_contention.png"
+      "image": "materials/philosophies_of_contention.png",
+      "nameFr": "Philosophie de la Compétition",
+      "sourceNameFr": "Donjon d'entraînement : Reconversion",
+      "familyFr": "Compétition"
     },
     {
       "id": "teachings_of_diligence",
@@ -3980,7 +4572,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_diligence.png"
+      "image": "materials/teachings_of_diligence.png",
+      "nameFr": "Enseignement de la Diligence",
+      "sourceNameFr": "Donjon de la maîtrise : Au cœur des flammes",
+      "familyFr": "Diligence"
     },
     {
       "id": "guide_to_diligence",
@@ -3998,7 +4593,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_diligence.png"
+      "image": "materials/guide_to_diligence.png",
+      "nameFr": "Guide de la Diligence",
+      "sourceNameFr": "Donjon de la maîtrise : Au cœur des flammes",
+      "familyFr": "Diligence"
     },
     {
       "id": "philosophies_of_diligence",
@@ -4016,7 +4614,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_diligence.png"
+      "image": "materials/philosophies_of_diligence.png",
+      "nameFr": "Philosophie de la Diligence",
+      "sourceNameFr": "Donjon de la maîtrise : Au cœur des flammes",
+      "familyFr": "Diligence"
     },
     {
       "id": "teachings_of_elegance",
@@ -4034,7 +4635,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_elegance.png"
+      "image": "materials/teachings_of_elegance.png",
+      "nameFr": "Enseignement de l'Élégance",
+      "sourceNameFr": "Donjon de la maîtrise : Vallée foudroyée",
+      "familyFr": "Élégance"
     },
     {
       "id": "guide_to_elegance",
@@ -4052,7 +4656,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_elegance.png"
+      "image": "materials/guide_to_elegance.png",
+      "nameFr": "Guide de l'Élégance",
+      "sourceNameFr": "Donjon de la maîtrise : Vallée foudroyée",
+      "familyFr": "Élégance"
     },
     {
       "id": "philosophies_of_elegance",
@@ -4070,7 +4677,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_elegance.png"
+      "image": "materials/philosophies_of_elegance.png",
+      "nameFr": "Philosophie de l'Élégance",
+      "sourceNameFr": "Donjon de la maîtrise : Vallée foudroyée",
+      "familyFr": "Élégance"
     },
     {
       "id": "teachings_of_elysium",
@@ -4088,7 +4698,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_elysium.png"
+      "image": "materials/teachings_of_elysium.png",
+      "nameFr": "Enseignement de l'Élysium",
+      "sourceNameFr": "Donjon de la maîtrise : Héritage sombre",
+      "familyFr": "Élysium"
     },
     {
       "id": "guide_to_elysium",
@@ -4106,7 +4719,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_elysium.png"
+      "image": "materials/guide_to_elysium.png",
+      "nameFr": "Guide de l'Élysium",
+      "sourceNameFr": "Donjon de la maîtrise : Héritage sombre",
+      "familyFr": "Élysium"
     },
     {
       "id": "philosophies_of_elysium",
@@ -4124,7 +4740,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_elysium.png"
+      "image": "materials/philosophies_of_elysium.png",
+      "nameFr": "Philosophie de l'Élysium",
+      "sourceNameFr": "Donjon de la maîtrise : Héritage sombre",
+      "familyFr": "Élysium"
     },
     {
       "id": "teachings_of_equity",
@@ -4142,7 +4761,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_equity.png"
+      "image": "materials/teachings_of_equity.png",
+      "nameFr": "Enseignement de l'Équité",
+      "sourceNameFr": "Donjon de la maîtrise : Rime rythmique",
+      "familyFr": "Équité"
     },
     {
       "id": "guide_to_equity",
@@ -4160,7 +4782,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_equity.png"
+      "image": "materials/guide_to_equity.png",
+      "nameFr": "Guide de l'Équité",
+      "sourceNameFr": "Donjon de la maîtrise : Rime rythmique",
+      "familyFr": "Équité"
     },
     {
       "id": "philosophies_of_equity",
@@ -4178,7 +4803,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_equity.png"
+      "image": "materials/philosophies_of_equity.png",
+      "nameFr": "Philosophie de l'Équité",
+      "sourceNameFr": "Donjon de la maîtrise : Rime rythmique",
+      "familyFr": "Équité"
     },
     {
       "id": "teachings_of_freedom",
@@ -4196,7 +4824,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_freedom.png"
+      "image": "materials/teachings_of_freedom.png",
+      "nameFr": "Enseignement de la Liberté",
+      "sourceNameFr": "Donjon de la maîtrise : Autel givré",
+      "familyFr": "Liberté"
     },
     {
       "id": "guide_to_freedom",
@@ -4214,7 +4845,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_freedom.png"
+      "image": "materials/guide_to_freedom.png",
+      "nameFr": "Guide de la Liberté",
+      "sourceNameFr": "Donjon de la maîtrise : Autel givré",
+      "familyFr": "Liberté"
     },
     {
       "id": "philosophies_of_freedom",
@@ -4232,7 +4866,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_freedom.png"
+      "image": "materials/philosophies_of_freedom.png",
+      "nameFr": "Philosophie de la Liberté",
+      "sourceNameFr": "Donjon de la maîtrise : Autel givré",
+      "familyFr": "Liberté"
     },
     {
       "id": "teachings_of_gold",
@@ -4250,7 +4887,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_gold.png"
+      "image": "materials/teachings_of_gold.png",
+      "nameFr": "Enseignement de l'Or",
+      "sourceNameFr": "Donjon de la maîtrise : Cercle brûlant",
+      "familyFr": "Or"
     },
     {
       "id": "guide_to_gold",
@@ -4268,7 +4908,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_gold.png"
+      "image": "materials/guide_to_gold.png",
+      "nameFr": "Guide de l'Or",
+      "sourceNameFr": "Donjon de la maîtrise : Cercle brûlant",
+      "familyFr": "Or"
     },
     {
       "id": "philosophies_of_gold",
@@ -4286,7 +4929,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_gold.png"
+      "image": "materials/philosophies_of_gold.png",
+      "nameFr": "Philosophie de l'Or",
+      "sourceNameFr": "Donjon de la maîtrise : Cercle brûlant",
+      "familyFr": "Or"
     },
     {
       "id": "teachings_of_ingenuity",
@@ -4304,7 +4950,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_ingenuity.png"
+      "image": "materials/teachings_of_ingenuity.png",
+      "nameFr": "Enseignement de l'Ingénuité",
+      "sourceNameFr": "Donjon de la maîtrise : Trait d'esprit",
+      "familyFr": "Ingénuité"
     },
     {
       "id": "guide_to_ingenuity",
@@ -4322,7 +4971,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_ingenuity.png"
+      "image": "materials/guide_to_ingenuity.png",
+      "nameFr": "Guide de l'Ingénuité",
+      "sourceNameFr": "Donjon de la maîtrise : Trait d'esprit",
+      "familyFr": "Ingénuité"
     },
     {
       "id": "philosophies_of_ingenuity",
@@ -4340,7 +4992,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_ingenuity.png"
+      "image": "materials/philosophies_of_ingenuity.png",
+      "nameFr": "Philosophie de l'Ingénuité",
+      "sourceNameFr": "Donjon de la maîtrise : Trait d'esprit",
+      "familyFr": "Ingénuité"
     },
     {
       "id": "teachings_of_justice",
@@ -4358,7 +5013,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_justice.png"
+      "image": "materials/teachings_of_justice.png",
+      "nameFr": "Enseignement de la Justice",
+      "sourceNameFr": "Donjon de la maîtrise : Maxime",
+      "familyFr": "Justice"
     },
     {
       "id": "guide_to_justice",
@@ -4376,7 +5034,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_justice.png"
+      "image": "materials/guide_to_justice.png",
+      "nameFr": "Guide de la Justice",
+      "sourceNameFr": "Donjon de la maîtrise : Maxime",
+      "familyFr": "Justice"
     },
     {
       "id": "philosophies_of_justice",
@@ -4394,7 +5055,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_justice.png"
+      "image": "materials/philosophies_of_justice.png",
+      "nameFr": "Philosophie de la Justice",
+      "sourceNameFr": "Donjon de la maîtrise : Maxime",
+      "familyFr": "Justice"
     },
     {
       "id": "teachings_of_kindling",
@@ -4412,7 +5076,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_kindling.png"
+      "image": "materials/teachings_of_kindling.png",
+      "nameFr": "Enseignement du Petit bois",
+      "sourceNameFr": "Donjon d'entraînement : Illusions",
+      "familyFr": "Petit bois"
     },
     {
       "id": "guide_to_kindling",
@@ -4430,7 +5097,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_kindling.png"
+      "image": "materials/guide_to_kindling.png",
+      "nameFr": "Guide du Petit bois",
+      "sourceNameFr": "Donjon d'entraînement : Illusions",
+      "familyFr": "Petit bois"
     },
     {
       "id": "philosophies_of_kindling",
@@ -4448,7 +5118,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_kindling.png"
+      "image": "materials/philosophies_of_kindling.png",
+      "nameFr": "Philosophie du Petit bois",
+      "sourceNameFr": "Donjon d'entraînement : Illusions",
+      "familyFr": "Petit bois"
     },
     {
       "id": "teachings_of_light",
@@ -4466,7 +5139,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_light.png"
+      "image": "materials/teachings_of_light.png",
+      "nameFr": "Enseignement de la Lumière",
+      "sourceNameFr": "Donjon de la maîtrise : Ruines de ronces",
+      "familyFr": "Éclairages"
     },
     {
       "id": "guide_to_light",
@@ -4484,7 +5160,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_light.png"
+      "image": "materials/guide_to_light.png",
+      "nameFr": "Guide de la Lumière",
+      "sourceNameFr": "Donjon de la maîtrise : Ruines de ronces",
+      "familyFr": "Éclairages"
     },
     {
       "id": "philosophies_of_light",
@@ -4502,7 +5181,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_light.png"
+      "image": "materials/philosophies_of_light.png",
+      "nameFr": "Philosophie de la Lumière",
+      "sourceNameFr": "Donjon de la maîtrise : Ruines de ronces",
+      "familyFr": "Éclairages"
     },
     {
       "id": "teachings_of_moonlight",
@@ -4520,7 +5202,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_moonlight.png"
+      "image": "materials/teachings_of_moonlight.png",
+      "nameFr": "Enseignement de la Lune",
+      "sourceNameFr": "Donjon de la maîtrise : Cité déchue",
+      "familyFr": "Lumière lunaire"
     },
     {
       "id": "guide_to_moonlight",
@@ -4538,7 +5223,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_moonlight.png"
+      "image": "materials/guide_to_moonlight.png",
+      "nameFr": "Guide de la Lune",
+      "sourceNameFr": "Donjon de la maîtrise : Cité déchue",
+      "familyFr": "Lumière lunaire"
     },
     {
       "id": "philosophies_of_moonlight",
@@ -4556,7 +5244,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_moonlight.png"
+      "image": "materials/philosophies_of_moonlight.png",
+      "nameFr": "Philosophie de la Lune",
+      "sourceNameFr": "Donjon de la maîtrise : Cité déchue",
+      "familyFr": "Lumière lunaire"
     },
     {
       "id": "teachings_of_order",
@@ -4574,7 +5265,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_order.png"
+      "image": "materials/teachings_of_order.png",
+      "nameFr": "Enseignement de l'Ordre",
+      "sourceNameFr": "Donjon de la maîtrise : Psaume",
+      "familyFr": "Ordre"
     },
     {
       "id": "guide_to_order",
@@ -4592,7 +5286,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_order.png"
+      "image": "materials/guide_to_order.png",
+      "nameFr": "Guide de l'Ordre",
+      "sourceNameFr": "Donjon de la maîtrise : Psaume",
+      "familyFr": "Ordre"
     },
     {
       "id": "philosophies_of_order",
@@ -4610,7 +5307,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_order.png"
+      "image": "materials/philosophies_of_order.png",
+      "nameFr": "Philosophie de l'Ordre",
+      "sourceNameFr": "Donjon de la maîtrise : Psaume",
+      "familyFr": "Ordre"
     },
     {
       "id": "teachings_of_praxis",
@@ -4628,7 +5328,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_praxis.png"
+      "image": "materials/teachings_of_praxis.png",
+      "nameFr": "Enseignement de l'Usage",
+      "sourceNameFr": "Donjon de la maîtrise : Discipline",
+      "familyFr": "Usage"
     },
     {
       "id": "guide_to_praxis",
@@ -4646,7 +5349,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_praxis.png"
+      "image": "materials/guide_to_praxis.png",
+      "nameFr": "Guide de l'Usage",
+      "sourceNameFr": "Donjon de la maîtrise : Discipline",
+      "familyFr": "Usage"
     },
     {
       "id": "philosophies_of_praxis",
@@ -4664,7 +5370,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_praxis.png"
+      "image": "materials/philosophies_of_praxis.png",
+      "nameFr": "Philosophie de l'Usage",
+      "sourceNameFr": "Donjon de la maîtrise : Discipline",
+      "familyFr": "Usage"
     },
     {
       "id": "teachings_of_prosperity",
@@ -4682,7 +5391,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_prosperity.png"
+      "image": "materials/teachings_of_prosperity.png",
+      "nameFr": "Enseignement de la Prospérité",
+      "sourceNameFr": "Donjon de la maîtrise : Autel des flammes",
+      "familyFr": "Prospérité"
     },
     {
       "id": "guide_to_prosperity",
@@ -4700,7 +5412,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_prosperity.png"
+      "image": "materials/guide_to_prosperity.png",
+      "nameFr": "Guide de la Prospérité",
+      "sourceNameFr": "Donjon de la maîtrise : Autel des flammes",
+      "familyFr": "Prospérité"
     },
     {
       "id": "philosophies_of_prosperity",
@@ -4718,7 +5433,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_prosperity.png"
+      "image": "materials/philosophies_of_prosperity.png",
+      "nameFr": "Philosophie de la Prospérité",
+      "sourceNameFr": "Donjon de la maîtrise : Autel des flammes",
+      "familyFr": "Prospérité"
     },
     {
       "id": "teachings_of_resistance",
@@ -4736,7 +5454,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_resistance.png"
+      "image": "materials/teachings_of_resistance.png",
+      "nameFr": "Enseignement de la Résistance",
+      "sourceNameFr": "Donjon de la maîtrise : Abîme gelé",
+      "familyFr": "Résistance"
     },
     {
       "id": "guide_to_resistance",
@@ -4754,7 +5475,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_resistance.png"
+      "image": "materials/guide_to_resistance.png",
+      "nameFr": "Guide de la Résistance",
+      "sourceNameFr": "Donjon de la maîtrise : Abîme gelé",
+      "familyFr": "Résistance"
     },
     {
       "id": "philosophies_of_resistance",
@@ -4772,7 +5496,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_resistance.png"
+      "image": "materials/philosophies_of_resistance.png",
+      "nameFr": "Philosophie de la Résistance",
+      "sourceNameFr": "Donjon de la maîtrise : Abîme gelé",
+      "familyFr": "Résistance"
     },
     {
       "id": "teachings_of_transience",
@@ -4790,7 +5517,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_transience.png"
+      "image": "materials/teachings_of_transience.png",
+      "nameFr": "Enseignement de l'Éphémère",
+      "sourceNameFr": "Donjon de la maîtrise : Règne violet",
+      "familyFr": "Éphémère"
     },
     {
       "id": "guide_to_transience",
@@ -4808,7 +5538,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_transience.png"
+      "image": "materials/guide_to_transience.png",
+      "nameFr": "Guide de l'Éphémère",
+      "sourceNameFr": "Donjon de la maîtrise : Règne violet",
+      "familyFr": "Éphémère"
     },
     {
       "id": "philosophies_of_transience",
@@ -4826,7 +5559,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_transience.png"
+      "image": "materials/philosophies_of_transience.png",
+      "nameFr": "Philosophie de l'Éphémère",
+      "sourceNameFr": "Donjon de la maîtrise : Règne violet",
+      "familyFr": "Éphémère"
     },
     {
       "id": "teachings_of_vagrancy",
@@ -4844,7 +5580,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/teachings_of_vagrancy.png"
+      "image": "materials/teachings_of_vagrancy.png",
+      "nameFr": "Enseignement de l'Errance",
+      "sourceNameFr": "Donjon de la maîtrise : Perchoir renversé",
+      "familyFr": "Errance"
     },
     {
       "id": "guide_to_vagrancy",
@@ -4862,7 +5601,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/guide_to_vagrancy.png"
+      "image": "materials/guide_to_vagrancy.png",
+      "nameFr": "Guide de l'Errance",
+      "sourceNameFr": "Donjon de la maîtrise : Perchoir renversé",
+      "familyFr": "Errance"
     },
     {
       "id": "philosophies_of_vagrancy",
@@ -4880,7 +5622,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/philosophies_of_vagrancy.png"
+      "image": "materials/philosophies_of_vagrancy.png",
+      "nameFr": "Philosophie de l'Errance",
+      "sourceNameFr": "Donjon de la maîtrise : Perchoir renversé",
+      "familyFr": "Errance"
     },
     {
       "id": "grain_of_aerosiderite",
@@ -4898,7 +5643,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/grain_of_aerosiderite.png"
+      "image": "materials/grain_of_aerosiderite.png",
+      "nameFr": "Grain d'aérosidérite noire",
+      "sourceNameFr": "Donjon d'entraînement : Terrain d'ancien tonnerre",
+      "familyFr": "Aérosidérite noire"
     },
     {
       "id": "piece_of_aerosiderite",
@@ -4916,7 +5664,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/piece_of_aerosiderite.png"
+      "image": "materials/piece_of_aerosiderite.png",
+      "nameFr": "Éclat d'aérosidérite noire",
+      "sourceNameFr": "Donjon d'entraînement : Terrain d'ancien tonnerre",
+      "familyFr": "Aérosidérite noire"
     },
     {
       "id": "bit_of_aerosiderite",
@@ -4934,7 +5685,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/bit_of_aerosiderite.png"
+      "image": "materials/bit_of_aerosiderite.png",
+      "nameFr": "Fragment d'aérosidérite noire",
+      "sourceNameFr": "Donjon d'entraînement : Terrain d'ancien tonnerre",
+      "familyFr": "Aérosidérite noire"
     },
     {
       "id": "chunk_of_aerosiderite",
@@ -4952,7 +5706,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/chunk_of_aerosiderite.png"
+      "image": "materials/chunk_of_aerosiderite.png",
+      "nameFr": "Morceau d'aérosidérite noire",
+      "sourceNameFr": "Donjon d'entraînement : Terrain d'ancien tonnerre",
+      "familyFr": "Aérosidérite noire"
     },
     {
       "id": "fragment_of_an_ancient_chord",
@@ -4970,7 +5727,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/fragment_of_an_ancient_chord.png"
+      "image": "materials/fragment_of_an_ancient_chord.png",
+      "nameFr": "Fragment d'un accord ancien",
+      "sourceNameFr": "Donjon d'entraînement : Ruse robotique",
+      "familyFr": "Un accord ancien"
     },
     {
       "id": "chapter_of_an_ancient_chord",
@@ -4988,7 +5748,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/chapter_of_an_ancient_chord.png"
+      "image": "materials/chapter_of_an_ancient_chord.png",
+      "nameFr": "Chapitre d'un accord ancien",
+      "sourceNameFr": "Donjon d'entraînement : Ruse robotique",
+      "familyFr": "Un accord ancien"
     },
     {
       "id": "movement_of_an_ancient_chord",
@@ -5006,7 +5769,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/movement_of_an_ancient_chord.png"
+      "image": "materials/movement_of_an_ancient_chord.png",
+      "nameFr": "Mouvement d'un accord ancien",
+      "sourceNameFr": "Donjon d'entraînement : Ruse robotique",
+      "familyFr": "Un accord ancien"
     },
     {
       "id": "echo_of_an_ancient_chord",
@@ -5024,7 +5790,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/echo_of_an_ancient_chord.png"
+      "image": "materials/echo_of_an_ancient_chord.png",
+      "nameFr": "Écho d'un accord ancien",
+      "sourceNameFr": "Donjon d'entraînement : Ruse robotique",
+      "familyFr": "Un accord ancien"
     },
     {
       "id": "artful_device_fragment",
@@ -5042,7 +5811,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/artful_device_fragment.png"
+      "image": "materials/artful_device_fragment.png",
+      "nameFr": "Fragment d'appareil artistique",
+      "sourceNameFr": "Donjon d'entraînement : Splendeur radieuse",
+      "familyFr": "Appareil artistique"
     },
     {
       "id": "artful_device_replica",
@@ -5060,7 +5832,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/artful_device_replica.png"
+      "image": "materials/artful_device_replica.png",
+      "nameFr": "Réplique d'appareil artistique",
+      "sourceNameFr": "Donjon d'entraînement : Splendeur radieuse",
+      "familyFr": "Appareil artistique"
     },
     {
       "id": "artful_device_inheritance",
@@ -5078,7 +5853,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/artful_device_inheritance.png"
+      "image": "materials/artful_device_inheritance.png",
+      "nameFr": "Succession d'appareil artistique",
+      "sourceNameFr": "Donjon d'entraînement : Splendeur radieuse",
+      "familyFr": "Appareil artistique"
     },
     {
       "id": "artful_device_wish",
@@ -5096,7 +5874,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/artful_device_wish.png"
+      "image": "materials/artful_device_wish.png",
+      "nameFr": "Souhait d'appareil artistique",
+      "sourceNameFr": "Donjon d'entraînement : Splendeur radieuse",
+      "familyFr": "Appareil artistique"
     },
     {
       "id": "blazing_sacrificial_hearts_terror",
@@ -5114,7 +5895,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/blazing_sacrificial_hearts_terror.png"
+      "image": "materials/blazing_sacrificial_hearts_terror.png",
+      "nameFr": "Terreur du cœur sacrificiel flamboyant",
+      "sourceNameFr": "Donjon d'entraînement : Ombres",
+      "familyFr": "Cœur sacrificiel flamboyant"
     },
     {
       "id": "blazing_sacrificial_hearts_hesitance",
@@ -5132,7 +5916,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/blazing_sacrificial_hearts_hesitance.png"
+      "image": "materials/blazing_sacrificial_hearts_hesitance.png",
+      "nameFr": "Hésitation du cœur sacrificiel flamboyant",
+      "sourceNameFr": "Donjon d'entraînement : Ombres",
+      "familyFr": "Cœur sacrificiel flamboyant"
     },
     {
       "id": "blazing_sacrificial_hearts_resolve",
@@ -5150,7 +5937,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/blazing_sacrificial_hearts_resolve.png"
+      "image": "materials/blazing_sacrificial_hearts_resolve.png",
+      "nameFr": "Résolution du cœur sacrificiel flamboyant",
+      "sourceNameFr": "Donjon d'entraînement : Ombres",
+      "familyFr": "Cœur sacrificiel flamboyant"
     },
     {
       "id": "blazing_sacrificial_hearts_splendor",
@@ -5168,7 +5958,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/blazing_sacrificial_hearts_splendor.png"
+      "image": "materials/blazing_sacrificial_hearts_splendor.png",
+      "nameFr": "Splendeur du cœur sacrificiel flamboyant",
+      "sourceNameFr": "Donjon d'entraînement : Ombres",
+      "familyFr": "Cœur sacrificiel flamboyant"
     },
     {
       "id": "boreal_wolfs_milk_tooth",
@@ -5186,7 +5979,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/boreal_wolfs_milk_tooth.png"
+      "image": "materials/boreal_wolfs_milk_tooth.png",
+      "nameFr": "Dent de lait du Loup boréal",
+      "sourceNameFr": "Donjon d'entraînement : Vallée submergée",
+      "familyFr": "Loup boréal"
     },
     {
       "id": "boreal_wolfs_cracked_tooth",
@@ -5204,7 +6000,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/boreal_wolfs_cracked_tooth.png"
+      "image": "materials/boreal_wolfs_cracked_tooth.png",
+      "nameFr": "Croc brisé du Loup boréal",
+      "sourceNameFr": "Donjon d'entraînement : Vallée submergée",
+      "familyFr": "Loup boréal"
     },
     {
       "id": "boreal_wolfs_broken_fang",
@@ -5222,7 +6021,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/boreal_wolfs_broken_fang.png"
+      "image": "materials/boreal_wolfs_broken_fang.png",
+      "nameFr": "Croc fendu du Loup boréal",
+      "sourceNameFr": "Donjon d'entraînement : Vallée submergée",
+      "familyFr": "Loup boréal"
     },
     {
       "id": "boreal_wolfs_nostalgia",
@@ -5240,7 +6042,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/boreal_wolfs_nostalgia.png"
+      "image": "materials/boreal_wolfs_nostalgia.png",
+      "nameFr": "Nostalgie du Loup boréal",
+      "sourceNameFr": "Donjon d'entraînement : Vallée submergée",
+      "familyFr": "Loup boréal"
     },
     {
       "id": "fetters_of_the_dandelion_gladiator",
@@ -5258,7 +6063,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/fetters_of_the_dandelion_gladiator.png"
+      "image": "materials/fetters_of_the_dandelion_gladiator.png",
+      "nameFr": "Entraves du Chevalier du Croc de Lion",
+      "sourceNameFr": "Donjon d'entraînement : Capitale assoiffée",
+      "familyFr": "Chevalier du Croc de Lion"
     },
     {
       "id": "chains_of_the_dandelion_gladiator",
@@ -5276,7 +6084,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/chains_of_the_dandelion_gladiator.png"
+      "image": "materials/chains_of_the_dandelion_gladiator.png",
+      "nameFr": "Chaînes du Chevalier du Croc de Lion",
+      "sourceNameFr": "Donjon d'entraînement : Capitale assoiffée",
+      "familyFr": "Chevalier du Croc de Lion"
     },
     {
       "id": "shackles_of_the_dandelion_gladiator",
@@ -5294,7 +6105,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/shackles_of_the_dandelion_gladiator.png"
+      "image": "materials/shackles_of_the_dandelion_gladiator.png",
+      "nameFr": "Menottes du Chevalier du Croc de Lion",
+      "sourceNameFr": "Donjon d'entraînement : Capitale assoiffée",
+      "familyFr": "Chevalier du Croc de Lion"
     },
     {
       "id": "dream_of_the_dandelion_gladiator",
@@ -5312,7 +6126,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/dream_of_the_dandelion_gladiator.png"
+      "image": "materials/dream_of_the_dandelion_gladiator.png",
+      "nameFr": "Idéaux du Chevalier du Croc de Lion",
+      "sourceNameFr": "Donjon d'entraînement : Capitale assoiffée",
+      "familyFr": "Chevalier du Croc de Lion"
     },
     {
       "id": "tile_of_decarabians_tower",
@@ -5330,7 +6147,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/tile_of_decarabians_tower.png"
+      "image": "materials/tile_of_decarabians_tower.png",
+      "nameFr": "Tuile cassée de Décarabian",
+      "sourceNameFr": "Donjon d'entraînement : Ville de réflexions",
+      "familyFr": "Décarabian"
     },
     {
       "id": "debris_of_decarabians_city",
@@ -5348,7 +6168,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/debris_of_decarabians_city.png"
+      "image": "materials/debris_of_decarabians_city.png",
+      "nameFr": "Mur abattu de Décarabian",
+      "sourceNameFr": "Donjon d'entraînement : Ville de réflexions",
+      "familyFr": "Décarabian"
     },
     {
       "id": "fragment_of_decarabians_epic",
@@ -5366,7 +6189,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/fragment_of_decarabians_epic.png"
+      "image": "materials/fragment_of_decarabians_epic.png",
+      "nameFr": "Fragment dispersé de Décarabian",
+      "sourceNameFr": "Donjon d'entraînement : Ville de réflexions",
+      "familyFr": "Décarabian"
     },
     {
       "id": "scattered_piece_of_decarabians_dream",
@@ -5384,7 +6210,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/scattered_piece_of_decarabians_dream.png"
+      "image": "materials/scattered_piece_of_decarabians_dream.png",
+      "nameFr": "Rêve brisé de Décarabian",
+      "sourceNameFr": "Donjon d'entraînement : Ville de réflexions",
+      "familyFr": "Décarabian"
     },
     {
       "id": "coral_branch_of_a_distant_sea",
@@ -5402,7 +6231,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/coral_branch_of_a_distant_sea.png"
+      "image": "materials/coral_branch_of_a_distant_sea.png",
+      "nameFr": "Branche marine de corail",
+      "sourceNameFr": "Donjon d'entraînement : Sables engloutis",
+      "familyFr": "Mer lointaine"
     },
     {
       "id": "jeweled_branch_of_a_distant_sea",
@@ -5420,7 +6252,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/jeweled_branch_of_a_distant_sea.png"
+      "image": "materials/jeweled_branch_of_a_distant_sea.png",
+      "nameFr": "Branche marine de gemme",
+      "sourceNameFr": "Donjon d'entraînement : Sables engloutis",
+      "familyFr": "Mer lointaine"
     },
     {
       "id": "jade_branch_of_a_distant_sea",
@@ -5438,7 +6273,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/jade_branch_of_a_distant_sea.png"
+      "image": "materials/jade_branch_of_a_distant_sea.png",
+      "nameFr": "Branche marine de jade",
+      "sourceNameFr": "Donjon d'entraînement : Sables engloutis",
+      "familyFr": "Mer lointaine"
     },
     {
       "id": "golden_branch_of_a_distant_sea",
@@ -5456,7 +6294,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/golden_branch_of_a_distant_sea.png"
+      "image": "materials/golden_branch_of_a_distant_sea.png",
+      "nameFr": "Branche marine d'or",
+      "sourceNameFr": "Donjon d'entraînement : Sables engloutis",
+      "familyFr": "Mer lointaine"
     },
     {
       "id": "sundered_glory_of_the_far_north_scions",
@@ -5474,7 +6315,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/sundered_glory_of_the_far_north_scions.png"
+      "image": "materials/sundered_glory_of_the_far_north_scions.png",
+      "nameFr": "Gloire brisée des héritiers du grand nord",
+      "sourceNameFr": "Donjon d'entraînement : Oblation lunaire",
+      "familyFr": "Des héritiers du grand nord"
     },
     {
       "id": "unyielding_delusion_of_the_far_north_scions",
@@ -5492,7 +6336,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/unyielding_delusion_of_the_far_north_scions.png"
+      "image": "materials/unyielding_delusion_of_the_far_north_scions.png",
+      "nameFr": "Illusion inflexible des héritiers du grand nord",
+      "sourceNameFr": "Donjon d'entraînement : Oblation lunaire",
+      "familyFr": "Des héritiers du grand nord"
     },
     {
       "id": "oblation_of_the_far_north_scions",
@@ -5510,7 +6357,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/oblation_of_the_far_north_scions.png"
+      "image": "materials/oblation_of_the_far_north_scions.png",
+      "nameFr": "Oblation des héritiers du grand nord",
+      "sourceNameFr": "Donjon d'entraînement : Oblation lunaire",
+      "familyFr": "Des héritiers du grand nord"
     },
     {
       "id": "aureate_radiance_of_the_far_north_scions",
@@ -5528,7 +6378,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/aureate_radiance_of_the_far_north_scions.png"
+      "image": "materials/aureate_radiance_of_the_far_north_scions.png",
+      "nameFr": "Rayonnement doré des héritiers du grand nord",
+      "sourceNameFr": "Donjon d'entraînement : Oblation lunaire",
+      "familyFr": "Des héritiers du grand nord"
     },
     {
       "id": "copper_talisman_of_the_forest_dew",
@@ -5546,7 +6399,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/copper_talisman_of_the_forest_dew.png"
+      "image": "materials/copper_talisman_of_the_forest_dew.png",
+      "nameFr": "Talisman en cuivre de la rosée",
+      "sourceNameFr": "Donjon d'entraînement : Nuages souillés",
+      "familyFr": "Rosée"
     },
     {
       "id": "iron_talisman_of_the_forest_dew",
@@ -5564,7 +6420,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/iron_talisman_of_the_forest_dew.png"
+      "image": "materials/iron_talisman_of_the_forest_dew.png",
+      "nameFr": "Talisman en fer de la rosée",
+      "sourceNameFr": "Donjon d'entraînement : Nuages souillés",
+      "familyFr": "Rosée"
     },
     {
       "id": "silver_talisman_of_the_forest_dew",
@@ -5582,7 +6441,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/silver_talisman_of_the_forest_dew.png"
+      "image": "materials/silver_talisman_of_the_forest_dew.png",
+      "nameFr": "Talisman en argent de la rosée",
+      "sourceNameFr": "Donjon d'entraînement : Nuages souillés",
+      "familyFr": "Rosée"
     },
     {
       "id": "golden_talisman_of_the_forest_dew",
@@ -5600,7 +6462,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/golden_talisman_of_the_forest_dew.png"
+      "image": "materials/golden_talisman_of_the_forest_dew.png",
+      "nameFr": "Talisman en or de la rosée",
+      "sourceNameFr": "Donjon d'entraînement : Nuages souillés",
+      "familyFr": "Rosée"
     },
     {
       "id": "luminous_sands_from_guyun",
@@ -5618,7 +6483,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/luminous_sands_from_guyun.png"
+      "image": "materials/luminous_sands_from_guyun.png",
+      "nameFr": "Sable lumineux de Guyun",
+      "sourceNameFr": "Donjon d'entraînement : Autel du nuage d'orage",
+      "familyFr": "Guyun"
     },
     {
       "id": "lustrous_stone_from_guyun",
@@ -5636,7 +6504,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/lustrous_stone_from_guyun.png"
+      "image": "materials/lustrous_stone_from_guyun.png",
+      "nameFr": "Roche lustrée de Guyun",
+      "sourceNameFr": "Donjon d'entraînement : Autel du nuage d'orage",
+      "familyFr": "Guyun"
     },
     {
       "id": "relic_from_guyun",
@@ -5654,7 +6525,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/relic_from_guyun.png"
+      "image": "materials/relic_from_guyun.png",
+      "nameFr": "Squelette sacré de Guyun",
+      "sourceNameFr": "Donjon d'entraînement : Autel du nuage d'orage",
+      "familyFr": "Guyun"
     },
     {
       "id": "divine_body_from_guyun",
@@ -5672,7 +6546,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/divine_body_from_guyun.png"
+      "image": "materials/divine_body_from_guyun.png",
+      "nameFr": "Corps divin de Guyun",
+      "sourceNameFr": "Donjon d'entraînement : Autel du nuage d'orage",
+      "familyFr": "Guyun"
     },
     {
       "id": "ember_of_long_night_flint",
@@ -5690,7 +6567,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/ember_of_long_night_flint.png"
+      "image": "materials/ember_of_long_night_flint.png",
+      "nameFr": "Braise de silex de longue nuit",
+      "sourceNameFr": "Donjon d'entraînement : Prières chantées",
+      "familyFr": "Silex de longue nuit"
     },
     {
       "id": "afterglow_of_long_night_flint",
@@ -5708,7 +6588,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/afterglow_of_long_night_flint.png"
+      "image": "materials/afterglow_of_long_night_flint.png",
+      "nameFr": "Lueur de silex de longue nuit",
+      "sourceNameFr": "Donjon d'entraînement : Prières chantées",
+      "familyFr": "Silex de longue nuit"
     },
     {
       "id": "flare_of_long_night_flint",
@@ -5726,7 +6609,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/flare_of_long_night_flint.png"
+      "image": "materials/flare_of_long_night_flint.png",
+      "nameFr": "Flamme de silex de longue nuit",
+      "sourceNameFr": "Donjon d'entraînement : Prières chantées",
+      "familyFr": "Silex de longue nuit"
     },
     {
       "id": "blaze_of_long_night_flint",
@@ -5744,7 +6630,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/blaze_of_long_night_flint.png"
+      "image": "materials/blaze_of_long_night_flint.png",
+      "nameFr": "Embrasement de silex de longue nuit",
+      "sourceNameFr": "Donjon d'entraînement : Prières chantées",
+      "familyFr": "Silex de longue nuit"
     },
     {
       "id": "mist_veiled_lead_elixir",
@@ -5762,7 +6651,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/mist_veiled_lead_elixir.png"
+      "image": "materials/mist_veiled_lead_elixir.png",
+      "nameFr": "Plomb karstique",
+      "sourceNameFr": "Donjon d'entraînement : Ruines grondantes",
+      "familyFr": "Karstique"
     },
     {
       "id": "mist_veiled_mercury_elixir",
@@ -5780,7 +6672,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/mist_veiled_mercury_elixir.png"
+      "image": "materials/mist_veiled_mercury_elixir.png",
+      "nameFr": "Mercure karstique",
+      "sourceNameFr": "Donjon d'entraînement : Ruines grondantes",
+      "familyFr": "Karstique"
     },
     {
       "id": "mist_veiled_gold_elixir",
@@ -5798,7 +6693,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/mist_veiled_gold_elixir.png"
+      "image": "materials/mist_veiled_gold_elixir.png",
+      "nameFr": "Argent karstique",
+      "sourceNameFr": "Donjon d'entraînement : Ruines grondantes",
+      "familyFr": "Karstique"
     },
     {
       "id": "mist_veiled_primo_elixir",
@@ -5816,7 +6714,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/mist_veiled_primo_elixir.png"
+      "image": "materials/mist_veiled_primo_elixir.png",
+      "nameFr": "Or karstique",
+      "sourceNameFr": "Donjon d'entraînement : Ruines grondantes",
+      "familyFr": "Karstique"
     },
     {
       "id": "narukamis_wisdom",
@@ -5834,7 +6735,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/narukamis_wisdom.png"
+      "image": "materials/narukamis_wisdom.png",
+      "nameFr": "Sagesse de Narukami",
+      "sourceNameFr": "Donjon d'entraînement : Autel des sables",
+      "familyFr": "Narukami"
     },
     {
       "id": "narukamis_joy",
@@ -5852,7 +6756,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/narukamis_joy.png"
+      "image": "materials/narukamis_joy.png",
+      "nameFr": "Joie de Narukami",
+      "sourceNameFr": "Donjon d'entraînement : Autel des sables",
+      "familyFr": "Narukami"
     },
     {
       "id": "narukamis_affection",
@@ -5870,7 +6777,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/narukamis_affection.png"
+      "image": "materials/narukamis_affection.png",
+      "nameFr": "Affection de Narukami",
+      "sourceNameFr": "Donjon d'entraînement : Autel des sables",
+      "familyFr": "Narukami"
     },
     {
       "id": "narukamis_valor",
@@ -5888,7 +6798,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/narukamis_valor.png"
+      "image": "materials/narukamis_valor.png",
+      "nameFr": "Vaillance de Narukami",
+      "sourceNameFr": "Donjon d'entraînement : Autel des sables",
+      "familyFr": "Narukami"
     },
     {
       "id": "night_winds_mystic_consideration",
@@ -5906,7 +6819,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/night_winds_mystic_consideration.png"
+      "image": "materials/night_winds_mystic_consideration.png",
+      "nameFr": "Considération mystique du vent nocturne",
+      "sourceNameFr": "Donjon d'entraînement : Estimation",
+      "familyFr": "Mystique du vent nocturne"
     },
     {
       "id": "night_winds_mystic_premonition",
@@ -5924,7 +6840,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/night_winds_mystic_premonition.png"
+      "image": "materials/night_winds_mystic_premonition.png",
+      "nameFr": "Prémonition mystique du vent nocturne",
+      "sourceNameFr": "Donjon d'entraînement : Estimation",
+      "familyFr": "Mystique du vent nocturne"
     },
     {
       "id": "night_winds_mystic_augury",
@@ -5942,7 +6861,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/night_winds_mystic_augury.png"
+      "image": "materials/night_winds_mystic_augury.png",
+      "nameFr": "Augure mystique du vent nocturne",
+      "sourceNameFr": "Donjon d'entraînement : Estimation",
+      "familyFr": "Mystique du vent nocturne"
     },
     {
       "id": "night_winds_mystic_revelation",
@@ -5960,7 +6882,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/night_winds_mystic_revelation.png"
+      "image": "materials/night_winds_mystic_revelation.png",
+      "nameFr": "Révélation mystique du vent nocturne",
+      "sourceNameFr": "Donjon d'entraînement : Estimation",
+      "familyFr": "Mystique du vent nocturne"
     },
     {
       "id": "oasis_gardens_reminiscence",
@@ -5978,7 +6903,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/oasis_gardens_reminiscence.png"
+      "image": "materials/oasis_gardens_reminiscence.png",
+      "nameFr": "Souvenir du jardin d'oasis",
+      "sourceNameFr": "Donjon d'entraînement : Obsession",
+      "familyFr": "Jardin d'oasis"
     },
     {
       "id": "oasis_gardens_kindness",
@@ -5996,7 +6924,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/oasis_gardens_kindness.png"
+      "image": "materials/oasis_gardens_kindness.png",
+      "nameFr": "Gentillesse du jardin d'oasis",
+      "sourceNameFr": "Donjon d'entraînement : Obsession",
+      "familyFr": "Jardin d'oasis"
     },
     {
       "id": "oasis_gardens_mourning",
@@ -6014,7 +6945,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/oasis_gardens_mourning.png"
+      "image": "materials/oasis_gardens_mourning.png",
+      "nameFr": "Deuil du jardin d'oasis",
+      "sourceNameFr": "Donjon d'entraînement : Obsession",
+      "familyFr": "Jardin d'oasis"
     },
     {
       "id": "oasis_gardens_truth",
@@ -6032,7 +6966,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/oasis_gardens_truth.png"
+      "image": "materials/oasis_gardens_truth.png",
+      "nameFr": "Vérité du jardin d'oasis",
+      "sourceNameFr": "Donjon d'entraînement : Obsession",
+      "familyFr": "Jardin d'oasis"
     },
     {
       "id": "broken_goblet_of_the_pristine_sea",
@@ -6050,7 +6987,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/broken_goblet_of_the_pristine_sea.png"
+      "image": "materials/broken_goblet_of_the_pristine_sea.png",
+      "nameFr": "Gobelet brisé de la mer immaculée",
+      "sourceNameFr": "Donjon d'entraînement : Artifice",
+      "familyFr": "Mer immaculée"
     },
     {
       "id": "wine_goblet_of_the_pristine_sea",
@@ -6068,7 +7008,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/wine_goblet_of_the_pristine_sea.png"
+      "image": "materials/wine_goblet_of_the_pristine_sea.png",
+      "nameFr": "Gobelet à vin de la mer immaculée",
+      "sourceNameFr": "Donjon d'entraînement : Artifice",
+      "familyFr": "Mer immaculée"
     },
     {
       "id": "silver_goblet_of_the_pristine_sea",
@@ -6086,7 +7029,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/silver_goblet_of_the_pristine_sea.png"
+      "image": "materials/silver_goblet_of_the_pristine_sea.png",
+      "nameFr": "Gobelet d'argent de la mer immaculée",
+      "sourceNameFr": "Donjon d'entraînement : Artifice",
+      "familyFr": "Mer immaculée"
     },
     {
       "id": "golden_goblet_of_the_pristine_sea",
@@ -6104,7 +7050,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/golden_goblet_of_the_pristine_sea.png"
+      "image": "materials/golden_goblet_of_the_pristine_sea.png",
+      "nameFr": "Gobelet d'or de la mer immaculée",
+      "sourceNameFr": "Donjon d'entraînement : Artifice",
+      "familyFr": "Mer immaculée"
     },
     {
       "id": "dross_of_pure_sacred_dewdrop",
@@ -6122,7 +7071,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/dross_of_pure_sacred_dewdrop.png"
+      "image": "materials/dross_of_pure_sacred_dewdrop.png",
+      "nameFr": "Résidu de rosée sacrée pure",
+      "sourceNameFr": "Donjon d'entraînement : Artisanat",
+      "familyFr": "Rosée sacrée pure"
     },
     {
       "id": "sublimation_of_pure_sacred_dewdrop",
@@ -6140,7 +7092,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/sublimation_of_pure_sacred_dewdrop.png"
+      "image": "materials/sublimation_of_pure_sacred_dewdrop.png",
+      "nameFr": "Sublimation de rosée sacrée pure",
+      "sourceNameFr": "Donjon d'entraînement : Artisanat",
+      "familyFr": "Rosée sacrée pure"
     },
     {
       "id": "spring_of_pure_sacred_dewdrop",
@@ -6158,7 +7113,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/spring_of_pure_sacred_dewdrop.png"
+      "image": "materials/spring_of_pure_sacred_dewdrop.png",
+      "nameFr": "Source de rosée sacrée pure",
+      "sourceNameFr": "Donjon d'entraînement : Artisanat",
+      "familyFr": "Rosée sacrée pure"
     },
     {
       "id": "essence_of_pure_sacred_dewdrop",
@@ -6176,7 +7134,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/essence_of_pure_sacred_dewdrop.png"
+      "image": "materials/essence_of_pure_sacred_dewdrop.png",
+      "nameFr": "Essence de rosée sacrée pure",
+      "sourceNameFr": "Donjon d'entraînement : Artisanat",
+      "familyFr": "Rosée sacrée pure"
     },
     {
       "id": "delirious_decadence_of_the_sacred_lord",
@@ -6194,7 +7155,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/delirious_decadence_of_the_sacred_lord.png"
+      "image": "materials/delirious_decadence_of_the_sacred_lord.png",
+      "nameFr": "Décadence délirante du seigneur sacré",
+      "sourceNameFr": "Donjon d'entraînement : Observation",
+      "familyFr": "Délirante du seigneur sacré"
     },
     {
       "id": "delirious_desolation_of_the_sacred_lord",
@@ -6212,7 +7176,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/delirious_desolation_of_the_sacred_lord.png"
+      "image": "materials/delirious_desolation_of_the_sacred_lord.png",
+      "nameFr": "Désolation délirante du seigneur sacré",
+      "sourceNameFr": "Donjon d'entraînement : Observation",
+      "familyFr": "Délirante du seigneur sacré"
     },
     {
       "id": "delirious_demeanor_of_the_sacred_lord",
@@ -6230,7 +7197,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/delirious_demeanor_of_the_sacred_lord.png"
+      "image": "materials/delirious_demeanor_of_the_sacred_lord.png",
+      "nameFr": "Attitude délirante du seigneur sacré",
+      "sourceNameFr": "Donjon d'entraînement : Observation",
+      "familyFr": "Délirante du seigneur sacré"
     },
     {
       "id": "delirious_divinity_of_the_sacred_lord",
@@ -6248,7 +7218,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/delirious_divinity_of_the_sacred_lord.png"
+      "image": "materials/delirious_divinity_of_the_sacred_lord.png",
+      "nameFr": "Divinité délirante du seigneur sacré",
+      "sourceNameFr": "Donjon d'entraînement : Observation",
+      "familyFr": "Délirante du seigneur sacré"
     },
     {
       "id": "echo_of_scorching_might",
@@ -6266,7 +7239,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/echo_of_scorching_might.png"
+      "image": "materials/echo_of_scorching_might.png",
+      "nameFr": "Dernier écho du pouvoir brûlant",
+      "sourceNameFr": "Donjon d'entraînement : Karma",
+      "familyFr": "Pouvoir brûlant"
     },
     {
       "id": "remnant_glow_of_scorching_might",
@@ -6284,7 +7260,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/remnant_glow_of_scorching_might.png"
+      "image": "materials/remnant_glow_of_scorching_might.png",
+      "nameFr": "Éclat subsistant du pouvoir brûlant",
+      "sourceNameFr": "Donjon d'entraînement : Karma",
+      "familyFr": "Pouvoir brûlant"
     },
     {
       "id": "dream_of_scorching_might",
@@ -6302,7 +7281,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/dream_of_scorching_might.png"
+      "image": "materials/dream_of_scorching_might.png",
+      "nameFr": "Rêve dominant du pouvoir brûlant",
+      "sourceNameFr": "Donjon d'entraînement : Karma",
+      "familyFr": "Pouvoir brûlant"
     },
     {
       "id": "olden_days_of_scorching_might",
@@ -6320,7 +7302,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/olden_days_of_scorching_might.png"
+      "image": "materials/olden_days_of_scorching_might.png",
+      "nameFr": "Passé glorieux du pouvoir brûlant",
+      "sourceNameFr": "Donjon d'entraînement : Karma",
+      "familyFr": "Pouvoir brûlant"
     },
     {
       "id": "mask_of_the_wicked_lieutenant",
@@ -6338,7 +7323,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/mask_of_the_wicked_lieutenant.png"
+      "image": "materials/mask_of_the_wicked_lieutenant.png",
+      "nameFr": "Masque du lieutenant pernicieux",
+      "sourceNameFr": "Donjon d'entraînement : Enseveli dans les sables",
+      "familyFr": "Lieutenant pernicieux"
     },
     {
       "id": "mask_of_the_tigers_bite",
@@ -6356,7 +7344,10 @@
       ],
       "resin": 20,
       "dropMax": 3,
-      "image": "materials/mask_of_the_tigers_bite.png"
+      "image": "materials/mask_of_the_tigers_bite.png",
+      "nameFr": "Masque de la morsure du tigre",
+      "sourceNameFr": "Donjon d'entraînement : Enseveli dans les sables",
+      "familyFr": "Lieutenant pernicieux"
     },
     {
       "id": "mask_of_the_one_horned",
@@ -6374,7 +7365,10 @@
       ],
       "resin": 20,
       "dropMax": 2,
-      "image": "materials/mask_of_the_one_horned.png"
+      "image": "materials/mask_of_the_one_horned.png",
+      "nameFr": "Masque du cornu",
+      "sourceNameFr": "Donjon d'entraînement : Enseveli dans les sables",
+      "familyFr": "Lieutenant pernicieux"
     },
     {
       "id": "mask_of_the_kijin",
@@ -6392,7 +7386,10 @@
       ],
       "resin": 20,
       "dropMax": 1,
-      "image": "materials/mask_of_the_kijin.png"
+      "image": "materials/mask_of_the_kijin.png",
+      "nameFr": "Masque du kijin",
+      "sourceNameFr": "Donjon d'entraînement : Enseveli dans les sables",
+      "familyFr": "Lieutenant pernicieux"
     },
     {
       "id": "ascended_sample_knight",
@@ -6406,7 +7403,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/ascended_sample_knight.png"
+      "image": "materials/ascended_sample_knight.png",
+      "nameFr": "Échantillon ascensionné : Cavalier",
+      "familyFr": "Échantillon ascensionné : Cavalier",
+      "sourceNameFr": "Échantillon ascensionné : Cavalier"
     },
     {
       "id": "ascended_sample_queen",
@@ -6420,7 +7420,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/ascended_sample_queen.png"
+      "image": "materials/ascended_sample_queen.png",
+      "nameFr": "Échantillon ascensionné : Dame",
+      "familyFr": "Échantillon ascensionné : Dame",
+      "sourceNameFr": "Échantillon ascensionné : Dame"
     },
     {
       "id": "ascended_sample_rook",
@@ -6434,7 +7437,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/ascended_sample_rook.png"
+      "image": "materials/ascended_sample_rook.png",
+      "nameFr": "Échantillon ascensionné : Tour",
+      "familyFr": "Échantillon ascensionné : Tour",
+      "sourceNameFr": "Échantillon ascensionné : Tour"
     },
     {
       "id": "ashen_heart",
@@ -6448,7 +7454,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/ashen_heart.png"
+      "image": "materials/ashen_heart.png",
+      "nameFr": "Cœur de cendre",
+      "familyFr": "Cœur de cendre",
+      "sourceNameFr": "Cœur de cendre"
     },
     {
       "id": "bloodjade_branch",
@@ -6462,7 +7471,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/bloodjade_branch.png"
+      "image": "materials/bloodjade_branch.png",
+      "nameFr": "Branche de jade cramoisi",
+      "familyFr": "Branche de jade cramoisi",
+      "sourceNameFr": "Branche de jade cramoisi"
     },
     {
       "id": "dakas_bell",
@@ -6476,7 +7488,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/dakas_bell.png"
+      "image": "materials/dakas_bell.png",
+      "nameFr": "Cloche de daka",
+      "familyFr": "Cloche de daka",
+      "sourceNameFr": "Cloche de daka"
     },
     {
       "id": "denial_and_judgment",
@@ -6490,7 +7505,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/denial_and_judgment.png"
+      "image": "materials/denial_and_judgment.png",
+      "nameFr": "Verdict négatif",
+      "familyFr": "Verdict négatif",
+      "sourceNameFr": "Verdict négatif"
     },
     {
       "id": "dragon_lords_crown",
@@ -6504,7 +7522,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/dragon_lords_crown.png"
+      "image": "materials/dragon_lords_crown.png",
+      "nameFr": "Couronne du roi-dragon",
+      "familyFr": "Couronne du roi-dragon",
+      "sourceNameFr": "Couronne du roi-dragon"
     },
     {
       "id": "dvalins_claw",
@@ -6518,7 +7539,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/dvalins_claw.png"
+      "image": "materials/dvalins_claw.png",
+      "nameFr": "Griffe de Stormterror",
+      "familyFr": "Griffe de Stormterror",
+      "sourceNameFr": "Griffe de Stormterror"
     },
     {
       "id": "dvalins_plume",
@@ -6532,7 +7556,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/dvalins_plume.png"
+      "image": "materials/dvalins_plume.png",
+      "nameFr": "Plume de Stormterror",
+      "familyFr": "Plume de Stormterror",
+      "sourceNameFr": "Plume de Stormterror"
     },
     {
       "id": "dvalins_sigh",
@@ -6546,7 +7573,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/dvalins_sigh.png"
+      "image": "materials/dvalins_sigh.png",
+      "nameFr": "Souffle de Stormterror",
+      "familyFr": "Souffle de Stormterror",
+      "sourceNameFr": "Souffle de Stormterror"
     },
     {
       "id": "eroded_horn",
@@ -6560,7 +7590,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/eroded_horn.png"
+      "image": "materials/eroded_horn.png",
+      "nameFr": "Corne érodée",
+      "familyFr": "Corne érodée",
+      "sourceNameFr": "Corne érodée"
     },
     {
       "id": "eroded_scale_feather",
@@ -6574,7 +7607,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/eroded_scale_feather.png"
+      "image": "materials/eroded_scale_feather.png",
+      "nameFr": "Plume érodée",
+      "familyFr": "Plume érodée",
+      "sourceNameFr": "Plume érodée"
     },
     {
       "id": "eroded_sunfire",
@@ -6588,7 +7624,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/eroded_sunfire.png"
+      "image": "materials/eroded_sunfire.png",
+      "nameFr": "Rayon érodé",
+      "familyFr": "Rayon érodé",
+      "sourceNameFr": "Rayon érodé"
     },
     {
       "id": "everamber",
@@ -6602,7 +7641,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/everamber.png"
+      "image": "materials/everamber.png",
+      "nameFr": "Constambre",
+      "familyFr": "Constambre",
+      "sourceNameFr": "Constambre"
     },
     {
       "id": "fading_candle",
@@ -6616,7 +7658,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/fading_candle.png"
+      "image": "materials/fading_candle.png",
+      "nameFr": "Bougie vacillante",
+      "familyFr": "Bougie vacillante",
+      "sourceNameFr": "Bougie vacillante"
     },
     {
       "id": "gilded_scale",
@@ -6630,7 +7675,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/gilded_scale.png"
+      "image": "materials/gilded_scale.png",
+      "nameFr": "Écaille dorée",
+      "familyFr": "Écaille dorée",
+      "sourceNameFr": "Écaille dorée"
     },
     {
       "id": "hellfire_butterfly",
@@ -6644,7 +7692,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/hellfire_butterfly.png"
+      "image": "materials/hellfire_butterfly.png",
+      "nameFr": "Papillon infernal",
+      "familyFr": "Papillon infernal",
+      "sourceNameFr": "Papillon infernal"
     },
     {
       "id": "lightless_eye_of_the_maelstrom",
@@ -6658,7 +7709,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/lightless_eye_of_the_maelstrom.png"
+      "image": "materials/lightless_eye_of_the_maelstrom.png",
+      "nameFr": "Œil de tourbillon sans lumière",
+      "familyFr": "Œil de tourbillon sans lumière",
+      "sourceNameFr": "Œil de tourbillon sans lumière"
     },
     {
       "id": "lightless_mass",
@@ -6672,7 +7726,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/lightless_mass.png"
+      "image": "materials/lightless_mass.png",
+      "nameFr": "Masse sans lumière",
+      "familyFr": "Masse sans lumière",
+      "sourceNameFr": "Masse sans lumière"
     },
     {
       "id": "lightless_silk_string",
@@ -6686,7 +7743,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/lightless_silk_string.png"
+      "image": "materials/lightless_silk_string.png",
+      "nameFr": "Ficelle de soie sans lumière",
+      "familyFr": "Ficelle de soie sans lumière",
+      "sourceNameFr": "Ficelle de soie sans lumière"
     },
     {
       "id": "mask_of_the_virtuous_doctor",
@@ -6700,7 +7760,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/mask_of_the_virtuous_doctor.png"
+      "image": "materials/mask_of_the_virtuous_doctor.png",
+      "nameFr": "Masque du médecin vertueux",
+      "familyFr": "Masque du médecin vertueux",
+      "sourceNameFr": "Masque du médecin vertueux"
     },
     {
       "id": "mirror_of_mushin",
@@ -6714,7 +7777,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/mirror_of_mushin.png"
+      "image": "materials/mirror_of_mushin.png",
+      "nameFr": "Miroir de mushin",
+      "familyFr": "Miroir de mushin",
+      "sourceNameFr": "Miroir de mushin"
     },
     {
       "id": "molten_moment",
@@ -6728,7 +7794,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/molten_moment.png"
+      "image": "materials/molten_moment.png",
+      "nameFr": "Moment en fusion",
+      "familyFr": "Moment en fusion",
+      "sourceNameFr": "Moment en fusion"
     },
     {
       "id": "mudra_of_the_malefic_general",
@@ -6742,7 +7811,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/mudra_of_the_malefic_general.png"
+      "image": "materials/mudra_of_the_malefic_general.png",
+      "nameFr": "Mudra du général maléfique",
+      "familyFr": "Mudra du général maléfique",
+      "sourceNameFr": "Mudra du général maléfique"
     },
     {
       "id": "primordial_greenbloom",
@@ -6756,7 +7828,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/primordial_greenbloom.png"
+      "image": "materials/primordial_greenbloom.png",
+      "nameFr": "Floraison première de l'oasis",
+      "familyFr": "Floraison première de l'oasis",
+      "sourceNameFr": "Floraison première de l'oasis"
     },
     {
       "id": "puppet_strings",
@@ -6770,7 +7845,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/puppet_strings.png"
+      "image": "materials/puppet_strings.png",
+      "nameFr": "Fils de marionnette",
+      "familyFr": "Fils de marionnette",
+      "sourceNameFr": "Fils de marionnette"
     },
     {
       "id": "ring_of_boreas",
@@ -6784,7 +7862,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/ring_of_boreas.png"
+      "image": "materials/ring_of_boreas.png",
+      "nameFr": "Vertèbre de Borée",
+      "familyFr": "Vertèbre de Borée",
+      "sourceNameFr": "Vertèbre de Borée"
     },
     {
       "id": "shadow_of_the_warrior",
@@ -6798,7 +7879,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/shadow_of_the_warrior.png"
+      "image": "materials/shadow_of_the_warrior.png",
+      "nameFr": "Ombre du guerrier",
+      "familyFr": "Ombre du guerrier",
+      "sourceNameFr": "Ombre du guerrier"
     },
     {
       "id": "shard_of_a_foul_legacy",
@@ -6812,7 +7896,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/shard_of_a_foul_legacy.png"
+      "image": "materials/shard_of_a_foul_legacy.png",
+      "nameFr": "Fragment du démon",
+      "familyFr": "Fragment du démon",
+      "sourceNameFr": "Fragment du démon"
     },
     {
       "id": "silken_feather",
@@ -6826,7 +7913,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/silken_feather.png"
+      "image": "materials/silken_feather.png",
+      "nameFr": "Plume soyeuse",
+      "familyFr": "Plume soyeuse",
+      "sourceNameFr": "Plume soyeuse"
     },
     {
       "id": "spirit_locket_of_boreas",
@@ -6840,7 +7930,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/spirit_locket_of_boreas.png"
+      "image": "materials/spirit_locket_of_boreas.png",
+      "nameFr": "Esprit de Borée",
+      "familyFr": "Esprit de Borée",
+      "sourceNameFr": "Esprit de Borée"
     },
     {
       "id": "tail_of_boreas",
@@ -6854,7 +7947,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/tail_of_boreas.png"
+      "image": "materials/tail_of_boreas.png",
+      "nameFr": "Queue de Borée",
+      "familyFr": "Queue de Borée",
+      "sourceNameFr": "Queue de Borée"
     },
     {
       "id": "tears_of_the_calamitous_god",
@@ -6868,7 +7964,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/tears_of_the_calamitous_god.png"
+      "image": "materials/tears_of_the_calamitous_god.png",
+      "nameFr": "Larmes de la divinité calamiteuse",
+      "familyFr": "Larmes de la divinité calamiteuse",
+      "sourceNameFr": "Larmes de la divinité calamiteuse"
     },
     {
       "id": "the_meaning_of_aeons",
@@ -6882,7 +7981,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/the_meaning_of_aeons.png"
+      "image": "materials/the_meaning_of_aeons.png",
+      "nameFr": "Signification d'une éternité",
+      "familyFr": "Signification d'une éternité",
+      "sourceNameFr": "Signification d'une éternité"
     },
     {
       "id": "tusk_of_monoceros_caeli",
@@ -6896,7 +7998,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/tusk_of_monoceros_caeli.png"
+      "image": "materials/tusk_of_monoceros_caeli.png",
+      "nameFr": "Corne de Monoceros Caeli",
+      "familyFr": "Corne de Monoceros Caeli",
+      "sourceNameFr": "Corne de Monoceros Caeli"
     },
     {
       "id": "worldspan_fern",
@@ -6910,7 +8015,10 @@
       "days": [],
       "resin": 30,
       "dropMax": 2,
-      "image": "materials/worldspan_fern.png"
+      "image": "materials/worldspan_fern.png",
+      "nameFr": "Fougère du monde luxuriant",
+      "familyFr": "Fougère du monde luxuriant",
+      "sourceNameFr": "Fougère du monde luxuriant"
     },
     {
       "id": "wanderers_advice",
@@ -6924,7 +8032,9 @@
       "days": [],
       "resin": 20,
       "dropMax": 0,
-      "image": "materials/wanderers_advice.png"
+      "image": "materials/wanderers_advice.png",
+      "nameFr": "Astuces du voyageur",
+      "sourceNameFr": "Fleur de la révélation"
     },
     {
       "id": "adventurers_experience",
@@ -6938,7 +8048,9 @@
       "days": [],
       "resin": 20,
       "dropMax": 0,
-      "image": "materials/adventurers_experience.png"
+      "image": "materials/adventurers_experience.png",
+      "nameFr": "Conseils de l'aventurier",
+      "sourceNameFr": "Fleur de la révélation"
     },
     {
       "id": "heros_wit",
@@ -6952,7 +8064,1087 @@
       "days": [],
       "resin": 20,
       "dropMax": 5,
-      "image": "materials/heros_wit.png"
+      "image": "materials/heros_wit.png",
+      "nameFr": "Leçons du héros",
+      "sourceNameFr": "Fleur de la révélation"
+    },
+    {
+      "id": "remnant_of_the_dreadwing",
+      "name": "Remnant of the Dreadwing",
+      "family": "Remnant of the Dreadwing",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Remnant of the Dreadwing",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/remnant_of_the_dreadwing.png",
+      "nameFr": "Reste flétri de l'aile du cauchemar",
+      "familyFr": "Reste flétri de l'aile du cauchemar",
+      "sourceNameFr": "Reste flétri de l'aile du cauchemar"
+    },
+    {
+      "id": "prismatic_severed_tail",
+      "name": "Prismatic Severed Tail",
+      "family": "Prismatic Severed Tail",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Prismatic Severed Tail",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/prismatic_severed_tail.png",
+      "nameFr": "Queue coupée prismatique",
+      "familyFr": "Queue coupée prismatique",
+      "sourceNameFr": "Queue coupée prismatique"
+    },
+    {
+      "id": "plume_of_the_fallen_watcher",
+      "name": "Plume of the Fallen Watcher",
+      "family": "Plume of the Fallen Watcher",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Plume of the Fallen Watcher",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/plume_of_the_fallen_watcher.png",
+      "nameFr": "Plume de veilleur déchu",
+      "familyFr": "Plume de veilleur déchu",
+      "sourceNameFr": "Plume de veilleur déchu"
+    },
+    {
+      "id": "unscorched_blossom_branch",
+      "name": "Unscorched Blossom Branch",
+      "family": "Unscorched Blossom Branch",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Unscorched Blossom Branch",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/unscorched_blossom_branch.png",
+      "nameFr": "Branche fleurie imbrûlable",
+      "familyFr": "Branche fleurie imbrûlable",
+      "sourceNameFr": "Branche fleurie imbrûlable"
+    },
+    {
+      "id": "severed_tail_of_the_sky_roamer",
+      "name": "Severed Tail of the Sky-Roamer",
+      "family": "Severed Tail of the Sky-Roamer",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Severed Tail of the Sky-Roamer",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/severed_tail_of_the_sky_roamer.png",
+      "nameFr": "Queue coupée du rôdeur céleste",
+      "familyFr": "Queue coupée du rôdeur céleste",
+      "sourceNameFr": "Queue coupée du rôdeur céleste"
+    },
+    {
+      "id": "vagabonds_cracked_armor",
+      "name": "Vagabond's Cracked Armor",
+      "family": "Vagabond's Cracked Armor",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Vagabond's Cracked Armor",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/vagabonds_cracked_armor.png",
+      "nameFr": "Armure fissurée de vagabond",
+      "familyFr": "Armure fissurée de vagabond",
+      "sourceNameFr": "Armure fissurée de vagabond"
+    },
+    {
+      "id": "shattered_stability_anchor",
+      "name": "Shattered Stability Anchor",
+      "family": "Shattered Stability Anchor",
+      "rarity": 4,
+      "tier": null,
+      "kind": "boss",
+      "source": "boss",
+      "sourceName": "Shattered Stability Anchor",
+      "days": [],
+      "resin": 40,
+      "dropMax": 3,
+      "image": "materials/shattered_stability_anchor.png",
+      "nameFr": "Ancre de stabilité brisée",
+      "familyFr": "Ancre de stabilité brisée",
+      "sourceNameFr": "Ancre de stabilité brisée"
+    },
+    {
+      "id": "madmans_restraint",
+      "name": "Madman's Restraint",
+      "family": "Madman's Restraint",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weekly",
+      "source": "weekly",
+      "sourceName": "Madman's Restraint",
+      "days": [],
+      "resin": 30,
+      "dropMax": 2,
+      "image": "materials/madmans_restraint.png",
+      "nameFr": "Contrainte du fou",
+      "familyFr": "Contrainte du fou",
+      "sourceNameFr": "Contrainte du fou"
+    },
+    {
+      "id": "elixir_of_the_heretic",
+      "name": "Elixir of the Heretic",
+      "family": "Elixir of the Heretic",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weekly",
+      "source": "weekly",
+      "sourceName": "Elixir of the Heretic",
+      "days": [],
+      "resin": 30,
+      "dropMax": 2,
+      "image": "materials/elixir_of_the_heretic.png",
+      "nameFr": "Élixir de l'hérétique",
+      "familyFr": "Élixir de l'hérétique",
+      "sourceNameFr": "Élixir de l'hérétique"
+    },
+    {
+      "id": "counterfeit_resin",
+      "name": "Counterfeit Resin",
+      "family": "Counterfeit Resin",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weekly",
+      "source": "weekly",
+      "sourceName": "Counterfeit Resin",
+      "days": [],
+      "resin": 30,
+      "dropMax": 2,
+      "image": "materials/counterfeit_resin.png",
+      "nameFr": "Résine contrefaite",
+      "familyFr": "Résine contrefaite",
+      "sourceNameFr": "Résine contrefaite"
+    },
+    {
+      "id": "twisted_withered_branch",
+      "name": "Twisted Withered Branch",
+      "family": "Twisted Withered Branch",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weekly",
+      "source": "weekly",
+      "sourceName": "Twisted Withered Branch",
+      "days": [],
+      "resin": 30,
+      "dropMax": 2,
+      "image": "materials/twisted_withered_branch.png",
+      "nameFr": "Branche flétrie et tordue",
+      "familyFr": "Branche flétrie et tordue",
+      "sourceNameFr": "Branche flétrie et tordue"
+    },
+    {
+      "id": "profaned_sprout",
+      "name": "Profaned Sprout",
+      "family": "Profaned Sprout",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weekly",
+      "source": "weekly",
+      "sourceName": "Profaned Sprout",
+      "days": [],
+      "resin": 30,
+      "dropMax": 2,
+      "image": "materials/profaned_sprout.png",
+      "nameFr": "Pousse profane",
+      "familyFr": "Pousse profane",
+      "sourceNameFr": "Pousse profane"
+    },
+    {
+      "id": "pine_amber",
+      "name": "Pine Amber",
+      "family": "Pine Amber",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/pine_amber.png",
+      "nameFr": "Ambre de pin",
+      "familyFr": "Ambre de pin"
+    },
+    {
+      "id": "etherwing_moth",
+      "name": "Etherwing Moth",
+      "family": "Etherwing Moth",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/etherwing_moth.png",
+      "nameFr": "Papillon à ailes d'éther",
+      "familyFr": "Papillon à ailes d'éther"
+    },
+    {
+      "id": "fairy_wormwood",
+      "name": "Fairy Wormwood",
+      "family": "Fairy Wormwood",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/fairy_wormwood.png",
+      "nameFr": "Armoise nivéole",
+      "familyFr": "Armoise nivéole"
+    },
+    {
+      "id": "kristallfold",
+      "name": "Kristallfold",
+      "family": "Kristallfold",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/kristallfold.png",
+      "nameFr": "Pli-de-cristal",
+      "familyFr": "Pli-de-cristal"
+    },
+    {
+      "id": "frostfairy_flower",
+      "name": "Frostfairy Flower",
+      "family": "Frostfairy Flower",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/frostfairy_flower.png",
+      "nameFr": "Fleur de féegivre",
+      "familyFr": "Fleur de féegivre"
+    },
+    {
+      "id": "flockingweed",
+      "name": "Flockingweed",
+      "family": "Flockingweed",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/flockingweed.png",
+      "nameFr": "Floc-d'herbe",
+      "familyFr": "Floc-d'herbe"
+    },
+    {
+      "id": "golden_fern",
+      "name": "Golden Fern",
+      "family": "Golden Fern",
+      "rarity": 1,
+      "tier": null,
+      "kind": "local",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/golden_fern.png",
+      "nameFr": "Fougère dorée",
+      "familyFr": "Fougère dorée"
+    },
+    {
+      "id": "teachings_of_charity",
+      "name": "Teachings of Charity",
+      "family": "Charity",
+      "rarity": 2,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Contemplation",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/teachings_of_charity.png",
+      "nameFr": "Enseignement de la Charité",
+      "sourceNameFr": "Donjon de la maîtrise : Contemplation",
+      "familyFr": "Charité"
+    },
+    {
+      "id": "guide_to_charity",
+      "name": "Guide to Charity",
+      "family": "Charity",
+      "rarity": 3,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Contemplation",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/guide_to_charity.png",
+      "nameFr": "Guide de la Charité",
+      "sourceNameFr": "Donjon de la maîtrise : Contemplation",
+      "familyFr": "Charité"
+    },
+    {
+      "id": "philosophies_of_charity",
+      "name": "Philosophies of Charity",
+      "family": "Charity",
+      "rarity": 4,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Contemplation",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 2,
+      "image": "materials/philosophies_of_charity.png",
+      "nameFr": "Philosophie de la Charité",
+      "sourceNameFr": "Donjon de la maîtrise : Contemplation",
+      "familyFr": "Charité"
+    },
+    {
+      "id": "teachings_of_fortitude",
+      "name": "Teachings of Fortitude",
+      "family": "Fortitude",
+      "rarity": 2,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Hermitage",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/teachings_of_fortitude.png",
+      "nameFr": "Enseignement de la Persévérance",
+      "sourceNameFr": "Donjon de la maîtrise : Ermitage",
+      "familyFr": "Persévérance"
+    },
+    {
+      "id": "guide_to_fortitude",
+      "name": "Guide to Fortitude",
+      "family": "Fortitude",
+      "rarity": 3,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Hermitage",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/guide_to_fortitude.png",
+      "nameFr": "Guide de la Persévérance",
+      "sourceNameFr": "Donjon de la maîtrise : Ermitage",
+      "familyFr": "Persévérance"
+    },
+    {
+      "id": "philosophies_of_fortitude",
+      "name": "Philosophies of Fortitude",
+      "family": "Fortitude",
+      "rarity": 4,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Hermitage",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 2,
+      "image": "materials/philosophies_of_fortitude.png",
+      "nameFr": "Philosophie de la Persévérance",
+      "sourceNameFr": "Donjon de la maîtrise : Ermitage",
+      "familyFr": "Persévérance"
+    },
+    {
+      "id": "teachings_of_glory",
+      "name": "Teachings of Glory",
+      "family": "Glory",
+      "rarity": 2,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Shared Vision",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/teachings_of_glory.png",
+      "nameFr": "Enseignement de la Gloire",
+      "sourceNameFr": "Donjon de la maîtrise : Vision partagée",
+      "familyFr": "Gloria"
+    },
+    {
+      "id": "guide_to_glory",
+      "name": "Guide to Glory",
+      "family": "Glory",
+      "rarity": 3,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Shared Vision",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/guide_to_glory.png",
+      "nameFr": "Guide de la Gloire",
+      "sourceNameFr": "Donjon de la maîtrise : Vision partagée",
+      "familyFr": "Gloria"
+    },
+    {
+      "id": "philosophies_of_glory",
+      "name": "Philosophies of Glory",
+      "family": "Glory",
+      "rarity": 4,
+      "tier": null,
+      "kind": "talentBook",
+      "source": "domain",
+      "sourceName": "Domain of Mastery: Shared Vision",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 2,
+      "image": "materials/philosophies_of_glory.png",
+      "nameFr": "Philosophie de la Gloire",
+      "sourceNameFr": "Donjon de la maîtrise : Vision partagée",
+      "familyFr": "Gloria"
+    },
+    {
+      "id": "rise_of_the_pale_star_army",
+      "name": "Rise of the Pale Star Army",
+      "family": "Pale Star Army",
+      "rarity": 2,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Cast Iron",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/rise_of_the_pale_star_army.png",
+      "nameFr": "Montée de l'armée pâle",
+      "sourceNameFr": "Donjon d'entraînement : Fer forgé",
+      "familyFr": "Armée pâle"
+    },
+    {
+      "id": "muster_of_the_pale_star_army",
+      "name": "Muster of the Pale Star Army",
+      "family": "Pale Star Army",
+      "rarity": 3,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Cast Iron",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/muster_of_the_pale_star_army.png",
+      "nameFr": "Rassemblement de l'armée pâle",
+      "sourceNameFr": "Donjon d'entraînement : Fer forgé",
+      "familyFr": "Armée pâle"
+    },
+    {
+      "id": "clarion_of_the_pale_star_army",
+      "name": "Clarion of the Pale Star Army",
+      "family": "Pale Star Army",
+      "rarity": 4,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Cast Iron",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 2,
+      "image": "materials/clarion_of_the_pale_star_army.png",
+      "nameFr": "Clairon de l'armée pâle",
+      "sourceNameFr": "Donjon d'entraînement : Fer forgé",
+      "familyFr": "Armée pâle"
+    },
+    {
+      "id": "triumph_of_the_pale_star_army",
+      "name": "Triumph of the Pale Star Army",
+      "family": "Pale Star Army",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Cast Iron",
+      "days": [
+        "monday",
+        "thursday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 1,
+      "image": "materials/triumph_of_the_pale_star_army.png",
+      "nameFr": "Triomphe de l'armée pâle",
+      "sourceNameFr": "Donjon d'entraînement : Fer forgé",
+      "familyFr": "Armée pâle"
+    },
+    {
+      "id": "measured_pour_of_the_cellared_spiritual_nectar",
+      "name": "Measured Pour of the Cellared Spiritual Nectar",
+      "family": "Cellared Spiritual Nectar",
+      "rarity": 2,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Chain Track",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/measured_pour_of_the_cellared_spiritual_nectar.png",
+      "nameFr": "Versement mesuré de nectar spirituel en cave",
+      "sourceNameFr": "Donjon d'entraînement : Rails en chaîne",
+      "familyFr": "Nectar spirituel en cave"
+    },
+    {
+      "id": "intoxication_of_the_cellared_spiritual_nectar",
+      "name": "Intoxication of the Cellared Spiritual Nectar",
+      "family": "Cellared Spiritual Nectar",
+      "rarity": 3,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Chain Track",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/intoxication_of_the_cellared_spiritual_nectar.png",
+      "nameFr": "Ébriété de nectar spirituel en cave",
+      "sourceNameFr": "Donjon d'entraînement : Rails en chaîne",
+      "familyFr": "Nectar spirituel en cave"
+    },
+    {
+      "id": "exhilaration_of_the_cellared_spiritual_nectar",
+      "name": "Exhilaration of the Cellared Spiritual Nectar",
+      "family": "Cellared Spiritual Nectar",
+      "rarity": 4,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Chain Track",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 2,
+      "image": "materials/exhilaration_of_the_cellared_spiritual_nectar.png",
+      "nameFr": "Ivresse de nectar spirituel en cave",
+      "sourceNameFr": "Donjon d'entraînement : Rails en chaîne",
+      "familyFr": "Nectar spirituel en cave"
+    },
+    {
+      "id": "revelry_of_the_cellared_spiritual_nectar",
+      "name": "Revelry of the Cellared Spiritual Nectar",
+      "family": "Cellared Spiritual Nectar",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Chain Track",
+      "days": [
+        "tuesday",
+        "friday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 1,
+      "image": "materials/revelry_of_the_cellared_spiritual_nectar.png",
+      "nameFr": "Rêverie de nectar spirituel en cave",
+      "sourceNameFr": "Donjon d'entraînement : Rails en chaîne",
+      "familyFr": "Nectar spirituel en cave"
+    },
+    {
+      "id": "the_frost_emperors_revival",
+      "name": "The Frost Emperor's Revival",
+      "family": "The Frost Emperor's Revival",
+      "rarity": 2,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Severed Steel",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/the_frost_emperors_revival.png",
+      "nameFr": "Renaissance de l'empereur glacial",
+      "familyFr": "Renaissance de l'empereur glacial",
+      "sourceNameFr": "Donjon d'entraînement : Acier tranché"
+    },
+    {
+      "id": "the_frost_emperors_ceremony",
+      "name": "The Frost Emperor's Ceremony",
+      "family": "The Frost Emperor's Revival",
+      "rarity": 3,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Severed Steel",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 3,
+      "image": "materials/the_frost_emperors_ceremony.png",
+      "nameFr": "Cérémonie de l'empereur glacial",
+      "familyFr": "Renaissance de l'empereur glacial",
+      "sourceNameFr": "Donjon d'entraînement : Acier tranché"
+    },
+    {
+      "id": "the_frost_emperors_lament",
+      "name": "The Frost Emperor's Lament",
+      "family": "The Frost Emperor's Revival",
+      "rarity": 4,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Severed Steel",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 2,
+      "image": "materials/the_frost_emperors_lament.png",
+      "nameFr": "Complainte de l'empereur glacial",
+      "familyFr": "Renaissance de l'empereur glacial",
+      "sourceNameFr": "Donjon d'entraînement : Acier tranché"
+    },
+    {
+      "id": "the_frost_emperors_farewell",
+      "name": "The Frost Emperor's Farewell",
+      "family": "The Frost Emperor's Revival",
+      "rarity": 5,
+      "tier": null,
+      "kind": "weaponMat",
+      "source": "domain",
+      "sourceName": "Domain of Forgery: Severed Steel",
+      "days": [
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "resin": 20,
+      "dropMax": 1,
+      "image": "materials/the_frost_emperors_farewell.png",
+      "nameFr": "Adieu de l'empereur glacial",
+      "familyFr": "Renaissance de l'empereur glacial",
+      "sourceNameFr": "Donjon d'entraînement : Acier tranché"
+    },
+    {
+      "id": "chimeric_core",
+      "name": "Chimeric Core",
+      "family": "Aberrant Chimeric Monster Material",
+      "rarity": 1,
+      "tier": null,
+      "kind": "common",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/chimeric_core.png",
+      "nameFr": "Graine chimérique"
+    },
+    {
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Symbiotic Chimeric Nucleus",
+      "family": "Aberrant Chimeric Monster Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "common",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/symbiotic_chimeric_nucleus.png",
+      "nameFr": "Noyau chimérique"
+    },
+    {
+      "id": "prime_chimeric_nexus",
+      "name": "Prime Chimeric Nexus",
+      "family": "Aberrant Chimeric Monster Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "common",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/prime_chimeric_nexus.png",
+      "nameFr": "Cœur chimérique"
+    },
+    {
+      "id": "ethereal_glimmershard",
+      "name": "Ethereal Glimmershard",
+      "family": "Fae of Crystalline Flesh Material",
+      "rarity": 1,
+      "tier": null,
+      "kind": "common",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/ethereal_glimmershard.png",
+      "nameFr": "Paillette éthérée"
+    },
+    {
+      "id": "ethereal_crystal",
+      "name": "Ethereal Crystal",
+      "family": "Fae of Crystalline Flesh Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "common",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/ethereal_crystal.png",
+      "nameFr": "Cristal éthéré"
+    },
+    {
+      "id": "ethereal_crystalscale_stone",
+      "name": "Ethereal Crystalscale Stone",
+      "family": "Fae of Crystalline Flesh Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "common",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/ethereal_crystalscale_stone.png",
+      "nameFr": "Écaille éthérée"
+    },
+    {
+      "id": "fractured_lunar_iron",
+      "name": "Fractured Lunar Iron",
+      "family": "Precursor's Secret Source Matrix of Overseer Network Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Precursor's Secret Source Matrix of Overseer Network Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/fractured_lunar_iron.png",
+      "nameFr": "Fer de lune endommagé",
+      "familyFr": "Précurseur de source secrète avec matrice d'observation neuronale"
+    },
+    {
+      "id": "depleted_lunar_iron",
+      "name": "Depleted Lunar Iron",
+      "family": "Precursor's Secret Source Matrix of Overseer Network Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Precursor's Secret Source Matrix of Overseer Network Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/depleted_lunar_iron.png",
+      "nameFr": "Fer de lune vide",
+      "familyFr": "Précurseur de source secrète avec matrice d'observation neuronale"
+    },
+    {
+      "id": "unblemished_lunar_iron",
+      "name": "Unblemished Lunar Iron",
+      "family": "Precursor's Secret Source Matrix of Overseer Network Material",
+      "rarity": 4,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Precursor's Secret Source Matrix of Overseer Network Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/unblemished_lunar_iron.png",
+      "nameFr": "Fer de lune immaculé",
+      "familyFr": "Précurseur de source secrète avec matrice d'observation neuronale"
+    },
+    {
+      "id": "faded_flaming_hilt",
+      "name": "Faded Flaming Hilt",
+      "family": "Domain Keeper Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Domain Keeper Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/faded_flaming_hilt.png",
+      "nameFr": "Poignée enflammée délavée",
+      "familyFr": "Protecteur du royaume"
+    },
+    {
+      "id": "fractured_flaming_hilt",
+      "name": "Fractured Flaming Hilt",
+      "family": "Domain Keeper Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Domain Keeper Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/fractured_flaming_hilt.png",
+      "nameFr": "Poignée enflammée fracturée",
+      "familyFr": "Protecteur du royaume"
+    },
+    {
+      "id": "jeweled_flaming_hilt",
+      "name": "Jeweled Flaming Hilt",
+      "family": "Domain Keeper Material",
+      "rarity": 4,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Domain Keeper Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/jeweled_flaming_hilt.png",
+      "nameFr": "Poignée enflammée ornée",
+      "familyFr": "Protecteur du royaume"
+    },
+    {
+      "id": "hollow_root_of_life",
+      "name": "Hollow Root of Life",
+      "family": "Wildwood Leshy Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Wildwood Leshy Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/hollow_root_of_life.png",
+      "nameFr": "Racine creuse de vie"
+    },
+    {
+      "id": "sprout_node_of_life",
+      "name": "Sprout Node of Life",
+      "family": "Wildwood Leshy Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Wildwood Leshy Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/sprout_node_of_life.png",
+      "nameFr": "Bourgeon de vie"
+    },
+    {
+      "id": "coiled_core_of_life",
+      "name": "Coiled Core of Life",
+      "family": "Wildwood Leshy Material",
+      "rarity": 4,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Wildwood Leshy Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/coiled_core_of_life.png",
+      "nameFr": "Noyau de vie"
+    },
+    {
+      "id": "accreted_fragment",
+      "name": "Accreted Fragment",
+      "family": "Volkodlak Brute Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Volkodlak Brute Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/accreted_fragment.png",
+      "nameFr": "Fragment sédimenté"
+    },
+    {
+      "id": "accreted_mass",
+      "name": "Accreted Mass",
+      "family": "Volkodlak Brute Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Volkodlak Brute Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/accreted_mass.png",
+      "nameFr": "Masse sédimentée"
+    },
+    {
+      "id": "accreted_growth",
+      "name": "Accreted Growth",
+      "family": "Volkodlak Brute Material",
+      "rarity": 4,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Volkodlak Brute Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/accreted_growth.png",
+      "nameFr": "Excroissance sédimentée"
+    },
+    {
+      "id": "snowborn_heartshard",
+      "name": "Snowborn Heartshard",
+      "family": "Mindless Iceborn Material",
+      "rarity": 2,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Mindless Iceborn Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/snowborn_heartshard.png",
+      "nameFr": "Cœur-fragment des neiges"
+    },
+    {
+      "id": "snowborn_mirrorheart",
+      "name": "Snowborn Mirrorheart",
+      "family": "Mindless Iceborn Material",
+      "rarity": 3,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Mindless Iceborn Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/snowborn_mirrorheart.png",
+      "nameFr": "Cœur-miroir des neiges"
+    },
+    {
+      "id": "snowborn_heart_of_ignorance",
+      "name": "Snowborn Heart of Ignorance",
+      "family": "Mindless Iceborn Material",
+      "rarity": 4,
+      "tier": null,
+      "kind": "elite",
+      "source": "overworld",
+      "sourceName": "Mindless Iceborn Material",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/snowborn_heart_of_ignorance.png",
+      "nameFr": "Cœur-égarement des neiges"
     }
   ]
 }

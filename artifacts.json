@@ -8,7 +8,9 @@
     ],
     "image": "artifacts/a_day_carved_from_rising_winds.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Sacred Vault"
+    "domain": "Domain of Blessing: Sacred Vault",
+    "nameFr": "Journée sculptée par les vents ascendants",
+    "domainFr": "Donjon de la bénédiction : Butin sacré"
   },
   {
     "id": "adventurer",
@@ -20,7 +22,9 @@
     ],
     "image": "artifacts/adventurer.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Fires of Purification"
+    "domain": "Domain of Blessing: Fires of Purification",
+    "nameFr": "Aventurier",
+    "domainFr": "Donjon de la bénédiction : Flammes de purification"
   },
   {
     "id": "archaic_petra",
@@ -31,7 +35,9 @@
     ],
     "image": "artifacts/archaic_petra.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Spring"
+    "domain": "Domain of Blessing: Spring",
+    "nameFr": "Roche ancienne",
+    "domainFr": "Donjon de la bénédiction : Printemps"
   },
   {
     "id": "aubade_of_morningstar_and_moon",
@@ -42,7 +48,9 @@
     ],
     "image": "artifacts/aubade_of_morningstar_and_moon.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Sacred Vault"
+    "domain": "Domain of Blessing: Sacred Vault",
+    "nameFr": "Aubade d'astre et de lune",
+    "domainFr": "Donjon de la bénédiction : Butin sacré"
   },
   {
     "id": "berserker",
@@ -53,7 +61,9 @@
     ],
     "image": "artifacts/berserker.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Flower Feast"
+    "domain": "Domain of Blessing: Flower Feast",
+    "nameFr": "Berserker",
+    "domainFr": "Donjon de la bénédiction : Fête aux fleurs"
   },
   {
     "id": "blizzard_strayer",
@@ -64,7 +74,9 @@
     ],
     "image": "artifacts/blizzard_strayer.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Elegiac Rime"
+    "domain": "Domain of Blessing: Elegiac Rime",
+    "nameFr": "Briseur de glace",
+    "domainFr": "Donjon de la bénédiction : Neige funeste"
   },
   {
     "id": "bloodstained_chivalry",
@@ -75,7 +87,9 @@
     ],
     "image": "artifacts/bloodstained_chivalry.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Stone Chamber"
+    "domain": "Domain of Blessing: Stone Chamber",
+    "nameFr": "Chevalerie ensanglantée",
+    "domainFr": "Donjon de la bénédiction : Prison de roche"
   },
   {
     "id": "brave_heart",
@@ -86,7 +100,8 @@
     ],
     "image": "artifacts/brave_heart.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Cœur du Brave"
   },
   {
     "id": "celestial_gift",
@@ -97,7 +112,9 @@
     ],
     "image": "artifacts/celestial_gift.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Flower Feast"
+    "domain": "Domain of Blessing: Flower Feast",
+    "nameFr": "Don céleste",
+    "domainFr": "Donjon de la bénédiction : Fête aux fleurs"
   },
   {
     "id": "crimson_witch_of_flames",
@@ -108,7 +125,9 @@
     ],
     "image": "artifacts/crimson_witch_of_flames.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Roaring Fire"
+    "domain": "Domain of Blessing: Roaring Fire",
+    "nameFr": "Sorcière des flammes ardentes",
+    "domainFr": "Donjon de la bénédiction : Ardeur"
   },
   {
     "id": "deepwood_memories",
@@ -119,7 +138,9 @@
     ],
     "image": "artifacts/deepwood_memories.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Seven Senses"
+    "domain": "Domain of Blessing: Seven Senses",
+    "nameFr": "Souvenir de forêt",
+    "domainFr": "Donjon de la bénédiction : Sept sens"
   },
   {
     "id": "defenders_will",
@@ -130,7 +151,8 @@
     ],
     "image": "artifacts/defenders_will.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Cœur du Gardien"
   },
   {
     "id": "desert_pavilion_chronicle",
@@ -141,7 +163,9 @@
     ],
     "image": "artifacts/desert_pavilion_chronicle.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Desert Citadel"
+    "domain": "Domain of Blessing: Desert Citadel",
+    "nameFr": "Chronique du Pavillon du désert",
+    "domainFr": "Donjon de la bénédiction : Citadelle du désert"
   },
   {
     "id": "disenchantment_in_deep_shadow",
@@ -152,7 +176,9 @@
     ],
     "image": "artifacts/disenchantment_in_deep_shadow.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Flower Feast"
+    "domain": "Domain of Blessing: Flower Feast",
+    "nameFr": "Désenchantement dans l'ombre profonde",
+    "domainFr": "Donjon de la bénédiction : Fête aux fleurs"
   },
   {
     "id": "echoes_of_an_offering",
@@ -163,7 +189,9 @@
     ],
     "image": "artifacts/echoes_of_an_offering.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Machine Nest"
+    "domain": "Domain of Blessing: Machine Nest",
+    "nameFr": "Échos d'une offrande",
+    "domainFr": "Donjon de la bénédiction : Nid mécanique"
   },
   {
     "id": "emblem_of_severed_fate",
@@ -174,7 +202,9 @@
     ],
     "image": "artifacts/emblem_of_severed_fate.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Autumn Hunt"
+    "domain": "Domain of Blessing: Autumn Hunt",
+    "nameFr": "Emblème du destin brisé",
+    "domainFr": "Donjon de la bénédiction : Chasse aux feuilles d'érable"
   },
   {
     "id": "finale_of_the_deep_galleries",
@@ -185,7 +215,9 @@
     ],
     "image": "artifacts/finale_of_the_deep_galleries.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Deepfire Construct"
+    "domain": "Domain of Blessing: Deepfire Construct",
+    "nameFr": "Finale des galeries profondes",
+    "domainFr": "Donjon de la bénédiction : Construction enflammée"
   },
   {
     "id": "flower_of_paradise_lost",
@@ -196,7 +228,9 @@
     ],
     "image": "artifacts/flower_of_paradise_lost.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Desert Citadel"
+    "domain": "Domain of Blessing: Desert Citadel",
+    "nameFr": "Fleur du paradis perdu",
+    "domainFr": "Donjon de la bénédiction : Citadelle du désert"
   },
   {
     "id": "fragment_of_harmonic_whimsy",
@@ -207,7 +241,9 @@
     ],
     "image": "artifacts/fragment_of_harmonic_whimsy.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Variation"
+    "domain": "Domain of Blessing: Variation",
+    "nameFr": "Fragment d'harmonie divergente",
+    "domainFr": "Donjon de la bénédiction : Variation"
   },
   {
     "id": "gambler",
@@ -218,7 +254,8 @@
     ],
     "image": "artifacts/gambler.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Parieur"
   },
   {
     "id": "gilded_dreams",
@@ -229,7 +266,9 @@
     ],
     "image": "artifacts/gilded_dreams.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Seven Senses"
+    "domain": "Domain of Blessing: Seven Senses",
+    "nameFr": "Rêve doré",
+    "domainFr": "Donjon de la bénédiction : Sept sens"
   },
   {
     "id": "gladiators_finale",
@@ -240,7 +279,8 @@
     ],
     "image": "artifacts/gladiators_finale.png",
     "source": "boss",
-    "domain": null
+    "domain": null,
+    "nameFr": "Rideau du Gladiateur"
   },
   {
     "id": "golden_troupe",
@@ -251,7 +291,9 @@
     ],
     "image": "artifacts/golden_troupe.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Harmony"
+    "domain": "Domain of Blessing: Harmony",
+    "nameFr": "Troupe dorée",
+    "domainFr": "Donjon de la bénédiction : Harmonie"
   },
   {
     "id": "heart_of_depth",
@@ -262,7 +304,9 @@
     ],
     "image": "artifacts/heart_of_depth.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Elegiac Rime"
+    "domain": "Domain of Blessing: Elegiac Rime",
+    "nameFr": "Âme des profondeurs",
+    "domainFr": "Donjon de la bénédiction : Neige funeste"
   },
   {
     "id": "heart_of_the_furnace",
@@ -273,7 +317,9 @@
     ],
     "image": "artifacts/heart_of_the_furnace.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Ice Erosion"
+    "domain": "Domain of Blessing: Ice Erosion",
+    "nameFr": "Cœur de la fournaise",
+    "domainFr": "Donjon de la bénédiction : Érosion de glace"
   },
   {
     "id": "husk_of_opulent_dreams",
@@ -284,7 +330,9 @@
     ],
     "image": "artifacts/husk_of_opulent_dreams.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Necropolis"
+    "domain": "Domain of Blessing: Necropolis",
+    "nameFr": "Coquille des rêves opulents",
+    "domainFr": "Donjon de la bénédiction : Nécropole"
   },
   {
     "id": "instructor",
@@ -295,7 +343,9 @@
     ],
     "image": "artifacts/instructor.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Sacred Vault"
+    "domain": "Domain of Blessing: Sacred Vault",
+    "nameFr": "Instructeur",
+    "domainFr": "Donjon de la bénédiction : Butin sacré"
   },
   {
     "id": "lavawalker",
@@ -306,7 +356,9 @@
     ],
     "image": "artifacts/lavawalker.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Roaring Fire"
+    "domain": "Domain of Blessing: Roaring Fire",
+    "nameFr": "Marcheur du feu",
+    "domainFr": "Donjon de la bénédiction : Ardeur"
   },
   {
     "id": "long_nights_oath",
@@ -317,7 +369,9 @@
     ],
     "image": "artifacts/long_nights_oath.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Deepfire Construct"
+    "domain": "Domain of Blessing: Deepfire Construct",
+    "nameFr": "Serment de la longue nuit",
+    "domainFr": "Donjon de la bénédiction : Construction enflammée"
   },
   {
     "id": "lucky_dog",
@@ -329,7 +383,9 @@
     ],
     "image": "artifacts/lucky_dog.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Spring"
+    "domain": "Domain of Blessing: Spring",
+    "nameFr": "Chanceux",
+    "domainFr": "Donjon de la bénédiction : Printemps"
   },
   {
     "id": "maiden_beloved",
@@ -340,7 +396,9 @@
     ],
     "image": "artifacts/maiden_beloved.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Dance of Steel"
+    "domain": "Domain of Blessing: Dance of Steel",
+    "nameFr": "Amour chéri",
+    "domainFr": "Donjon de la bénédiction : Danse du métal"
   },
   {
     "id": "marechaussee_hunter",
@@ -351,7 +409,9 @@
     ],
     "image": "artifacts/marechaussee_hunter.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Harmony"
+    "domain": "Domain of Blessing: Harmony",
+    "nameFr": "Chasseur de la Maréchaussée",
+    "domainFr": "Donjon de la bénédiction : Harmonie"
   },
   {
     "id": "martial_artist",
@@ -362,7 +422,8 @@
     ],
     "image": "artifacts/martial_artist.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Artiste martial"
   },
   {
     "id": "night_of_the_skys_unveiling",
@@ -373,7 +434,9 @@
     ],
     "image": "artifacts/night_of_the_skys_unveiling.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Derivations From the Deep"
+    "domain": "Domain of Blessing: Derivations From the Deep",
+    "nameFr": "Nuit de la révélation céleste",
+    "domainFr": "Donjon de la bénédiction : Dérivations des profondeurs"
   },
   {
     "id": "nighttime_whispers_in_the_echoing_woods",
@@ -384,7 +447,9 @@
     ],
     "image": "artifacts/nighttime_whispers_in_the_echoing_woods.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Crumbling Assembly"
+    "domain": "Domain of Blessing: Crumbling Assembly",
+    "nameFr": "Murmure nocturne en forêt d'échos",
+    "domainFr": "Donjon de la bénédiction : Assemblée déliquescente"
   },
   {
     "id": "noblesse_oblige",
@@ -395,7 +460,9 @@
     ],
     "image": "artifacts/noblesse_oblige.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Stone Chamber"
+    "domain": "Domain of Blessing: Stone Chamber",
+    "nameFr": "Ancien rituel royal",
+    "domainFr": "Donjon de la bénédiction : Prison de roche"
   },
   {
     "id": "nymphs_dream",
@@ -406,7 +473,9 @@
     ],
     "image": "artifacts/nymphs_dream.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Forsaken Rampart"
+    "domain": "Domain of Blessing: Forsaken Rampart",
+    "nameFr": "Rêve de la nymphe",
+    "domainFr": "Donjon de la bénédiction : Frontière oubliée"
   },
   {
     "id": "obsidian_codex",
@@ -417,7 +486,9 @@
     ],
     "image": "artifacts/obsidian_codex.png",
     "source": "domain",
-    "domain": "Domain of Blessing: The Burning Gauntlet"
+    "domain": "Domain of Blessing: The Burning Gauntlet",
+    "nameFr": "Codex d'obsidienne",
+    "domainFr": "Donjon de la bénédiction : Flammes dévorantes"
   },
   {
     "id": "ocean_hued_clam",
@@ -428,7 +499,9 @@
     ],
     "image": "artifacts/ocean_hued_clam.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Necropolis"
+    "domain": "Domain of Blessing: Necropolis",
+    "nameFr": "Palourde aux teintes océaniques",
+    "domainFr": "Donjon de la bénédiction : Nécropole"
   },
   {
     "id": "pale_flame",
@@ -439,7 +512,9 @@
     ],
     "image": "artifacts/pale_flame.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Unyielding"
+    "domain": "Domain of Blessing: Unyielding",
+    "nameFr": "Flamme blême",
+    "domainFr": "Donjon de la bénédiction : Inflexible"
   },
   {
     "id": "prayers_for_destiny",
@@ -450,7 +525,8 @@
     ],
     "image": "artifacts/prayers_for_destiny.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Sacrifieur Hydro"
   },
   {
     "id": "prayers_for_illumination",
@@ -461,7 +537,8 @@
     ],
     "image": "artifacts/prayers_for_illumination.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Sacrifieur Pyro"
   },
   {
     "id": "prayers_for_wisdom",
@@ -472,7 +549,8 @@
     ],
     "image": "artifacts/prayers_for_wisdom.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Sacrifieur Électro"
   },
   {
     "id": "prayers_to_springtime",
@@ -483,7 +561,8 @@
     ],
     "image": "artifacts/prayers_to_springtime.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Sacrifieur Cryo"
   },
   {
     "id": "resolution_of_sojourner",
@@ -494,7 +573,8 @@
     ],
     "image": "artifacts/resolution_of_sojourner.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Cœur du Voyageur"
   },
   {
     "id": "retracing_bolide",
@@ -505,7 +585,9 @@
     ],
     "image": "artifacts/retracing_bolide.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Spring"
+    "domain": "Domain of Blessing: Spring",
+    "nameFr": "Météore inversé",
+    "domainFr": "Donjon de la bénédiction : Printemps"
   },
   {
     "id": "scarlet_proof",
@@ -516,7 +598,9 @@
     ],
     "image": "artifacts/scarlet_proof.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Ice Erosion"
+    "domain": "Domain of Blessing: Ice Erosion",
+    "nameFr": "Preuve écarlate",
+    "domainFr": "Donjon de la bénédiction : Érosion de glace"
   },
   {
     "id": "scholar",
@@ -527,7 +611,8 @@
     ],
     "image": "artifacts/scholar.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Érudit"
   },
   {
     "id": "scroll_of_the_hero_of_cinder_city",
@@ -538,7 +623,9 @@
     ],
     "image": "artifacts/scroll_of_the_hero_of_cinder_city.png",
     "source": "domain",
-    "domain": "Domain of Blessing: The Burning Gauntlet"
+    "domain": "Domain of Blessing: The Burning Gauntlet",
+    "nameFr": "Parchemin du héros de la Cité de braise",
+    "domainFr": "Donjon de la bénédiction : Flammes dévorantes"
   },
   {
     "id": "shimenawas_reminiscence",
@@ -549,7 +636,9 @@
     ],
     "image": "artifacts/shimenawas_reminiscence.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Autumn Hunt"
+    "domain": "Domain of Blessing: Autumn Hunt",
+    "nameFr": "Réminiscence nostalgique",
+    "domainFr": "Donjon de la bénédiction : Chasse aux feuilles d'érable"
   },
   {
     "id": "silken_moons_serenade",
@@ -560,7 +649,9 @@
     ],
     "image": "artifacts/silken_moons_serenade.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Derivations From the Deep"
+    "domain": "Domain of Blessing: Derivations From the Deep",
+    "nameFr": "Sérénade de la lune soyeuse",
+    "domainFr": "Donjon de la bénédiction : Dérivations des profondeurs"
   },
   {
     "id": "song_of_days_past",
@@ -571,7 +662,9 @@
     ],
     "image": "artifacts/song_of_days_past.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Crumbling Assembly"
+    "domain": "Domain of Blessing: Crumbling Assembly",
+    "nameFr": "Chanson des jours d'antan",
+    "domainFr": "Donjon de la bénédiction : Assemblée déliquescente"
   },
   {
     "id": "tenacity_of_the_millelith",
@@ -582,7 +675,9 @@
     ],
     "image": "artifacts/tenacity_of_the_millelith.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Unyielding"
+    "domain": "Domain of Blessing: Unyielding",
+    "nameFr": "Ténacité du Millelithe",
+    "domainFr": "Donjon de la bénédiction : Inflexible"
   },
   {
     "id": "the_exile",
@@ -593,7 +688,8 @@
     ],
     "image": "artifacts/the_exile.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Exilé"
   },
   {
     "id": "thundering_fury",
@@ -604,7 +700,9 @@
     ],
     "image": "artifacts/thundering_fury.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Fires of Purification"
+    "domain": "Domain of Blessing: Fires of Purification",
+    "nameFr": "Colère de tonnerre",
+    "domainFr": "Donjon de la bénédiction : Flammes de purification"
   },
   {
     "id": "thundersoother",
@@ -615,7 +713,9 @@
     ],
     "image": "artifacts/thundersoother.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Fires of Purification"
+    "domain": "Domain of Blessing: Fires of Purification",
+    "nameFr": "Dompteur de foudre",
+    "domainFr": "Donjon de la bénédiction : Flammes de purification"
   },
   {
     "id": "tiny_miracle",
@@ -626,7 +726,8 @@
     ],
     "image": "artifacts/tiny_miracle.png",
     "source": "domain",
-    "domain": null
+    "domain": null,
+    "nameFr": "Miracle"
   },
   {
     "id": "traveling_doctor",
@@ -638,7 +739,9 @@
     ],
     "image": "artifacts/traveling_doctor.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Dance of Steel"
+    "domain": "Domain of Blessing: Dance of Steel",
+    "nameFr": "Médecin itinérant",
+    "domainFr": "Donjon de la bénédiction : Danse du métal"
   },
   {
     "id": "unfinished_reverie",
@@ -649,7 +752,9 @@
     ],
     "image": "artifacts/unfinished_reverie.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Variation"
+    "domain": "Domain of Blessing: Variation",
+    "nameFr": "Rêverie incomplète",
+    "domainFr": "Donjon de la bénédiction : Variation"
   },
   {
     "id": "vermillion_hereafter",
@@ -660,7 +765,9 @@
     ],
     "image": "artifacts/vermillion_hereafter.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Machine Nest"
+    "domain": "Domain of Blessing: Machine Nest",
+    "nameFr": "Au-delà cinabrin",
+    "domainFr": "Donjon de la bénédiction : Nid mécanique"
   },
   {
     "id": "viridescent_venerer",
@@ -671,7 +778,9 @@
     ],
     "image": "artifacts/viridescent_venerer.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Dance of Steel"
+    "domain": "Domain of Blessing: Dance of Steel",
+    "nameFr": "Ombre de la Verte Chasseuse",
+    "domainFr": "Donjon de la bénédiction : Danse du métal"
   },
   {
     "id": "vourukashas_glow",
@@ -682,7 +791,9 @@
     ],
     "image": "artifacts/vourukashas_glow.png",
     "source": "domain",
-    "domain": "Domain of Blessing: Forsaken Rampart"
+    "domain": "Domain of Blessing: Forsaken Rampart",
+    "nameFr": "Lueur du vourukasha",
+    "domainFr": "Donjon de la bénédiction : Frontière oubliée"
   },
   {
     "id": "wanderers_troupe",
@@ -693,6 +804,7 @@
     ],
     "image": "artifacts/wanderers_troupe.png",
     "source": "boss",
-    "domain": null
+    "domain": null,
+    "nameFr": "Bande vagabonde"
   }
 ]

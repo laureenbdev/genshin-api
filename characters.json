@@ -59,6 +59,21 @@
         }
     },
     {
+        "id": "alyosha",
+        "name": "Alyosha",
+        "rarity": 4,
+        "element": "electro",
+        "weapon": "polearm",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Severed Tail of the Sky-Roamer",
+            "local_speciality": "Flockingweed",
+            "common_enemy_drops": "Aberrant Chimeric Monster Material",
+            "talent_books": "Fortitude",
+            "weekly_boss_drops": "Elixir of the Heretic"
+        }
+    },
+    {
         "id": "amber",
         "name": "Amber",
         "rarity": 4,
@@ -629,6 +644,21 @@
         }
     },
     {
+        "id": "illuga",
+        "name": "Illuga",
+        "rarity": 4,
+        "element": "geo",
+        "weapon": "polearm",
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Cyclic Military Kuuvahki Core",
+            "local_speciality": "Pine Amber",
+            "common_enemy_drops": "Landcruiser Material",
+            "talent_books": "Elysium",
+            "weekly_boss_drops": "Eroded Horn"
+        }
+    },
+    {
         "id": "ineffa",
         "name": "Ineffa",
         "rarity": 5,
@@ -899,6 +929,21 @@
         }
     },
     {
+        "id": "linnea",
+        "name": "Linnea",
+        "rarity": 5,
+        "element": "geo",
+        "weapon": "bow",
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Plume of the Fallen Watcher",
+            "local_speciality": "Etherwing Moth",
+            "common_enemy_drops": "Fatui Oprichniki Material",
+            "talent_books": "Vagrancy",
+            "weekly_boss_drops": "Elixir of the Heretic"
+        }
+    },
+    {
         "id": "lisa",
         "name": "Lisa",
         "rarity": 4,
@@ -911,6 +956,21 @@
             "common_enemy_drops": "Slime Material",
             "talent_books": "Ballad",
             "weekly_boss_drops": "Dvalin's Claw"
+        }
+    },
+    {
+        "id": "lohen",
+        "name": "Lohen",
+        "rarity": 5,
+        "element": "cryo",
+        "weapon": "polearm",
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Prismatic Severed Tail",
+            "local_speciality": "Etherwing Moth",
+            "common_enemy_drops": "Hilichurl Shooter Material",
+            "talent_books": "Resistance",
+            "weekly_boss_drops": "Ascended Sample: Knight"
         }
     },
     {
@@ -971,6 +1031,21 @@
             "common_enemy_drops": "Fatui Skirmisher Material",
             "talent_books": "Ballad",
             "weekly_boss_drops": "Mirror of Mushin"
+        }
+    },
+    {
+        "id": "mitya",
+        "name": "Mitya",
+        "rarity": 5,
+        "element": "electro",
+        "weapon": "catalyst",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Shattered Stability Anchor",
+            "local_speciality": "Kristallfold",
+            "common_enemy_drops": "Aberrant Chimeric Monster Material",
+            "talent_books": "Charity",
+            "weekly_boss_drops": "Mask of the Virtuous Doctor"
         }
     },
     {
@@ -1064,6 +1139,21 @@
         }
     },
     {
+        "id": "nicole",
+        "name": "Nicole",
+        "rarity": 5,
+        "element": "pyro",
+        "weapon": "catalyst",
+        "region": "Hexenzirkel",
+        "ascension_materials": {
+            "boss_drops": "Remnant of the Dreadwing",
+            "local_speciality": "Pine Amber",
+            "common_enemy_drops": "Fatui Oprichniki Material",
+            "talent_books": "Elysium",
+            "weekly_boss_drops": "Counterfeit Resin"
+        }
+    },
+    {
         "id": "nilou",
         "name": "Nilou",
         "rarity": 5,
@@ -1109,6 +1199,21 @@
         }
     },
     {
+        "id": "odette",
+        "name": "Odette",
+        "rarity": 5,
+        "element": "cryo",
+        "weapon": "sword",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Unscorched Blossom Branch",
+            "local_speciality": "Frostfairy Flower",
+            "common_enemy_drops": "Fae of Crystalline Flesh Material",
+            "talent_books": "Charity",
+            "weekly_boss_drops": "Twisted Withered Branch"
+        }
+    },
+    {
         "id": "ororon",
         "name": "Ororon",
         "rarity": 4,
@@ -1121,6 +1226,21 @@
             "common_enemy_drops": "Natlan Saurian Material",
             "talent_books": "Kindling",
             "weekly_boss_drops": "Lightless Silk String"
+        }
+    },
+    {
+        "id": "prune",
+        "name": "Prune",
+        "rarity": 4,
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Radiant Antler",
+            "local_speciality": "Winter Icelea",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Resistance",
+            "weekly_boss_drops": "Mask of the Virtuous Doctor"
         }
     },
     {
@@ -1181,6 +1301,21 @@
             "common_enemy_drops": "Fatui Skirmisher Material",
             "talent_books": "Ballad",
             "weekly_boss_drops": "Shadow of the Warrior"
+        }
+    },
+    {
+        "id": "sandrone",
+        "name": "Sandrone",
+        "rarity": 5,
+        "element": "cryo",
+        "weapon": "claymore",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Plume of the Fallen Watcher",
+            "local_speciality": "Subdetection Unit",
+            "common_enemy_drops": "Landcruiser Material",
+            "talent_books": "Vagrancy",
+            "weekly_boss_drops": "Madman's Restraint"
         }
     },
     {
@@ -1348,6 +1483,21 @@
         }
     },
     {
+        "id": "valeriy",
+        "name": "Valeriy",
+        "rarity": 4,
+        "element": "electro",
+        "weapon": "sword",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Severed Tail of the Sky-Roamer",
+            "local_speciality": "Fairy Wormwood",
+            "common_enemy_drops": "Fae of Crystalline Flesh Material",
+            "talent_books": "Glory",
+            "weekly_boss_drops": "Counterfeit Resin"
+        }
+    },
+    {
         "id": "varesa",
         "name": "Varesa",
         "rarity": 5,
@@ -1363,6 +1513,21 @@
         }
     },
     {
+        "id": "varka",
+        "name": "Varka",
+        "rarity": 5,
+        "element": "anemo",
+        "weapon": "claymore",
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Prismatic Severed Tail",
+            "local_speciality": "Wolfhook",
+            "common_enemy_drops": "Landcruiser Material",
+            "talent_books": "Freedom",
+            "weekly_boss_drops": "Ascended Sample: Rook"
+        }
+    },
+    {
         "id": "venti",
         "name": "Venti",
         "rarity": 5,
@@ -1375,6 +1540,36 @@
             "common_enemy_drops": "Slime Material",
             "talent_books": "Ballad",
             "weekly_boss_drops": "Tail of Boreas"
+        }
+    },
+    {
+        "id": "vesna",
+        "name": "Vesna",
+        "rarity": 5,
+        "element": "anemo",
+        "weapon": "sword",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Vagabond's Cracked Armor",
+            "local_speciality": "Golden Fern",
+            "common_enemy_drops": "Fae of Crystalline Flesh Material",
+            "talent_books": "Glory",
+            "weekly_boss_drops": "Profaned Sprout"
+        }
+    },
+    {
+        "id": "vodyanitsa",
+        "name": "Vodyanitsa",
+        "rarity": 5,
+        "element": "hydro",
+        "weapon": "catalyst",
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Unscorched Blossom Branch",
+            "local_speciality": "Frostfairy Flower",
+            "common_enemy_drops": "Aberrant Chimeric Monster Material",
+            "talent_books": "Fortitude",
+            "weekly_boss_drops": "Madman's Restraint"
         }
     },
     {
@@ -1615,6 +1810,21 @@
             "common_enemy_drops": "Slime Material",
             "talent_books": "Gold",
             "weekly_boss_drops": "Tusk of Monoceros Caeli"
+        }
+    },
+    {
+        "id": "zibai",
+        "name": "Zibai",
+        "rarity": 5,
+        "element": "geo",
+        "weapon": "sword",
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Remnant of the Dreadwing",
+            "local_speciality": "Glaze Lily",
+            "common_enemy_drops": "Fatui Oprichniki Material",
+            "talent_books": "Gold",
+            "weekly_boss_drops": "Ascended Sample: Queen"
         }
     }
 ]

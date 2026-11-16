@@ -105,6 +105,36 @@ Artifact sets with rarity, source (`domain` or `boss`) and an image path.
 https://raw.githubusercontent.com/meihwg/genshin-api/main/artifacts.json
 ```
 
+#### Achievements
+**Endpoint:** `achievements.json`
+
+Every achievement, grouped by the in-game series. Each series has an English name, a French name and an icon. Each achievement has a name and description in both languages, the count required to complete it, the primogem reward and the version that added it. Tiers of the same achievement share a `chain` id. `rewardImage` is the primogem icon.
+
+**Example:**
+```
+https://raw.githubusercontent.com/meihwg/genshin-api/main/achievements.json
+```
+
+#### Quests
+**Endpoint:** `quests.json`
+
+Quests grouped the way the quest menu does: Archon quests, story quests, hangouts, world quests, commissions and event quests. Each chapter has an English and French name, the act label when there is one, the region or character it belongs to, and the chapter icon. Each quest inside it has a name, a description and, when the game grants them, primogems, Mora and adventure experience. `rewardImage` is the primogem icon.
+
+**Example:**
+```
+https://raw.githubusercontent.com/meihwg/genshin-api/main/quests.json
+```
+
+#### Viewpoints
+**Endpoint:** `viewpoints.json`
+
+Every viewpoint in the Archive, grouped by nation and then by region. Each nation has an English name, a French name and its chapter icon. Each region does the same. A viewpoint has a name, a description and, when the spot is more precise than the region, a place, all in English and French. `image` is the in-game scenery photo.
+
+**Example:**
+```
+https://raw.githubusercontent.com/meihwg/genshin-api/main/viewpoints.json
+```
+
 ### Images
 
 **Base URL for Images:**
@@ -123,11 +153,17 @@ https://raw.githubusercontent.com/Eticeo/genshin-api/main/images/characters/albe
 https://raw.githubusercontent.com/Eticeo/genshin-api/main/images/characters/raiden_shogun.png
 ```
 
-Material and artifact icons use the path stored on each entry:
+Other images use the path stored on each entry:
 
 ```
 https://raw.githubusercontent.com/meihwg/genshin-api/main/images/materials/philosophies_of_ballad.png
 https://raw.githubusercontent.com/meihwg/genshin-api/main/images/artifacts/gladiators_finale.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/achievements/wonders_of_the_world.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/achievements/primogem.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/quests/mengde.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/quests/primogem.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/viewpoints/mondstadt.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/viewpoints/the_city_of_wind.png
 ```
 
 ## Usage Examples
