@@ -24,7 +24,7 @@ This API is made by Mei, a french web developer.
 
 This API was made for my website (under construction) La Taverne de Jade.
 
-**Link:** [https://meihwg.github.io/genshin/](https://meihwg.github.io/genshin/)
+**Link:** [https://meihwg.github.io/genshin/](https://meihwg.github.io/taverne-de-jade/)
 
 **Discord:** [https://discord.gg/Urwmqt9jgK](https://discord.gg/Urwmqt9jgK)
 
@@ -83,6 +83,28 @@ Contains comprehensive weapon data including:
 https://raw.githubusercontent.com/meihwg/genshin-api/main/weapons.json
 ```
 
+#### Materials
+**Endpoint:** `materials.json`
+
+Farmable resources used by the planner. Each item has a name, rarity, family (the same label as in `characters.json` / `weapons.json`), a source (`domain`, `boss`, `weekly`, `leyline` or `overworld`), the weekday rotation when it comes from a domain, a resin cost, and an image path.
+
+The file also lists character EXP between ascension levels, and the World Level 8 yields used to estimate the minimum resin (60 000 Mora or 5 Hero's Wit per ley line, 2 Philosophies per talent run, 1 highest weapon stone per forgery run, 3 world-boss drops, 2 weekly-boss drops).
+
+**Example:**
+```
+https://raw.githubusercontent.com/meihwg/genshin-api/main/materials.json
+```
+
+#### Artifacts
+**Endpoint:** `artifacts.json`
+
+Artifact sets with rarity, source (`domain` or `boss`) and an image path.
+
+**Example:**
+```
+https://raw.githubusercontent.com/meihwg/genshin-api/main/artifacts.json
+```
+
 ### Images
 
 **Base URL for Images:**
@@ -99,6 +121,13 @@ Get character portrait images using the character's ID from the characters.json 
 ```
 https://raw.githubusercontent.com/Eticeo/genshin-api/main/images/characters/albedo.png
 https://raw.githubusercontent.com/Eticeo/genshin-api/main/images/characters/raiden_shogun.png
+```
+
+Material and artifact icons use the path stored on each entry:
+
+```
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/materials/philosophies_of_ballad.png
+https://raw.githubusercontent.com/meihwg/genshin-api/main/images/artifacts/gladiators_finale.png
 ```
 
 ## Usage Examples

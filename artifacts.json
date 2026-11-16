@@ -1,0 +1,698 @@
+[
+  {
+    "id": "a_day_carved_from_rising_winds",
+    "name": "A Day Carved From Rising Winds",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/a_day_carved_from_rising_winds.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Sacred Vault"
+  },
+  {
+    "id": "adventurer",
+    "name": "Adventurer",
+    "rarities": [
+      1,
+      2,
+      3
+    ],
+    "image": "artifacts/adventurer.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Fires of Purification"
+  },
+  {
+    "id": "archaic_petra",
+    "name": "Archaic Petra",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/archaic_petra.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Spring"
+  },
+  {
+    "id": "aubade_of_morningstar_and_moon",
+    "name": "Aubade of Morningstar and Moon",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/aubade_of_morningstar_and_moon.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Sacred Vault"
+  },
+  {
+    "id": "berserker",
+    "name": "Berserker",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/berserker.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Flower Feast"
+  },
+  {
+    "id": "blizzard_strayer",
+    "name": "Blizzard Strayer",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/blizzard_strayer.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Elegiac Rime"
+  },
+  {
+    "id": "bloodstained_chivalry",
+    "name": "Bloodstained Chivalry",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/bloodstained_chivalry.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Stone Chamber"
+  },
+  {
+    "id": "brave_heart",
+    "name": "Brave Heart",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/brave_heart.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "celestial_gift",
+    "name": "Celestial Gift",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/celestial_gift.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Flower Feast"
+  },
+  {
+    "id": "crimson_witch_of_flames",
+    "name": "Crimson Witch of Flames",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/crimson_witch_of_flames.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Roaring Fire"
+  },
+  {
+    "id": "deepwood_memories",
+    "name": "Deepwood Memories",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/deepwood_memories.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Seven Senses"
+  },
+  {
+    "id": "defenders_will",
+    "name": "Defender's Will",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/defenders_will.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "desert_pavilion_chronicle",
+    "name": "Desert Pavilion Chronicle",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/desert_pavilion_chronicle.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Desert Citadel"
+  },
+  {
+    "id": "disenchantment_in_deep_shadow",
+    "name": "Disenchantment in Deep Shadow",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/disenchantment_in_deep_shadow.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Flower Feast"
+  },
+  {
+    "id": "echoes_of_an_offering",
+    "name": "Echoes of an Offering",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/echoes_of_an_offering.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Machine Nest"
+  },
+  {
+    "id": "emblem_of_severed_fate",
+    "name": "Emblem of Severed Fate",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/emblem_of_severed_fate.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Autumn Hunt"
+  },
+  {
+    "id": "finale_of_the_deep_galleries",
+    "name": "Finale of the Deep Galleries",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/finale_of_the_deep_galleries.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Deepfire Construct"
+  },
+  {
+    "id": "flower_of_paradise_lost",
+    "name": "Flower of Paradise Lost",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/flower_of_paradise_lost.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Desert Citadel"
+  },
+  {
+    "id": "fragment_of_harmonic_whimsy",
+    "name": "Fragment of Harmonic Whimsy",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/fragment_of_harmonic_whimsy.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Variation"
+  },
+  {
+    "id": "gambler",
+    "name": "Gambler",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/gambler.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "gilded_dreams",
+    "name": "Gilded Dreams",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/gilded_dreams.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Seven Senses"
+  },
+  {
+    "id": "gladiators_finale",
+    "name": "Gladiator's Finale",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/gladiators_finale.png",
+    "source": "boss",
+    "domain": null
+  },
+  {
+    "id": "golden_troupe",
+    "name": "Golden Troupe",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/golden_troupe.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Harmony"
+  },
+  {
+    "id": "heart_of_depth",
+    "name": "Heart of Depth",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/heart_of_depth.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Elegiac Rime"
+  },
+  {
+    "id": "heart_of_the_furnace",
+    "name": "Heart of the Furnace",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/heart_of_the_furnace.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Ice Erosion"
+  },
+  {
+    "id": "husk_of_opulent_dreams",
+    "name": "Husk of Opulent Dreams",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/husk_of_opulent_dreams.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Necropolis"
+  },
+  {
+    "id": "instructor",
+    "name": "Instructor",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/instructor.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Sacred Vault"
+  },
+  {
+    "id": "lavawalker",
+    "name": "Lavawalker",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/lavawalker.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Roaring Fire"
+  },
+  {
+    "id": "long_nights_oath",
+    "name": "Long Night's Oath",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/long_nights_oath.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Deepfire Construct"
+  },
+  {
+    "id": "lucky_dog",
+    "name": "Lucky Dog",
+    "rarities": [
+      1,
+      2,
+      3
+    ],
+    "image": "artifacts/lucky_dog.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Spring"
+  },
+  {
+    "id": "maiden_beloved",
+    "name": "Maiden Beloved",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/maiden_beloved.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Dance of Steel"
+  },
+  {
+    "id": "marechaussee_hunter",
+    "name": "Marechaussee Hunter",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/marechaussee_hunter.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Harmony"
+  },
+  {
+    "id": "martial_artist",
+    "name": "Martial Artist",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/martial_artist.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "night_of_the_skys_unveiling",
+    "name": "Night of the Sky's Unveiling",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/night_of_the_skys_unveiling.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Derivations From the Deep"
+  },
+  {
+    "id": "nighttime_whispers_in_the_echoing_woods",
+    "name": "Nighttime Whispers in the Echoing Woods",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/nighttime_whispers_in_the_echoing_woods.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Crumbling Assembly"
+  },
+  {
+    "id": "noblesse_oblige",
+    "name": "Noblesse Oblige",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/noblesse_oblige.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Stone Chamber"
+  },
+  {
+    "id": "nymphs_dream",
+    "name": "Nymph's Dream",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/nymphs_dream.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Forsaken Rampart"
+  },
+  {
+    "id": "obsidian_codex",
+    "name": "Obsidian Codex",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/obsidian_codex.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: The Burning Gauntlet"
+  },
+  {
+    "id": "ocean_hued_clam",
+    "name": "Ocean-Hued Clam",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/ocean_hued_clam.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Necropolis"
+  },
+  {
+    "id": "pale_flame",
+    "name": "Pale Flame",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/pale_flame.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Unyielding"
+  },
+  {
+    "id": "prayers_for_destiny",
+    "name": "Prayers for Destiny",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/prayers_for_destiny.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "prayers_for_illumination",
+    "name": "Prayers for Illumination",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/prayers_for_illumination.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "prayers_for_wisdom",
+    "name": "Prayers for Wisdom",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/prayers_for_wisdom.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "prayers_to_springtime",
+    "name": "Prayers to Springtime",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/prayers_to_springtime.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "resolution_of_sojourner",
+    "name": "Resolution of Sojourner",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/resolution_of_sojourner.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "retracing_bolide",
+    "name": "Retracing Bolide",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/retracing_bolide.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Spring"
+  },
+  {
+    "id": "scarlet_proof",
+    "name": "Scarlet Proof",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/scarlet_proof.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Ice Erosion"
+  },
+  {
+    "id": "scholar",
+    "name": "Scholar",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/scholar.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "scroll_of_the_hero_of_cinder_city",
+    "name": "Scroll of the Hero of Cinder City",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/scroll_of_the_hero_of_cinder_city.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: The Burning Gauntlet"
+  },
+  {
+    "id": "shimenawas_reminiscence",
+    "name": "Shimenawa's Reminiscence",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/shimenawas_reminiscence.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Autumn Hunt"
+  },
+  {
+    "id": "silken_moons_serenade",
+    "name": "Silken Moon's Serenade",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/silken_moons_serenade.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Derivations From the Deep"
+  },
+  {
+    "id": "song_of_days_past",
+    "name": "Song of Days Past",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/song_of_days_past.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Crumbling Assembly"
+  },
+  {
+    "id": "tenacity_of_the_millelith",
+    "name": "Tenacity of the Millelith",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/tenacity_of_the_millelith.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Unyielding"
+  },
+  {
+    "id": "the_exile",
+    "name": "The Exile",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/the_exile.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "thundering_fury",
+    "name": "Thundering Fury",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/thundering_fury.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Fires of Purification"
+  },
+  {
+    "id": "thundersoother",
+    "name": "Thundersoother",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/thundersoother.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Fires of Purification"
+  },
+  {
+    "id": "tiny_miracle",
+    "name": "Tiny Miracle",
+    "rarities": [
+      3,
+      4
+    ],
+    "image": "artifacts/tiny_miracle.png",
+    "source": "domain",
+    "domain": null
+  },
+  {
+    "id": "traveling_doctor",
+    "name": "Traveling Doctor",
+    "rarities": [
+      1,
+      2,
+      3
+    ],
+    "image": "artifacts/traveling_doctor.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Dance of Steel"
+  },
+  {
+    "id": "unfinished_reverie",
+    "name": "Unfinished Reverie",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/unfinished_reverie.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Variation"
+  },
+  {
+    "id": "vermillion_hereafter",
+    "name": "Vermillion Hereafter",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/vermillion_hereafter.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Machine Nest"
+  },
+  {
+    "id": "viridescent_venerer",
+    "name": "Viridescent Venerer",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/viridescent_venerer.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Dance of Steel"
+  },
+  {
+    "id": "vourukashas_glow",
+    "name": "Vourukasha's Glow",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/vourukashas_glow.png",
+    "source": "domain",
+    "domain": "Domain of Blessing: Forsaken Rampart"
+  },
+  {
+    "id": "wanderers_troupe",
+    "name": "Wanderer's Troupe",
+    "rarities": [
+      4,
+      5
+    ],
+    "image": "artifacts/wanderers_troupe.png",
+    "source": "boss",
+    "domain": null
+  }
+]
