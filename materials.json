@@ -1,6 +1,8 @@
 {
   "resinImage": "materials/original_resin.png",
+  "fragileResinImage": "materials/fragile_resin.png",
   "weaponOreImage": "materials/mystic_enhancement_ore.png",
+  "fortunaImage": "materials/masterless_stella_fortuna.png",
   "resinPerDay": 180,
   "craftRatio": 3,
   "assumptions": {
@@ -3855,6 +3857,22 @@
       "nameFr": "Mora",
       "familyFr": "Mora",
       "sourceNameFr": "Fleur de la fortune"
+    },
+    {
+      "id": "masterless_stella_fortuna",
+      "name": "Masterless Stella Fortuna",
+      "family": "Masterless Stella Fortuna",
+      "rarity": 5,
+      "tier": null,
+      "kind": "fortuna",
+      "source": "overworld",
+      "sourceName": "",
+      "days": [],
+      "resin": 0,
+      "dropMax": 0,
+      "image": "materials/masterless_stella_fortuna.png",
+      "nameFr": "Stella Fortuna orpheline",
+      "familyFr": "Stella Fortuna orpheline"
     },
     {
       "id": "vayuda_turquoise_sliver",
