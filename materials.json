@@ -1,6 +1,6 @@
 {
   "resinImage": "materials/original_resin.png",
-  "fragileResinImage": "materials/fragile_resin.png",
+  "condensedResinImage": "materials/condensed_resin.png",
   "weaponOreImage": "materials/mystic_enhancement_ore.png",
   "fortunaImage": "materials/masterless_stella_fortuna.png",
   "resinPerDay": 180,
